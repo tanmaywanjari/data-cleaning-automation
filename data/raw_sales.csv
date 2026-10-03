@@ -1,0 +1,1556 @@
+Order_ID,Order_Date,Customer_Name,Product,Category,Quantity,Unit_Price,Region,Payment_Method,Status,Email
+ORD01475,2025-10-19,Li Wei,Jacket,Apparel,2.0,$117.55,East ,Cash,Completed,li.wei@example.com
+ORD00382,12/29/2025,Emma Brown,Laptop,Electronics,5.0,868.8,east,Debit Card,Completed,emma.brown@example.com
+ORD00676,05-Sep-2026,Aarav Mehta,Notebook,Stationery,1.0,$8.65,South,Debit Card,Completed,
+ORD00194,2026-05-15,Priya Nair,Pen Pack,Stationery,1.0,$14.25,West,UPI ,Completed,priya.nair@example.com
+ORD00690,27-Aug-2026,MARIA GARCIA,Phone,Electronics,5.0,$623.18,North,credit card,Completed,maria.garcia@example.com
+ORD00374,22-Apr-2026,Aarav Mehta,Laptop,Electronics,5.0,$901.11,West,CC,Completed,aarav.mehta@example.com
+ORD00569,18-Dec-2025,John Smith,Pen Pack,Stationery,1.0,14.13,North,Cash,Completed,john.smith@example.com
+ORD01044,17-Sep-2026,omar ali,Desk,Furniture,1.0,334.86,West,Debit Card,Completed,omar.ali@example.com
+ORD00305,2025-07-09,Nina Patel,Jacket,Apparel,2.0,$110.19,East,Credit Card,Completed,nina.patel@example.com
+ORD00071,04-Jun-2025,SARA KHAN,Sneakers,Apparel,5.0,82.62,West,UPI,Completed,sara.khan@example.com
+ORD00627,08/11/2025,Sara Khan,Sneakers,Apparel,4.0,81.04,East ,Cash,Returned,sara.khan@example.com
+ORD00189,22-Feb-2025,Rahul Verma,Notebook,Stationery,4.0,$7.72,West,Credit Card,Done,rahul.verma@example.com
+ORD00860,02/16/2026,Nina Patel,Sneakers,Apparel,3.0,72.16,North,Credit Card,Completed,nina.patel@example.com
+ORD00289,2026-01-26,Li Wei,Chair,Furniture,3.0,$174.96,north,UPI,Cancelled,li.wei@example.com
+ORD01048,06/03/2026,Aarav Mehta,Jacket,Apparel,3.0,129.67,North,UPI,Done,aarav.mehta@example.com
+ORD00633,2025-06-09,Maria Garcia,Pen Pack,Stationery,5.0,13.61,West,Cash,Completed,maria.garcia@example.com
+ORD00822,27-Aug-2025,Maria Garcia,Sneakers,Apparel,5.0,,North,Cash,Returned,maria.garcia@example.com
+ORD00950,2026-04-21,Aarav Mehta,Sneakers,Apparel,2.0,78.15,West,Debit Card,Completed,aarav.mehta@example.com
+ORD00510,04/23/2026,  John Smith ,Chair,Furniture,5.0,169.05,South,Credit Card,Completed,john.smith@example.com
+ORD00769,12/15/2025,Rahul Verma,Headphones,Electronics,5.0,108.05,East,Credit Card,Completed,rahul.verma@example.com
+ORD00318,08/17/2025,Emma Brown,Pen Pack,Stationery,4.0,13.98,West ,Credit Card,Returned,emma.brown@example.com
+ORD00291,01/14/2026,,Phone,Electronics,3.0,,South,UPI,Completed,nina.patel@example.com
+ORD00086,10-Aug-2025,Omar Ali,Phone,Electronics,1.0,608.85,W.,Cash,cancelled,omar.ali@example.com
+ORD01213,2026-09-04,Priya Nair,Desk,Furniture,2.0,$304.08,N.,Cash,Completed,priya.nair@example.com
+ORD01150,19-Jun-2025,Emma Brown,Notebook,Stationery,3.0,7.47,West,Cash,Returned,emma.brown@example.com
+ORD01309,10/03/2025,Sara Khan,Notebook,Stationery,4.0,8.59,West,Credit-Card,Completed,sara.khan@example.com
+ORD00200,02/05/2026,OMAR ALI,Notebook,Stationery,3.0,$8.11,South,Credit Card,Completed,omar.ali@example.com
+ORD00917,2026-06-13,  Sara Khan ,Jacket,Apparel,5.0,124.56,South,Cash,Completed,sara.khan@example.com
+ORD00505,08/09/2025,Priya Nair,Pen Pack,Stationery,4.0,$15.22,West,Cash,Completed,priya.nair@example.com
+ORD01120,2025-04-26,  Maria Garcia ,Notebook,Stationery,1.0,7.53,South,Debit Card,completed,maria.garcia@example.com
+ORD00169,2026-08-22,omar ali,Pen Pack,Stationery,3.0,15.68,West,Cash,Completed,omar.ali@example.com
+ORD01055,04/20/2025,Rahul Verma,Notebook,Stationery,2.0,,South ,Credit Card,Cancelled,rahul.verma@example.com
+ORD00680,2026-02-25,Rahul Verma,Notebook,Stationery,4.0,$7.46,West,UPI,Completed,rahul.verma@example.com
+ORD00051,18-Aug-2026,Nina Patel,Laptop,Electronics,4.0,$948.75,West,Credit Card,Cancelled,nina.patel@example.com
+ORD00070,2025-10-03,Maria Garcia,Desk,Furniture,2.0,348.4,S.,UPI,cancelled,maria.garcia@example.com
+ORD01140,2025-09-11,Omar Ali,Desk,Furniture,,$349.37,West,Debit Card,completed,omar.ali@example.com
+ORD00948,18-Oct-2025,Maria Garcia,Phone,Electronics,3.0,611.62,West ,Credit Card,returned,maria.garcia@example.com
+ORD01415,04/15/2025,Priya Nair,Phone,Electronics,4.0,$680.28,South,upi,Completed,priya.nair@example.com
+ORD01457,2025-02-10,,Chair,Furniture,4.0,$181.87,N.,Debit Card,Done,omar.ali@example.com
+ORD01414,04/23/2026,maria garcia,Jacket,Apparel,1.0,115.17,South,UPI,Completed,maria.garcia@example.com
+ORD00378,2026-05-17,priya nair,Desk,Furniture,2.0,$295.32,East,Debit Card,cancelled,priya.nair@example.com
+ORD01386,2025-06-21,john smith,Sneakers,Apparel,4.0,76.55,west,Credit Card,Completed,john.smith@example.com
+ORD00638,19-Jan-2026,,Notebook,Stationery,,8.63,North,Cash,Completed,priya.nair@example.com
+ORD00350,2026-05-17,RAHUL VERMA,Phone,Electronics,1.0,603.15,North,Credit Card,Completed,rahul.verma@example.com
+ORD01196,18-Apr-2025,Emma Brown,Phone,Electronics,5.0,625.47,East,Credit-Card,Completed,emma.brown@example.com
+ORD00465,02/05/2026,Nina Patel,Pen Pack,Stationery,3.0,$16.17,South,UPI,Completed,nina.patel@example.com
+ORD01086,11/04/2025,Omar Ali,Headphones,Electronics,3.0,$112.59,East,cash,Completed,omar.ali@example.com
+ORD01037,2026-06-19,Emma Brown,Headphones,Electronics,1.0,113.06,North,Debit Card,Completed,emma.brown@example.com
+ORD00017,2026-04-28,Rahul Verma,Sneakers,Apparel,3.0,76.97,West,Cash,Completed,rahul.verma@example.com
+ORD00816,08/23/2026,Emma Brown,Sneakers,Apparel,1.0,$84.62,South,Debit Card,Completed,emma.brown@example.com
+ORD01083,16-Aug-2025,priya nair,Sneakers,Apparel,5.0,74.85,North,Debit Card,Completed,priya.nair@example.com
+ORD01152,2026-01-17,Maria Garcia,Pen Pack,Stationery,4.0,,East ,CASH,Completed,maria.garcia@example.com
+ORD00634,01/12/2025,Emma Brown,Laptop,Electronics,4.0,841.02,North,Cash,Completed,emma.brown@example.com
+ORD01153,29-Jun-2026,  Aarav Mehta ,Headphones,Electronics,2.0,114.27,West,Credit Card,Completed,
+ORD00170,2025-10-07,Priya Nair,Notebook,Stationery,2.0,7.38,east,CC,Returned,priya.nair@example.com
+ORD01128,27-Apr-2026,Li Wei,Desk,Furniture,3.0,$296.58,SOUTH,Debit Card,Completed,li.wei@example.com
+ORD01405,07/06/2025,Priya Nair,Phone,Electronics,4.0,638.15,West,UPI,Completed,priya.nair@example.com
+ORD00104,03/19/2026,Maria Garcia,Jacket,Apparel,,$117.10,West,Cash,returned,maria.garcia@example.com
+ORD00930,16-Apr-2025,,Pen Pack,Stationery,2.0,$15.06,North,Credit Card,Completed,emma.brown@example.com
+ORD01072,03/07/2025,Priya Nair,Phone,Electronics,5.0,660.86,South,UPI ,Completed,priya.nair@example.com
+ORD01183,2025-01-28,Nina Patel,Desk,Furniture,2.0,298.56,North,Cash,Completed,nina.patel@example.com
+ORD00938,07-Apr-2025,Li Wei,Pen Pack,Stationery,2.0,15.53,South,Credit Card,Completed,li.wei@example.com
+ORD00138,28-Jul-2026,Omar Ali,Headphones,Electronics,4.0,$114.82,NORTH,Debit Card,Completed,omar.ali@example.com
+ORD00032,05/20/2026,Priya Nair,Sneakers,Apparel,4.0,87.4,West,Debit Card,Returned,priya.nair@example.com
+ORD00319,2026-08-18,,Pen Pack,Stationery,3.0,$13.65,West,Cash,returned,john.smith@example.com
+ORD00333,21-Sep-2025,Rahul Verma,Notebook,Stationery,,7.24,N.,UPI,returned,rahul.verma@example.com
+ORD01268,2025-12-28,Priya Nair,Laptop,Electronics,3.0,887.45,North,Debit Card,completed,priya.nair@example.com
+ORD00472,20-Feb-2025,RAHUL VERMA,Desk,Furniture,3.0,,South,Cash,Done,rahul.verma@example.com
+ORD01032,03/20/2026,Sara Khan,Phone,Electronics,3.0,623.42,West,Credit Card,Completed,sara.khan@example.com
+ORD00704,03/17/2026,Li Wei,Pen Pack,Stationery,1.0,$13.86,West,CC,Completed,li.wei@example.com
+ORD00084,09-May-2025,SARA KHAN,Pen Pack,Stationery,1.0,$15.73,north,UPI,Completed,sara.khan@example.com
+ORD00476,20-Aug-2025,PRIYA NAIR,Notebook,Stationery,4.0,7.52,West,UPI,Completed,priya.nair@example.com
+ORD01313,2025-08-09,  Rahul Verma ,Chair,Furniture,1.0,155.83,east,Credit Card,Returned,rahul.verma@example.com
+ORD00675,07/03/2026,Li Wei,Sneakers,Apparel,4.0,75.26,North,Credit Card,Completed,li.wei@example.com
+ORD00709,2025-04-04,Omar Ali,Desk,Furniture,3.0,326.1,North,Debit Card,Completed,omar.ali@example.com
+ORD00363,15-Nov-2025,Aarav Mehta,Headphones,Electronics,4.0,,North,Cash,Completed,aarav.mehta@example.com
+ORD01440,11-Dec-2025,SARA KHAN,Notebook,Stationery,2.0,$8.41,South,Cash,Completed,sara.khan@example.com
+ORD01350,2026-07-14,rahul verma,Jacket,Apparel,2.0,123.13,SOUTH,Debit Card,Completed,rahul.verma@example.com
+ORD00978,2025-01-04,Maria Garcia,Jacket,Apparel,4.0,$120.12,,Debit Card,completed,maria.garcia@example.com
+ORD00981,05/15/2025,Sara Khan,Pen Pack,Stationery,2.0,14.31,South,Debit Card,Completed,sara.khan@example.com
+ORD00265,22-Feb-2025,Sara Khan,Pen Pack,Stationery,4.0,$14.69,South,Credit Card,Completed,sara.khan@example.com
+ORD00741,26-Jul-2026,Maria Garcia,Notebook,Stationery,5.0,7.67,East,Cash,Completed,maria.garcia@example.com
+ORD00912,03/09/2026,Priya Nair,Pen Pack,Stationery,4.0,14.89,East,UPI,cancelled,priya.nair@example.com
+ORD00264,16-Mar-2025,Maria Garcia,Jacket,Apparel,3.0,127.0,North,Credit Card,Returned,maria.garcia@example.com
+ORD00205,2025-11-04,Sara Khan,Jacket,Apparel,5.0,$127.68,North ,Credit-Card,Completed,sara.khan@example.com
+ORD01323,2026-05-05,Omar Ali,Pen Pack,Stationery,1.0,15.56,West,UPI,Cancelled,omar.ali@example.com
+ORD00329,07-Dec-2025,Omar Ali,Laptop,Electronics,3.0,$898.47,West,UPI,Cancelled,omar.ali@example.com
+ORD00643,14-Jan-2026,maria garcia,Laptop,Electronics,1.0,822.99,South,Credit Card,cancelled,maria.garcia@example.com
+ORD01342,27-Jun-2026,Aarav Mehta,Laptop,Electronics,5.0,$885.77,East,Credit Card,Completed,aarav.mehta@example.com
+ORD01260,11/27/2025,SARA KHAN,Sneakers,Apparel,1.0,76.92,North,UPI,Completed,sara.khan@example.com
+ORD00563,2025-05-22,  Sara Khan ,Headphones,Electronics,1.0,,North ,upi,Completed,
+ORD00904,14-Oct-2025,Emma Brown,Laptop,Electronics,1.0,822.32,South,Credit Card,Cancelled,emma.brown@example.com
+ORD00062,10/26/2025,Rahul Verma,Notebook,Stationery,3.0,7.45,East,Debit Card,Cancelled,rahul.verma@example.com
+ORD00819,28-Jan-2026,Sara Khan,Jacket,Apparel,5.0,$112.37,East,Debit Card,Completed,sara.khan@example.com
+ORD00038,2026-06-07,Sara Khan,Notebook,Stationery,2.0,8.07,north,Credit Card,Completed,sara.khan@example.com
+ORD00893,2026-05-06,Omar Ali,Desk,Furniture,2.0,304.95,SOUTH,UPI,Completed,omar.ali@example.com
+ORD01036,2025-01-27,Aarav Mehta,Chair,Furniture,4.0,178.93,South,Debit Card,Completed,aarav.mehta@example.com
+ORD00954,09/03/2025,Emma Brown,Pen Pack,Stationery,2.0,$14.52,West,Cash,Completed,emma.brown@example.com
+ORD01461,2026-01-14,Aarav Mehta,Jacket,Apparel,3.0,$110.54,West,UPI,Completed,aarav.mehta@example.com
+ORD00587,11/30/2025,Priya Nair,Headphones,Electronics,2.0,120.23,West,UPI,cancelled,priya.nair@example.com
+ORD00593,2026-06-30,Li Wei,Jacket,Apparel,4.0,$116.04,West,Credit Card,COMPLETED,li.wei@example.com
+ORD00949,12-Nov-2025,EMMA BROWN,Sneakers,Apparel,2.0,86.58,North,Credit Card,Returned,emma.brown@example.com
+ORD00698,11-Jan-2025,Emma Brown,Headphones,Electronics,3.0,107.21,,Credit Card,Completed,emma.brown@example.com
+ORD00805,02/23/2025,Sara Khan,Desk,Furniture,2.0,338.73,S.,Credit Card,COMPLETED,sara.khan@example.com
+ORD00823,10/16/2025,Li Wei,Notebook,Stationery,-1.0,$8.22,East,Cash,Completed,li.wei@example.com
+ORD00982,2026-07-08,PRIYA NAIR,Desk,Furniture,5.0,309.08,West,UPI ,Completed,priya.nair@example.com
+ORD00198,04/06/2025,Omar Ali,Laptop,Electronics,4.0,886.83,West,Credit Card,Completed,omar.ali@example.com
+ORD00005,13-Jan-2026,Rahul Verma,Headphones,Electronics,3.0,$112.15,East,Cash,Completed,rahul.verma@example.com
+ORD01377,2026-05-22,Omar Ali,Notebook,Stationery,3.0,8.49,EAST,UPI,Completed,omar.ali@example.com
+ORD00745,24-Feb-2026,  Li Wei ,Desk,Furniture,2.0,332.22,east,Cash,Completed,li.wei@example.com
+ORD00887,2025-04-16,MARIA GARCIA,Jacket,Apparel,3.0,120.11,South,UPI,Completed,maria.garcia@example.com
+ORD00615,2025-02-28,Maria Garcia,Chair,Furniture,5.0,$154.95,North,Debit Card,Completed,maria.garcia@example.com
+ORD00260,09/10/2025,Sara Khan,Laptop,Electronics,,974.25,West,Credit Card,Completed,sara.khan@example.com
+ORD01054,10/07/2025,Li Wei,Chair,Furniture,1.0,$177.91,North,Debit Card,Completed,li.wei@example.com
+ORD00807,06/22/2025,Maria Garcia,Pen Pack,Stationery,3.0,15.81,,UPI,Completed,maria.garcia@example.com
+ORD00778,05/22/2026,Sara Khan,Pen Pack,Stationery,1.0,$15.27,,Debit Card,completed,sara.khan@example.com
+ORD00494,2025-01-29,Maria Garcia,Pen Pack,Stationery,1.0,13.55,West,Cash,Completed,
+ORD00304,07-Sep-2025,aarav mehta,Phone,Electronics,,$692.75,South,Credit-Card,Completed,aarav.mehta@example.com
+ORD00317,09-Jul-2025,Emma Brown,Desk,Furniture,5.0,320.76,West,Cash,Returned,emma.brown@example.com
+ORD01266,05/06/2025,Maria Garcia,Desk,Furniture,4.0,$297.66,East,Debit Card,cancelled,maria.garcia@example.com
+ORD00344,2025-01-19,Aarav Mehta,Pen Pack,Stationery,4.0,$15.78,East ,Credit-Card,Cancelled,aarav.mehta@example.com
+ORD00491,2026-07-09,Aarav Mehta,Sneakers,Apparel,4.0,$76.30,South ,cash,Completed,aarav.mehta@example.com
+ORD00891,18-Feb-2026,Omar Ali,Phone,Electronics,4.0,599.05,East,Debit Card,Completed,
+ORD00734,08-Jun-2025,Maria Garcia,Jacket,Apparel,4.0,$112.77,S.,UPI,Completed,maria.garcia@example.com
+ORD00586,2026-07-31,Li Wei,Pen Pack,Stationery,2.0,14.03,East,UPI,Completed,li.wei@example.com
+ORD01138,06/28/2026,  Priya Nair ,Headphones,Electronics,5.0,$113.48,East,Debit Card,Cancelled,priya.nair@example.com
+ORD00358,07/11/2025,Priya Nair,Headphones,Electronics,4.0,106.36,West,Debit Card,Completed,priya.nair@example.com
+ORD00479,04/30/2026,Sara Khan,Phone,Electronics,4.0,610.81,N.,UPI,Completed,sara.khan@example.com
+ORD00721,26-May-2025,Emma Brown,Sneakers,Apparel,5.0,$74.84,East ,Credit Card,Completed,emma.brown@example.com
+ORD00624,15-Jan-2026,Emma Brown,Headphones,Electronics,5.0,113.32,North,UPI,Completed,emma.brown@example.com
+ORD01435,06/09/2026,Emma Brown,Notebook,Stationery,2.0,8.26,south,Credit Card,Cancelled,emma.brown@example.com
+ORD00478,21-Nov-2025,john smith,Pen Pack,Stationery,1.0,$13.97,EAST,UPI,Completed,john.smith@example.com
+ORD00230,12-Feb-2026,  Maria Garcia ,Sneakers,Apparel,1.0,$77.70,South,Debit Card,Completed,maria.garcia@example.com
+ORD00911,15-Mar-2025,John Smith,Desk,Furniture,5.0,,south,Debit Card,Completed,john.smith@example.com
+ORD00632,19-May-2026,Li Wei,Headphones,Electronics,1.0,$101.39,south,Cash,Completed,li.wei@example.com
+ORD01110,08/11/2025,Sara Khan,Sneakers,Apparel,3.0,$87.10,,Credit Card,completed,sara.khan@example.com
+ORD01090,2026-02-01,Priya Nair,Desk,Furniture,4.0,322.16,north,Debit Card,Completed,priya.nair@example.com
+ORD01062,06/26/2026,Sara Khan,Laptop,Electronics,5.0,973.38,South ,CASH,Completed,sara.khan@example.com
+ORD00100,2026-09-30,Sara Khan,Chair,Furniture,,183.65,South,Debit Card,Completed,sara.khan@example.com
+ORD00945,04/19/2026,Priya Nair,Sneakers,Apparel,4.0,$74.98,North,Debit Card,Completed,priya.nair@example.com
+ORD00555,03/28/2026,Omar Ali,Headphones,Electronics,5.0,116.84,East,UPI,Completed,omar.ali@example.com
+ORD00871,2026-10-01,Nina Patel,Chair,Furniture,5.0,$167.82,WEST,Credit Card,completed,nina.patel@example.com
+ORD01470,23-Apr-2026,Omar Ali,Phone,Electronics,3.0,702.36,North,Credit Card,Completed,omar.ali@example.com
+ORD00698,11-Jan-2025,Emma Brown,Headphones,Electronics,3.0,107.21,,Credit Card,Completed,emma.brown@example.com
+ORD01193,07-Jul-2025,omar ali,Desk,Furniture,-1.0,302.72,West,Cash,Completed,omar.ali@example.com
+ORD00322,2025-07-05,Priya Nair,Pen Pack,Stationery,5.0,,W.,Debit Card,Completed,priya.nair@example.com
+ORD00141,25-Sep-2025,omar ali,Notebook,Stationery,4.0,8.23,East,UPI ,Completed,omar.ali@example.com
+ORD00996,11/29/2025,emma brown,Sneakers,Apparel,2.0,72.95,S.,Credit Card,Completed,emma.brown@example.com
+ORD01148,01/12/2025,PRIYA NAIR,Phone,Electronics,4.0,589.53,East,Credit Card,Completed,priya.nair@example.com
+ORD01370,07/09/2026,Aarav Mehta,Laptop,Electronics,4.0,918.86,North,Credit Card,Completed,aarav.mehta@example.com
+ORD01363,19-Jun-2026,Emma Brown,Phone,Electronics,1.0,$633.78,South,Cash,Completed,emma.brown@example.com
+ORD00939,05/05/2026,Aarav Mehta,Jacket,Apparel,4.0,$110.67,West ,Credit Card,Completed,aarav.mehta@example.com
+ORD00501,27-Apr-2025,Nina Patel,Sneakers,Apparel,4.0,87.78,North ,UPI,Completed,nina.patel@example.com
+ORD01482,03/20/2025,  Nina Patel ,Phone,Electronics,3.0,651.78,West,Cash,Returned,nina.patel@example.com
+ORD00843,2025-11-05,Omar Ali,Headphones,Electronics,3.0,$111.60,south,Cash,Completed,omar.ali@example.com
+ORD01263,09/03/2025,NINA PATEL,Laptop,Electronics,2.0,969.22,East,upi,Completed,nina.patel@example.com
+ORD00820,2025-09-05,Omar Ali,Pen Pack,Stationery,4.0,$14.49,North,Debit Card,Completed,omar.ali@example.com
+ORD01303,2026-07-22,Omar Ali,Notebook,Stationery,1.0,7.83,South,Cash,Completed,omar.ali@example.com
+ORD00459,2025-02-21,  Nina Patel ,Sneakers,Apparel,4.0,85.28,EAST,Debit Card,Completed,nina.patel@example.com
+ORD00880,12-Jun-2025,Aarav Mehta,Sneakers,Apparel,5.0,84.43,West,Credit Card,Completed,aarav.mehta@example.com
+ORD00598,09/12/2025,Li Wei,Notebook,Stationery,2.0,7.67,North,Credit Card,Completed,li.wei@example.com
+ORD01184,10/11/2025,Aarav Mehta,Sneakers,Apparel,5.0,$81.90,South ,Cash,Completed,aarav.mehta@example.com
+ORD01298,04/27/2026,Rahul Verma,Phone,Electronics,2.0,$652.80,North,Cash,Completed,rahul.verma@example.com
+ORD00944,2025-08-20,Omar Ali,Notebook,Stationery,5.0,$7.70,south,UPI,Completed,omar.ali@example.com
+ORD01199,11/05/2025,Li Wei,Chair,Furniture,4.0,179.42,East,UPI,Completed,li.wei@example.com
+ORD00233,01-Jan-2025,Priya Nair,Sneakers,Apparel,4.0,83.02,West,Debit Card,Completed,priya.nair@example.com
+ORD00693,2026-05-05,priya nair,Pen Pack,Stationery,5.0,15.87,,Credit Card,Completed,priya.nair@example.com
+ORD01277,27-Mar-2026,aarav mehta,Jacket,Apparel,3.0,108.52,South,Debit Card,Completed,aarav.mehta@example.com
+ORD00657,07/16/2025,SARA KHAN,Desk,Furniture,5.0,320.75,West,cash,Done,sara.khan@example.com
+ORD00222,2025-06-06,Li Wei,Chair,Furniture,5.0,$185.75,North,UPI,Completed,li.wei@example.com
+ORD00875,02/14/2026,Aarav Mehta,Desk,Furniture,2.0,351.79,East,UPI,Completed,aarav.mehta@example.com
+ORD00500,08/09/2026,Priya Nair,Desk,Furniture,3.0,331.08,East,Debit Card,cancelled,priya.nair@example.com
+ORD00240,2025-05-29,  Nina Patel ,Desk,Furniture,3.0,$294.04,E.,UPI ,Cancelled,nina.patel@example.com
+ORD01241,01/17/2026,  Li Wei ,Chair,Furniture,2.0,164.03,west,CC,Returned,li.wei@example.com
+ORD00267,2026-08-06,Aarav Mehta,Sneakers,Apparel,1.0,72.82,West,Cash,Completed,aarav.mehta@example.com
+ORD00943,2025-08-22,Aarav Mehta,Pen Pack,Stationery,4.0,$14.61,east,upi,cancelled,aarav.mehta@example.com
+ORD01338,03/14/2025,Li Wei,Jacket,Apparel,4.0,111.41,N.,Debit Card,cancelled,li.wei@example.com
+ORD00356,04/29/2026,Rahul Verma,Chair,Furniture,1.0,$175.37,North,Cash,Completed,rahul.verma@example.com
+ORD00578,2025-01-21,Rahul Verma,Phone,Electronics,2.0,633.34,west,UPI,Cancelled,rahul.verma@example.com
+ORD01107,03/12/2026,Emma Brown,Notebook,Stationery,2.0,8.27,West ,UPI,Completed,emma.brown@example.com
+ORD00132,06-May-2025,  Priya Nair ,Headphones,Electronics,1.0,103.24,East,CC,Completed,priya.nair@example.com
+ORD00270,2026-09-09,Li Wei,Phone,Electronics,1.0,691.07,North,Credit-Card,Completed,li.wei@example.com
+ORD00195,29-Dec-2025,EMMA BROWN,Headphones,Electronics,4.0,119.46,North ,upi,Completed,emma.brown@example.com
+ORD00499,02/07/2025,Nina Patel,Sneakers,Apparel,4.0,78.87,West ,Cash,Completed,nina.patel@example.com
+ORD00566,2025-11-09,Maria Garcia,Desk,Furniture,2.0,340.26,west,Credit Card,returned,maria.garcia@example.com
+ORD00171,2026-05-11,  Emma Brown ,Jacket,Apparel,5.0,108.35,East,Cash,Completed,emma.brown@example.com
+ORD00458,2025-06-13,emma brown,Headphones,Electronics,4.0,$105.18,East,UPI ,Completed,
+ORD01334,04-Nov-2025,john smith,Phone,Electronics,5.0,598.5,North,Credit Card,Returned,john.smith@example.com
+ORD00952,2026-05-31,Emma Brown,Desk,Furniture,4.0,293.79,West,Credit Card,Completed,emma.brown@example.com
+ORD00426,2025-11-24,Aarav Mehta,Notebook,Stationery,4.0,,S.,UPI,Returned,aarav.mehta@example.com
+ORD00881,19-Jul-2026,Sara Khan,Notebook,Stationery,2.0,7.63,south,UPI,cancelled,sara.khan@example.com
+ORD00647,2025-01-22,aarav mehta,Phone,Electronics,4.0,$605.87,South,Credit Card,Completed,aarav.mehta@example.com
+ORD00639,2025-01-02,EMMA BROWN,Notebook,Stationery,1.0,$7.35,South,UPI,Completed,emma.brown@example.com
+ORD00269,03/12/2026,Emma Brown,Pen Pack,Stationery,1.0,$13.89,West,credit card,Done,emma.brown@example.com
+ORD00122,01/16/2025,Rahul Verma,Notebook,Stationery,3.0,8.73,South,Debit Card,Completed,rahul.verma@example.com
+ORD00457,11-Jul-2025,  Li Wei ,Jacket,Apparel,2.0,$110.06,East,Debit Card,Cancelled,
+ORD00826,2025-09-10,  John Smith ,Pen Pack,Stationery,5.0,$14.28,West,Credit Card,Returned,john.smith@example.com
+ORD00158,20-May-2025,John Smith,Laptop,Electronics,2.0,$892.78,North,Cash,Cancelled,john.smith@example.com
+ORD00217,15-Dec-2025,Rahul Verma,Headphones,Electronics,2.0,108.12,NORTH,Debit Card,Completed,rahul.verma@example.com
+ORD00430,04/20/2025,Aarav Mehta,Notebook,Stationery,2.0,7.87,West,UPI,returned,aarav.mehta@example.com
+ORD01235,2025-10-16,John Smith,Sneakers,Apparel,4.0,87.14,South,UPI ,Returned,john.smith@example.com
+ORD00199,12/22/2025,Maria Garcia,Notebook,Stationery,1.0,8.06,East,Credit Card,Completed,maria.garcia@example.com
+ORD00248,12-Feb-2026,Maria Garcia,Jacket,Apparel,,120.6,North,credit card,Completed,maria.garcia@example.com
+ORD00066,23-Feb-2025,  Omar Ali ,Notebook,Stationery,4.0,7.59,North,Credit-Card,Completed,omar.ali@example.com
+ORD01222,2026-02-19,OMAR ALI,Chair,Furniture,4.0,$167.45,,Credit Card,Completed,omar.ali@example.com
+ORD00351,2025-07-08,  John Smith ,Notebook,Stationery,3.0,8.6,North ,UPI,Completed,john.smith@example.com
+ORD00575,2025-10-20,Emma Brown,Pen Pack,Stationery,,15.53,north,UPI,Completed,emma.brown@example.com
+ORD00028,2025-06-26,Omar Ali,Chair,Furniture,4.0,176.11,North,Debit Card,Completed,omar.ali@example.com
+ORD00797,2026-07-06,  Rahul Verma ,Chair,Furniture,2.0,157.34,West,Debit Card,Completed,rahul.verma@example.com
+ORD00108,22-Jan-2025,Nina Patel,Notebook,Stationery,,7.54,East,Cash,Completed,nina.patel@example.com
+ORD00731,04/24/2026,  Nina Patel ,Notebook,Stationery,5.0,8.43,East,Cash,Completed,nina.patel@example.com
+ORD00211,12-Dec-2025,LI WEI,Laptop,Electronics,2.0,$949.85,East ,UPI,Returned,li.wei@example.com
+ORD00151,08/25/2026,,Desk,Furniture,2.0,$289.39,South,Credit Card,Completed,emma.brown@example.com
+ORD00041,09/21/2026,Nina Patel,Phone,Electronics,2.0,711.06,east,Credit Card,Completed,
+ORD00294,2026-05-02,Aarav Mehta,Laptop,Electronics,3.0,882.31,South ,Cash,Completed,aarav.mehta@example.com
+ORD00738,06/03/2026,Aarav Mehta,Chair,Furniture,1.0,166.65,East ,CASH,Completed,aarav.mehta@example.com
+ORD01462,05/31/2026,Nina Patel,Sneakers,Apparel,4.0,76.96,West,Credit Card,Completed,nina.patel@example.com
+ORD00854,30-Apr-2025,Nina Patel,Pen Pack,Stationery,3.0,14.71,South,UPI,Completed,nina.patel@example.com
+ORD00980,2025-02-06,Maria Garcia,Chair,Furniture,4.0,$181.78,South ,Cash,cancelled,maria.garcia@example.com
+ORD00902,2026-04-08,Aarav Mehta,Sneakers,Apparel,3.0,$80.35,west,Debit Card,Completed,aarav.mehta@example.com
+ORD01127,26-Mar-2026,Aarav Mehta,Pen Pack,Stationery,1.0,14.85,South,Debit Card,Completed,aarav.mehta@example.com
+ORD01082,03/10/2025,Omar Ali,Chair,Furniture,4.0,$158.69,N.,Debit Card,Completed,omar.ali@example.com
+ORD00847,2025-07-31,Emma Brown,Phone,Electronics,1.0,587.21,East,Debit Card,Completed,emma.brown@example.com
+ORD00898,30-Dec-2025,Priya Nair,Laptop,Electronics,1.0,$919.95,West,UPI,Done,priya.nair@example.com
+ORD00473,08/02/2026,Nina Patel,Notebook,Stationery,1.0,$8.18,South,Debit Card,Completed,nina.patel@example.com
+ORD00523,2026-01-07,li wei,Sneakers,Apparel,1.0,83.01,East,UPI ,Returned,li.wei@example.com
+ORD01258,12/30/2025,SARA KHAN,Sneakers,Apparel,1.0,$74.39,North,UPI,cancelled,sara.khan@example.com
+ORD01480,2025-03-17,Sara Khan,Notebook,Stationery,2.0,8.33,West,Credit Card,Completed,sara.khan@example.com
+ORD01023,2025-03-13,Nina Patel,Notebook,Stationery,3.0,8.76,,Cash,Completed,nina.patel@example.com
+ORD00703,07/03/2026,Aarav Mehta,Pen Pack,Stationery,5.0,13.96,South,Cash,Returned,aarav.mehta@example.com
+ORD01168,02/22/2025,Sara Khan,Desk,Furniture,5.0,343.95,East,Credit Card,cancelled,sara.khan@example.com
+ORD01346,08/27/2025,Maria Garcia,Headphones,Electronics,3.0,$110.59,S.,Cash,completed,maria.garcia@example.com
+ORD00711,21-Mar-2026,Omar Ali,Chair,Furniture,5.0,$175.66,North,Debit Card,Completed,omar.ali@example.com
+ORD00004,2025-11-16,sara khan,Desk,Furniture,2.0,327.78,,Cash,Completed,sara.khan@example.com
+ORD00074,2026-03-07,Priya Nair,Laptop,Electronics,1.0,941.82,South,UPI,Completed,priya.nair@example.com
+ORD00916,08/03/2026,Rahul Verma,Headphones,Electronics,1.0,119.64,South ,Cash,Completed,rahul.verma@example.com
+ORD00810,2026-01-04,sara khan,Notebook,Stationery,3.0,$7.40,South,Credit Card,Completed,sara.khan@example.com
+ORD01381,2026-10-02,priya nair,Notebook,Stationery,4.0,8.49,West,Cash,Completed,priya.nair@example.com
+ORD00007,2026-04-01,Sara Khan,Notebook,Stationery,3.0,$7.46,West,Credit Card,Completed,sara.khan@example.com
+ORD00088,10/28/2025,Omar Ali,Headphones,Electronics,2.0,$105.99,WEST,UPI,Completed,omar.ali@example.com
+ORD01427,13-Jun-2026,Rahul Verma,Chair,Furniture,1.0,155.13,South,Debit Card,Returned,rahul.verma@example.com
+ORD00394,14-Nov-2025,Li Wei,Headphones,Electronics,2.0,$107.61,South,cash,Completed,li.wei@example.com
+ORD00549,24-Jul-2025,Maria Garcia,Phone,Electronics,2.0,677.72,West,Debit Card,Completed,maria.garcia@example.com
+ORD00357,03/04/2025,Emma Brown,Phone,Electronics,1.0,$616.99,,Cash,Completed,emma.brown@example.com
+ORD00149,08/19/2025,Li Wei,Notebook,Stationery,1.0,7.47,south,cash,Completed,li.wei@example.com
+ORD01066,01-Feb-2026,Priya Nair,Chair,Furniture,5.0,172.33,East,Debit Card,returned,priya.nair@example.com
+ORD00161,2025-11-02,Priya Nair,Phone,Electronics,2.0,619.49,EAST,CASH,Cancelled,priya.nair@example.com
+ORD01009,10-Jun-2026,Priya Nair,Jacket,Apparel,5.0,131.59,North,Debit Card,Completed,priya.nair@example.com
+ORD01357,11/22/2025,Li Wei,Desk,Furniture,1.0,316.46,East,Credit Card,Returned,
+ORD01220,03-Nov-2025,,Headphones,Electronics,4.0,$112.73,West,credit card,Completed,nina.patel@example.com
+ORD00516,04-Jan-2026,Aarav Mehta,Chair,Furniture,4.0,$156.79,South ,UPI ,cancelled,aarav.mehta@example.com
+ORD01390,2025-01-22,Maria Garcia,Headphones,Electronics,2.0,105.07,North,CC,completed,maria.garcia@example.com
+ORD01000,2026-05-26,John Smith,Sneakers,Apparel,3.0,$78.32,North,UPI,Completed,john.smith@example.com
+ORD00113,01/13/2025,Priya Nair,Jacket,Apparel,2.0,129.25,East,UPI ,Completed,
+ORD00417,04/29/2025,Nina Patel,Headphones,Electronics,1.0,99.65,North,Credit Card,Completed,
+ORD00082,01/22/2025,Aarav Mehta,Notebook,Stationery,4.0,8.09,East,UPI,Completed,
+ORD01296,04/04/2026,Nina Patel,Desk,Furniture,3.0,299.3,West,Credit Card,completed,nina.patel@example.com
+ORD00145,12-Mar-2026,Rahul Verma,Desk,Furniture,3.0,$304.69,North,Cash,Returned,rahul.verma@example.com
+ORD00987,16-Apr-2025,Maria Garcia,Phone,Electronics,4.0,698.58,South,Debit Card,Completed,maria.garcia@example.com
+ORD01387,18-Jan-2025,Omar Ali,Laptop,Electronics,5.0,$978.26,South,UPI,Completed,omar.ali@example.com
+ORD01071,2025-05-15,Omar Ali,Pen Pack,Stationery,3.0,16.15,East,CASH,Completed,omar.ali@example.com
+ORD01331,31-Jul-2025,John Smith,Jacket,Apparel,1.0,120.5,E.,CC,Completed,john.smith@example.com
+ORD01156,2026-09-05,Aarav Mehta,Chair,Furniture,3.0,185.71,E.,UPI,Done,aarav.mehta@example.com
+ORD00403,07/19/2026,john smith,Headphones,Electronics,5.0,104.48,South,Cash,Returned,john.smith@example.com
+ORD01215,13-Jul-2026,Priya Nair,Notebook,Stationery,,$8.48,north,Cash,Cancelled,priya.nair@example.com
+ORD01254,2025-06-12,sara khan,Chair,Furniture,5.0,168.55,east,Credit Card,Completed,sara.khan@example.com
+ORD00002,2025-03-24,Omar Ali,Laptop,Electronics,5.0,$815.43,,Credit Card,completed,omar.ali@example.com
+ORD00882,09/03/2026,Omar Ali,Headphones,Electronics,4.0,115.43,,CC,Completed,omar.ali@example.com
+ORD01102,2026-08-22,Nina Patel,Notebook,Stationery,1.0,$7.41,West,Credit Card,Completed,nina.patel@example.com
+ORD01188,17-Jun-2025,Rahul Verma,Pen Pack,Stationery,3.0,14.8,West,UPI,Returned,rahul.verma@example.com
+ORD01043,12/29/2025,emma brown,Laptop,Electronics,3.0,$978.41,N.,Credit Card,Done,emma.brown@example.com
+ORD01402,06/29/2026,,Phone,Electronics,4.0,648.63,west,Debit Card,Completed,sara.khan@example.com
+ORD00585,01/19/2026,NINA PATEL,Jacket,Apparel,1.0,119.32,NORTH,upi,Completed,nina.patel@example.com
+ORD01428,2026-05-27,Priya Nair,Sneakers,Apparel,2.0,81.33,North,UPI ,Completed,priya.nair@example.com
+ORD00714,2026-03-11,OMAR ALI,Chair,Furniture,4.0,,East,Cash,Completed,omar.ali@example.com
+ORD01111,29-Apr-2025,Omar Ali,Notebook,Stationery,3.0,8.31,West,Cash,Returned,omar.ali@example.com
+ORD00188,2025-12-16,Sara Khan,Headphones,Electronics,1.0,$103.96,South ,Credit Card,Completed,sara.khan@example.com
+ORD00567,2025-12-23,Emma Brown,Desk,Furniture,3.0,$327.78,South,Cash,Completed,emma.brown@example.com
+ORD00775,17-Jun-2026,John Smith,Notebook,Stationery,5.0,$8.25,West,Cash,Completed,john.smith@example.com
+ORD00960,02-Jul-2025,Rahul Verma,Pen Pack,Stationery,5.0,16.3,South,Cash,Completed,rahul.verma@example.com
+ORD01012,08/03/2026,Aarav Mehta,Laptop,Electronics,2.0,$972.53,East,UPI,Completed,aarav.mehta@example.com
+ORD00249,2025-04-14,John Smith,Phone,Electronics,2.0,701.3,East,Cash,Completed,
+ORD01162,12-Feb-2026,LI WEI,Headphones,Electronics,2.0,111.15,East,CASH,Completed,li.wei@example.com
+ORD01460,12/10/2025,Maria Garcia,Laptop,Electronics,1.0,$988.74,West,Cash,Completed,maria.garcia@example.com
+ORD00181,2026-09-19,Maria Garcia,Desk,Furniture,4.0,301.45,West,Cash,Completed,maria.garcia@example.com
+ORD00708,25-Nov-2025,Li Wei,Pen Pack,Stationery,1.0,$13.81,E.,CC,Completed,li.wei@example.com
+ORD00850,12/21/2025,nina patel,Pen Pack,Stationery,3.0,$14.41,North,upi,Completed,nina.patel@example.com
+ORD00466,17-Sep-2025,Rahul Verma,Sneakers,Apparel,3.0,$72.22,South,Credit Card,Cancelled,rahul.verma@example.com
+ORD00603,02/11/2025,Maria Garcia,Desk,Furniture,3.0,325.72,West,Credit Card,Completed,maria.garcia@example.com
+ORD01467,09/14/2026,  Emma Brown ,Phone,Electronics,5.0,$688.31,south,Debit Card,Done,emma.brown@example.com
+ORD00187,05-Jul-2025,RAHUL VERMA,Chair,Furniture,3.0,167.34,West,Debit Card,Returned,rahul.verma@example.com
+ORD01275,19-Jan-2025,John Smith,Sneakers,Apparel,4.0,$78.91,East,Cash,Completed,john.smith@example.com
+ORD00915,2026-05-24,rahul verma,Sneakers,Apparel,1.0,72.05,East,Credit Card,Completed,rahul.verma@example.com
+ORD01472,12/28/2025,Maria Garcia,Notebook,Stationery,5.0,,West,UPI,Completed,maria.garcia@example.com
+ORD00444,12/10/2025,Nina Patel,Laptop,Electronics,4.0,$849.82,South,Credit Card,Completed,nina.patel@example.com
+ORD00736,2025-01-14,Rahul Verma,Notebook,Stationery,2.0,$8.48,West,Credit Card,Completed,rahul.verma@example.com
+ORD01250,03/13/2026,PRIYA NAIR,Desk,Furniture,2.0,$315.94,West,Credit Card,cancelled,priya.nair@example.com
+ORD00167,2025-11-18,  Maria Garcia ,Laptop,Electronics,5.0,876.71,West ,UPI,Returned,maria.garcia@example.com
+ORD01113,2025-08-19,Nina Patel,Phone,Electronics,1.0,$669.71,NORTH,Credit Card,Completed,nina.patel@example.com
+ORD00087,04/11/2026,Nina Patel,Pen Pack,Stationery,1.0,15.82,East,Credit Card,Completed,nina.patel@example.com
+ORD00855,16-Mar-2026,Priya Nair,Phone,Electronics,1.0,666.41,East,Debit Card,Completed,priya.nair@example.com
+ORD01098,2025-03-10,Li Wei,Sneakers,Apparel,5.0,82.41,North,UPI,Completed,li.wei@example.com
+ORD00401,20-Jun-2026,  Omar Ali ,Chair,Furniture,4.0,167.32,N.,Credit Card,Cancelled,
+ORD00782,04/25/2025,Sara Khan,Jacket,Apparel,5.0,124.78,North,Debit Card,Completed,sara.khan@example.com
+ORD01474,08/02/2025,Emma Brown,Pen Pack,Stationery,1.0,14.74,S.,Debit Card,Completed,emma.brown@example.com
+ORD00842,2026-01-30,Rahul Verma,Notebook,Stationery,3.0,$7.57,South,Debit Card,returned,rahul.verma@example.com
+ORD00728,2026-06-14,John Smith,Jacket,Apparel,1.0,124.49,North,Credit Card,Completed,john.smith@example.com
+ORD00124,2026-06-22,Maria Garcia,Pen Pack,Stationery,1.0,$15.26,East,Credit Card,Completed,maria.garcia@example.com
+ORD01424,2026-08-07,John Smith,Jacket,Apparel,1.0,109.51,North,Debit Card,Returned,john.smith@example.com
+ORD00812,11/05/2025,  Maria Garcia ,Sneakers,Apparel,5.0,$82.17,North,UPI,Completed,maria.garcia@example.com
+ORD00244,15-Mar-2025,Priya Nair,Pen Pack,Stationery,5.0,14.02,NORTH,UPI ,Completed,priya.nair@example.com
+ORD01434,20-Jul-2026,Priya Nair,Notebook,Stationery,1.0,7.79,East,Debit Card,Completed,priya.nair@example.com
+ORD00761,2025-03-24,Nina Patel,Chair,Furniture,2.0,$169.17,East,Cash,COMPLETED,nina.patel@example.com
+ORD01053,2025-07-10,MARIA GARCIA,Desk,Furniture,1.0,338.76,West,Credit Card,Completed,maria.garcia@example.com
+ORD00232,13-Apr-2025,John Smith,Pen Pack,Stationery,1.0,14.43,West,UPI,Completed,john.smith@example.com
+ORD01321,20-Aug-2026,  Aarav Mehta ,Jacket,Apparel,5.0,$118.40,East,UPI,Completed,aarav.mehta@example.com
+ORD01132,24-Sep-2026,John Smith,Laptop,Electronics,1.0,961.07,South,Cash,Completed,not-an-email
+ORD00174,04/23/2026,Nina Patel,Sneakers,Apparel,4.0,75.85,East,Credit Card,Completed,nina.patel@example.com
+ORD00892,2025-04-16,Aarav Mehta,Notebook,Stationery,3.0,$7.50,N.,Cash,Completed,aarav.mehta@example.com
+ORD00325,02/07/2026,Omar Ali,Notebook,Stationery,5.0,8.74,South,Credit Card,Done,omar.ali@example.com
+ORD00236,02/20/2025,maria garcia,Pen Pack,Stationery,3.0,16.2,South,Debit Card,Completed,maria.garcia@example.com
+ORD01122,04/21/2026,Sara Khan,Pen Pack,Stationery,4.0,15.15,S.,cash,Completed,sara.khan@example.com
+ORD00263,31-Dec-2025,Omar Ali,Desk,Furniture,3.0,$293.76,West,Credit Card,Completed,omar.ali@example.com
+ORD00058,2026-07-10,Omar Ali,Headphones,Electronics,5.0,117.78,South,Credit Card,Completed,omar.ali@example.com
+ORD00250,27-Jul-2025,sara khan,Headphones,Electronics,5.0,107.25,West,UPI,Completed,sara.khan@example.com
+ORD00029,02-Jul-2026,Aarav Mehta,Notebook,Stationery,3.0,7.39,East,Credit Card,Completed,aarav.mehta@example.com
+ORD00973,10/20/2025,Li Wei,Jacket,Apparel,,117.96,North,Debit Card,Completed,li.wei@example.com
+ORD00020,02/03/2026,Nina Patel,Headphones,Electronics,,106.9,West,Credit-Card,Completed,nina.patel@example.com
+ORD01088,27-Oct-2025,Aarav Mehta,Desk,Furniture,3.0,315.4,South ,Credit Card,Completed,aarav.mehta@example.com
+ORD00922,09/24/2026,  Aarav Mehta ,Laptop,Electronics,2.0,925.49,S.,Debit Card,Completed,aarav.mehta@example.com
+ORD00488,19-Apr-2026,AARAV MEHTA,Sneakers,Apparel,5.0,74.9,East,Debit Card,Completed,aarav.mehta@example.com
+ORD01355,08/29/2026,Rahul Verma,Notebook,Stationery,2.0,$8.03,NORTH,upi,completed,rahul.verma@example.com
+ORD00972,29-Jul-2025,nina patel,Jacket,Apparel,4.0,131.34,East ,UPI,Completed,nina.patel@example.com
+ORD00530,08/01/2026,Aarav Mehta,Pen Pack,Stationery,2.0,15.49,West,Debit Card,Completed,aarav.mehta@example.com
+ORD00212,23-Jan-2025,,Headphones,Electronics,1.0,107.4,SOUTH,Credit Card,COMPLETED,priya.nair@example.com
+ORD01052,28-Jul-2026,Maria Garcia,Desk,Furniture,5.0,$345.08,West,UPI,Completed,maria.garcia@example.com
+ORD00839,14-Oct-2025,Emma Brown,Phone,Electronics,4.0,646.71,East,Cash,Completed,emma.brown@example.com
+ORD00889,31-Jul-2025,Maria Garcia,Sneakers,Apparel,4.0,$80.51,North,Cash,Completed,maria.garcia@example.com
+ORD01345,26-Mar-2025,  Omar Ali ,Phone,Electronics,4.0,$652.34,E.,UPI,Completed,omar.ali@example.com
+ORD00443,04/10/2025,  Rahul Verma ,Chair,Furniture,,$183.40,SOUTH,Credit Card,Completed,rahul.verma@example.com
+ORD00046,12/21/2025,Li Wei,Headphones,Electronics,5.0,99.43,North,UPI,Completed,li.wei@example.com
+ORD01243,08-Sep-2026,Rahul Verma,Jacket,Apparel,2.0,$123.35,North,Cash,Returned,rahul.verma@example.com
+ORD00726,2025-07-08,John Smith,Phone,Electronics,1.0,$658.03,NORTH,credit card,Returned,john.smith@example.com
+ORD00052,2026-01-14,Rahul Verma,Jacket,Apparel,2.0,120.92,West,Debit Card,Cancelled,rahul.verma@example.com
+ORD00601,31-Dec-2025,Priya Nair,Laptop,Electronics,1.0,,South,Debit Card,Returned,priya.nair@example.com
+ORD00617,09-May-2026,Nina Patel,Phone,Electronics,2.0,620.39,North,Debit Card,Completed,nina.patel@example.com
+ORD00594,02-Nov-2025,RAHUL VERMA,Headphones,Electronics,2.0,102.31,South,UPI,COMPLETED,rahul.verma@example.com
+ORD00059,12-Sep-2026,Sara Khan,Headphones,Electronics,5.0,104.35,,Cash,completed,sara.khan@example.com
+ORD00989,20-Feb-2025,Aarav Mehta,Sneakers,Apparel,3.0,$86.68,North,Debit Card,Completed,aarav.mehta@example.com
+ORD00885,03/05/2025,  Maria Garcia ,Pen Pack,Stationery,5.0,16.11,North,UPI,Cancelled,maria.garcia@example.com
+ORD01385,31-Dec-2025,John Smith,Headphones,Electronics,3.0,$115.94,South,Credit Card,Completed,john.smith@example.com
+ORD00049,09/22/2026,RAHUL VERMA,Laptop,Electronics,2.0,$823.57,North,Debit Card,COMPLETED,rahul.verma@example.com
+ORD01096,07/04/2025,Emma Brown,Laptop,Electronics,,$958.91,South,UPI,Completed,emma.brown@example.com
+ORD01001,04/15/2025,sara khan,Notebook,Stationery,3.0,7.67,EAST,Debit Card,Completed,sara.khan@example.com
+ORD00043,03/28/2025,Li Wei,Chair,Furniture,3.0,$165.82,South,UPI ,Completed,li.wei@example.com
+ORD01333,2025-03-07,Omar Ali,Notebook,Stationery,4.0,8.52,East,Credit Card,Completed,omar.ali@example.com
+ORD00747,2025-08-05,John Smith,Laptop,Electronics,1.0,939.56,East ,Credit Card,Completed,john.smith@example.com
+ORD00985,10-May-2025,Sara Khan,Pen Pack,Stationery,1.0,14.47,North,Cash,Completed,sara.khan@example.com
+ORD00553,2025-02-20,John Smith,Chair,Furniture,,$173.73,South,UPI,Cancelled,john.smith@example.com
+ORD00412,06/30/2026,Omar Ali,Phone,Electronics,4.0,$667.45,East,cash,Completed,omar.ali@example.com
+ORD00808,08/08/2025,John Smith,Sneakers,Apparel,3.0,$78.73,North,CC,Completed,
+ORD00127,01-Oct-2025,Rahul Verma,Phone,Electronics,4.0,$619.89,North,CASH,Completed,rahul.verma@example.com
+ORD01055,04/20/2025,Rahul Verma,Notebook,Stationery,2.0,,South ,Credit Card,Returned,rahul.verma@example.com
+ORD00750,2025-07-17,  Sara Khan ,Headphones,Electronics,5.0,111.36,EAST,Credit Card,Completed,sara.khan@example.com
+ORD00613,11/29/2025,Aarav Mehta,Notebook,Stationery,4.0,$8.74,S.,Cash,Completed,aarav.mehta@example.com
+ORD00604,2026-05-27,Maria Garcia,Phone,Electronics,4.0,618.26,South,Cash,Completed,maria.garcia@example.com
+ORD00830,2025-03-01,Omar Ali,Laptop,Electronics,,$978.64,East,Debit Card,Returned,omar.ali@example.com
+ORD00353,02/20/2026,Sara Khan,Notebook,Stationery,5.0,8.72,East,credit card,Completed,sara.khan@example.com
+ORD00313,22-Jan-2025,Omar Ali,Laptop,Electronics,4.0,$853.23,South ,Debit Card,Completed,omar.ali@example.com
+ORD01178,24-Oct-2025,John Smith,Jacket,Apparel,1.0,$115.46,North ,Credit Card,Completed,john.smith@example.com
+ORD01232,04/20/2025,Li Wei,Jacket,Apparel,4.0,123.56,North,Debit Card,Returned,li.wei@example.com
+ORD00390,03/28/2026,Maria Garcia,Pen Pack,Stationery,4.0,15.87,East,UPI,Cancelled,maria.garcia@example.com
+ORD01476,08-Jan-2026,John Smith,Notebook,Stationery,,8.14,North,Cash,Completed,john.smith@example.com
+ORD00302,30-Mar-2025,Sara Khan,Chair,Furniture,5.0,166.42,S.,Debit Card,Completed,sara.khan@example.com
+ORD01129,2025-03-21,Li Wei,Laptop,Electronics,5.0,$868.89,South,Credit Card,cancelled,li.wei@example.com
+ORD00120,2025-04-21,Nina Patel,Notebook,Stationery,1.0,$8.65,,Debit Card,Completed,
+ORD00288,05/29/2026,maria garcia,Sneakers,Apparel,4.0,$84.71,South,Cash,Completed,maria.garcia@example.com
+ORD00872,2026-07-25,John Smith,Laptop,Electronics,2.0,$975.45,North,Cash,Completed,john.smith@example.com
+ORD00588,08/07/2026,John Smith,Jacket,Apparel,2.0,130.15,East,Credit Card,Completed,john.smith@example.com
+ORD00571,02/08/2025,Rahul Verma,Pen Pack,Stationery,,15.4,South,Cash,Returned,rahul.verma@example.com
+ORD01286,15-Jul-2025,Rahul Verma,Phone,Electronics,3.0,,North,Cash,Completed,rahul.verma@example.com
+ORD00340,2025-07-27,  Emma Brown ,Laptop,Electronics,1.0,818.56,SOUTH,Cash,Completed,emma.brown@example.com
+ORD01310,2026-05-14,Priya Nair,Laptop,Electronics,5.0,$830.31,North,Debit Card,Returned,priya.nair@example.com
+ORD00031,2025-08-11,Maria Garcia,Jacket,Apparel,3.0,$113.33,East,Credit-Card,Completed,maria.garcia@example.com
+ORD00269,03/12/2026,Emma Brown,Pen Pack,Stationery,1.0,$13.89,West,credit card,Done,emma.brown@example.com
+ORD01227,09/16/2025,  Aarav Mehta ,Phone,Electronics,5.0,$657.51,N.,UPI,Completed,aarav.mehta@example.com
+ORD00202,2025-04-02,Aarav Mehta,Desk,Furniture,1.0,337.94,South,Credit Card,Completed,aarav.mehta@example.com
+ORD01352,05/20/2025,Nina Patel,Headphones,Electronics,3.0,111.61,North,UPI ,Completed,
+ORD00834,11/27/2025,Omar Ali,Jacket,Apparel,3.0,108.03,east,Cash,Completed,omar.ali@example.com
+ORD00857,07/08/2026,Rahul Verma,Sneakers,Apparel,4.0,80.43,North,Credit Card,Completed,rahul.verma@example.com
+ORD00379,2025-05-05,Emma Brown,Desk,Furniture,4.0,325.69,North,Cash,Completed,emma.brown@example.com
+ORD00065,10-Jan-2025,Rahul Verma,Sneakers,Apparel,5.0,$87.43,North,credit card,Completed,rahul.verma@example.com
+ORD00686,2026-07-24,Priya Nair,Notebook,Stationery,1.0,7.88,South,Cash,Completed,priya.nair@example.com
+ORD00894,08/26/2026,Nina Patel,Phone,Electronics,2.0,$714.11,south,Credit Card,Completed,nina.patel@example.com
+ORD00179,12/07/2025,Emma Brown,Phone,Electronics,2.0,625.44,East ,upi,cancelled,emma.brown@example.com
+ORD00979,25-Dec-2025,Omar Ali,Pen Pack,Stationery,2.0,13.79,North ,Credit Card,completed,omar.ali@example.com
+ORD00229,05-Aug-2025,Aarav Mehta,Pen Pack,Stationery,3.0,,,Debit Card,Completed,aarav.mehta@example.com
+ORD01432,10/07/2025,Sara Khan,Phone,Electronics,3.0,616.17,East,Debit Card,Completed,sara.khan@example.com
+ORD00081,27-Jan-2026,SARA KHAN,Phone,Electronics,5.0,634.84,N.,Credit Card,Completed,sara.khan@example.com
+ORD01365,2026-01-01,Li Wei,Pen Pack,Stationery,2.0,13.84,East,Debit Card,Returned,li.wei@example.com
+ORD00339,01/30/2026,,Desk,Furniture,5.0,$301.41,East,Debit Card,Completed,li.wei@example.com
+ORD00163,09/16/2025,  Maria Garcia ,Chair,Furniture,4.0,170.39,South,UPI,Completed,maria.garcia@example.com
+ORD01366,2026-03-29,Sara Khan,Jacket,Apparel,2.0,125.32,South,Debit Card,Completed,sara.khan@example.com
+ORD00361,2026-07-11,  John Smith ,Phone,Electronics,4.0,692.42,north,Cash,Completed,john.smith@example.com
+ORD00998,12-Mar-2026,EMMA BROWN,Jacket,Apparel,3.0,$108.83,West,Credit Card,Completed,emma.brown@example.com
+ORD00375,03/26/2026,John Smith,Chair,Furniture,5.0,157.8,east,Debit Card,Completed,john.smith@example.com
+ORD01090,2026-02-01,Priya Nair,Desk,Furniture,4.0,322.16,north,Debit Card,Completed,priya.nair@example.com
+ORD00328,2025-12-21,Omar Ali,Phone,Electronics,2.0,652.45,West,Cash,Completed,not-an-email
+ORD01279,14-Jun-2026,omar ali,Desk,Furniture,4.0,$312.45,WEST,Debit Card,Completed,omar.ali@example.com
+ORD00285,2026-06-01,Sara Khan,Headphones,Electronics,5.0,,east,Credit Card,Completed,sara.khan@example.com
+ORD01320,10-Dec-2025,Sara Khan,Phone,Electronics,5.0,639.71,South,cash,Completed,sara.khan@example.com
+ORD00671,08/26/2025,emma brown,Notebook,Stationery,,7.87,south,Debit Card,Completed,emma.brown@example.com
+ORD00717,2025-08-23,Rahul Verma,Jacket,Apparel,5.0,123.72,East,Cash,Completed,rahul.verma@example.com
+ORD00920,08-Jun-2026,Priya Nair,Headphones,Electronics,5.0,119.37,East,Debit Card,Completed,priya.nair@example.com
+ORD00210,2026-05-01,Aarav Mehta,Headphones,Electronics,2.0,100.89,West,Credit Card,Cancelled,aarav.mehta@example.com
+ORD00897,05-Apr-2026,Emma Brown,Desk,Furniture,5.0,344.76,East,upi,Completed,emma.brown@example.com
+ORD00719,2025-08-18,John Smith,Jacket,Apparel,4.0,110.05,East,Cash,Completed,john.smith@example.com
+ORD00098,2025-04-13,  Maria Garcia ,Chair,Furniture,1.0,,W.,Debit Card,Completed,
+ORD00284,10/25/2025,Omar Ali,Jacket,Apparel,2.0,$118.87,North,UPI,Completed,
+ORD00730,2025-06-25,Maria Garcia,Headphones,Electronics,2.0,102.37,South,Credit Card,Cancelled,maria.garcia@example.com
+ORD00991,08-Aug-2026,Omar Ali,Phone,Electronics,2.0,$644.06,North,Credit Card,Completed,omar.ali@example.com
+ORD00800,03/22/2026,nina patel,Notebook,Stationery,2.0,$7.28,East,Credit Card,Completed,nina.patel@example.com
+ORD00841,2026-04-10,sara khan,Phone,Electronics,1.0,702.24,North,Cash,Completed,sara.khan@example.com
+ORD00806,2025-09-04,  Aarav Mehta ,Desk,Furniture,3.0,332.96,West ,Credit Card,Completed,aarav.mehta@example.com
+ORD01157,08-Jun-2026,Li Wei,Desk,Furniture,2.0,$303.09,East,Credit Card,Completed,li.wei@example.com
+ORD00900,30-Mar-2026,nina patel,Pen Pack,Stationery,2.0,15.46,North,UPI ,Completed,nina.patel@example.com
+ORD00550,2026-03-19,JOHN SMITH,Notebook,Stationery,1.0,$8.33,South ,Cash,Completed,john.smith@example.com
+ORD00963,17-Jul-2026,Nina Patel,Pen Pack,Stationery,1.0,$14.10,East,Credit-Card,COMPLETED,nina.patel@example.com
+ORD01081,13-Dec-2025,Omar Ali,Sneakers,Apparel,2.0,$85.59,North,Cash,Completed,omar.ali@example.com
+ORD00425,29-Jun-2026,Omar Ali,Headphones,Electronics,5.0,$104.25,West,Cash,Completed,
+ORD01335,2026-09-08,Omar Ali,Phone,Electronics,3.0,637.77,South,Cash,Completed,omar.ali@example.com
+ORD00688,23-Apr-2026,Maria Garcia,Notebook,Stationery,5.0,8.64,South,Debit Card,Completed,maria.garcia@example.com
+ORD01361,03/25/2025,  Priya Nair ,Desk,Furniture,5.0,349.53,North,Debit Card,Completed,priya.nair@example.com
+ORD00362,2025-08-06,John Smith,Sneakers,Apparel,1.0,$77.46,NORTH,CASH,Completed,
+ORD01211,2025-05-10,Aarav Mehta,Jacket,Apparel,4.0,$122.39,North,Credit Card,Completed,aarav.mehta@example.com
+ORD01265,2025-06-28,Emma Brown,Sneakers,Apparel,4.0,74.54,east,Cash,Completed,emma.brown@example.com
+ORD00955,2025-07-31,Nina Patel,Laptop,Electronics,3.0,915.29,North,UPI,Completed,nina.patel@example.com
+ORD00336,2026-09-19,LI WEI,Laptop,Electronics,5.0,854.1,East,Debit Card,Completed,li.wei@example.com
+ORD00133,08/14/2026,LI WEI,Notebook,Stationery,1.0,8.58,North,Cash,Cancelled,li.wei@example.com
+ORD01134,2025-12-20,Rahul Verma,Laptop,Electronics,4.0,$954.43,North,Cash,Completed,rahul.verma@example.com
+ORD00354,2026-08-01,Sara Khan,Desk,Furniture,1.0,342.21,North,Credit Card,Completed,sara.khan@example.com
+ORD00073,2026-07-03,Rahul Verma,Desk,Furniture,2.0,$329.65,South ,credit card,Returned,rahul.verma@example.com
+ORD01397,13-Nov-2025,Aarav Mehta,Headphones,Electronics,5.0,109.32,East,Debit Card,Returned,aarav.mehta@example.com
+ORD00144,02-May-2025,Omar Ali,Laptop,Electronics,3.0,986.05,west,Debit Card,Completed,omar.ali@example.com
+ORD00964,07/17/2025,Emma Brown,Pen Pack,Stationery,4.0,15.49,South,Credit Card,Completed,emma.brown@example.com
+ORD00574,09/13/2025,Omar Ali,Headphones,Electronics,2.0,104.5,West,upi,Completed,omar.ali@example.com
+ORD00756,09/07/2025,  Emma Brown ,Sneakers,Apparel,4.0,85.91,north,CASH,Done,emma.brown@example.com
+ORD00852,08-Sep-2026,Omar Ali,Jacket,Apparel,5.0,110.5,NORTH,UPI,Completed,omar.ali@example.com
+ORD01106,27-Jun-2025,Emma Brown,Jacket,Apparel,1.0,$110.98,E.,cash,Completed,emma.brown@example.com
+ORD00381,09/02/2026,Aarav Mehta,Phone,Electronics,4.0,$653.47,north,UPI,Returned,aarav.mehta@example.com
+ORD00784,26-Apr-2025,Emma Brown,Desk,Furniture,,307.57,North,UPI,Completed,emma.brown@example.com
+ORD00290,05-Apr-2026,Li Wei,Headphones,Electronics,3.0,107.77,West,Debit Card,Completed,li.wei@example.com
+ORD00315,24-May-2026,Priya Nair,Headphones,Electronics,5.0,$110.68,South,UPI,Completed,priya.nair@example.com
+ORD00493,2026-03-02,Priya Nair,Desk,Furniture,3.0,317.16,East,Debit Card,Completed,priya.nair@example.com
+ORD01030,01/15/2026,John Smith,Chair,Furniture,2.0,$185.23,west,Credit Card,Completed,john.smith@example.com
+ORD00764,2025-06-29,Omar Ali,Pen Pack,Stationery,2.0,15.18,West,UPI ,Completed,omar.ali@example.com
+ORD01403,11/22/2025,  John Smith ,Sneakers,Apparel,1.0,83.87,North,cash,Completed,john.smith@example.com
+ORD01124,2026-09-26,  Priya Nair ,Phone,Electronics,1.0,592.31,,Cash,Completed,priya.nair@example.com
+ORD00335,07/13/2025,Li Wei,Phone,Electronics,3.0,622.29,North,Credit Card,Completed,li.wei@example.com
+ORD00209,04/18/2025,Rahul Verma,Laptop,Electronics,5.0,$833.77,West,UPI,Done,rahul.verma@example.com
+ORD00748,01/10/2026,Maria Garcia,Phone,Electronics,4.0,622.44,West ,Credit Card,COMPLETED,maria.garcia@example.com
+ORD00408,2025-10-19,Maria Garcia,Chair,Furniture,4.0,167.54,east,UPI,Completed,maria.garcia@example.com
+ORD01095,2026-06-08,Omar Ali,Pen Pack,Stationery,2.0,$14.97,South,UPI,Completed,omar.ali@example.com
+ORD01443,15-Feb-2026,Maria Garcia,Jacket,Apparel,4.0,123.9,EAST,Credit-Card,Completed,maria.garcia@example.com
+ORD00689,2025-06-27,EMMA BROWN,Laptop,Electronics,5.0,902.6,South,UPI ,Completed,emma.brown@example.com
+ORD00896,2026-05-10,EMMA BROWN,Desk,Furniture,1.0,$307.67,East,Credit Card,completed,
+ORD00155,03-Jul-2025,MARIA GARCIA,Sneakers,Apparel,5.0,81.08,East ,Debit Card,Completed,maria.garcia@example.com
+ORD00825,27-Feb-2026,  John Smith ,Headphones,Electronics,3.0,114.72,South,UPI,Completed,john.smith@example.com
+ORD00176,26-Jan-2025,Li Wei,Sneakers,Apparel,2.0,$74.10,East,Credit Card,Returned,li.wei@example.com
+ORD00008,2025-01-19,Li Wei,Laptop,Electronics,4.0,918.09,N.,Debit Card,Completed,li.wei@example.com
+ORD01404,2026-01-06,Li Wei,Sneakers,Apparel,3.0,$72.16,SOUTH,CC,Completed,li.wei@example.com
+ORD01393,2025-01-24,Maria Garcia,Desk,Furniture,3.0,342.08,North,Credit Card,Completed,maria.garcia@example.com
+ORD00486,09/05/2025,Nina Patel,Pen Pack,Stationery,1.0,15.26,West,UPI,Completed,nina.patel@example.com
+ORD00153,24-Feb-2026,  Rahul Verma ,Chair,Furniture,4.0,173.56,South,Cash,Completed,rahul.verma@example.com
+ORD00582,2026-01-09,Maria Garcia,Desk,Furniture,4.0,$333.30,East,upi,returned,maria.garcia@example.com
+ORD00251,14-Nov-2025,Sara Khan,Notebook,Stationery,1.0,$7.45,South,Credit Card,Cancelled,sara.khan@example.com
+ORD00616,2025-08-22,Li Wei,Pen Pack,Stationery,2.0,$14.78,WEST,Credit Card,Completed,li.wei@example.com
+ORD01484,01/29/2025,  John Smith ,Chair,Furniture,1.0,182.46,west,UPI ,Completed,john.smith@example.com
+ORD00449,2025-02-04,Rahul Verma,Notebook,Stationery,5.0,8.72,West,UPI,Done,rahul.verma@example.com
+ORD00239,22-Aug-2025,Nina Patel,Jacket,Apparel,5.0,128.74,North,credit card,Completed,nina.patel@example.com
+ORD00360,2026-02-17,John Smith,Pen Pack,Stationery,3.0,14.71,S.,Cash,Completed,john.smith@example.com
+ORD00079,09/30/2026,Emma Brown,Notebook,Stationery,3.0,$7.31,South,Cash,Done,emma.brown@example.com
+ORD00228,2026-07-12,Maria Garcia,Jacket,Apparel,2.0,,North,Cash,Completed,maria.garcia@example.com
+ORD00636,18-Jan-2025,john smith,Notebook,Stationery,2.0,8.08,West,UPI,Completed,john.smith@example.com
+ORD00856,12/02/2025,Nina Patel,Desk,Furniture,1.0,$313.73,North,Debit Card,Completed,nina.patel@example.com
+ORD00117,07/17/2025,Priya Nair,Notebook,Stationery,4.0,8.28,North ,Cash,Cancelled,priya.nair@example.com
+ORD00324,05/27/2026,emma brown,Chair,Furniture,4.0,$166.04,W.,Debit Card,Cancelled,
+ORD00147,03/23/2026,AARAV MEHTA,Headphones,Electronics,5.0,118.37,North,UPI,returned,aarav.mehta@example.com
+ORD00440,01/29/2025,  John Smith ,Sneakers,Apparel,4.0,$80.88,West,Cash,Completed,john.smith@example.com
+ORD01481,02/25/2025,  Maria Garcia ,Sneakers,Apparel,2.0,,South,UPI,Completed,maria.garcia@example.com
+ORD00793,08/10/2026,Maria Garcia,Sneakers,Apparel,3.0,$84.51,,Debit Card,Completed,maria.garcia@example.com
+ORD00174,04/23/2026,Nina Patel,Sneakers,Apparel,4.0,75.85,East,Credit Card,Completed,nina.patel@example.com
+ORD01186,2025-02-17,Omar Ali,Chair,Furniture,3.0,176.28,N.,UPI,completed,omar.ali@example.com
+ORD00432,2025-01-08,Rahul Verma,Pen Pack,Stationery,3.0,$16.36,West,CASH,Completed,rahul.verma@example.com
+ORD00047,06/12/2026,Maria Garcia,Jacket,Apparel,1.0,$114.92,N.,Debit Card,Completed,maria.garcia@example.com
+ORD00720,2026-04-08,Maria Garcia,Headphones,Electronics,4.0,$120.98,West,Cash,COMPLETED,maria.garcia@example.com
+ORD01326,13-Dec-2025,Aarav Mehta,Headphones,Electronics,5.0,108.61,East,Credit Card,Completed,aarav.mehta@example.com
+ORD00792,05/15/2026,Omar Ali,Desk,Furniture,5.0,310.79,South,Credit Card,Completed,omar.ali@example.com
+ORD00148,12-Jan-2025,Li Wei,Pen Pack,Stationery,3.0,15.57,East ,CC,Completed,li.wei@example.com
+ORD00415,05/04/2026,Maria Garcia,Laptop,Electronics,3.0,$988.35,WEST,UPI,completed,maria.garcia@example.com
+ORD00154,12-Nov-2025,Li Wei,Desk,Furniture,3.0,330.4,North,Cash,Completed,li.wei@example.com
+ORD01019,02-May-2025,maria garcia,Laptop,Electronics,4.0,$946.01,West,Cash,Completed,maria.garcia@example.com
+ORD01200,2026-01-24,Priya Nair,Desk,Furniture,1.0,345.59,South,Credit-Card,Completed,priya.nair@example.com
+ORD00428,2026-07-06,Rahul Verma,Phone,Electronics,5.0,619.15,East,Debit Card,Cancelled,rahul.verma@example.com
+ORD00165,08/24/2025,John Smith,Sneakers,Apparel,4.0,$75.52,North ,Credit Card,Completed,john.smith@example.com
+ORD00678,2025-08-16,,Notebook,Stationery,5.0,8.04,south,UPI,Completed,maria.garcia@example.com
+ORD01391,2026-09-05,Aarav Mehta,Pen Pack,Stationery,5.0,14.83,South,Credit Card,Completed,aarav.mehta@example.com
+ORD01437,2026-08-25,Nina Patel,Notebook,Stationery,4.0,8.1,East,Cash,Completed,nina.patel@example.com
+ORD00672,2026-02-04,Rahul Verma,Headphones,Electronics,1.0,119.23,South,UPI,Completed,rahul.verma@example.com
+ORD00597,2026-01-14,EMMA BROWN,Phone,Electronics,,636.03,West,Debit Card,Completed,emma.brown@example.com
+ORD01103,2025-11-08,sara khan,Notebook,Stationery,1.0,7.55,West ,Debit Card,Completed,sara.khan@example.com
+ORD01316,03/25/2026,Priya Nair,Headphones,Electronics,3.0,115.25,North,Cash,Completed,priya.nair@example.com
+ORD00387,29-Jun-2026,Emma Brown,Desk,Furniture,4.0,$335.40,South,Credit Card,Completed,emma.brown@example.com
+ORD00123,2025-01-15,Omar Ali,Chair,Furniture,3.0,$170.70,West,Credit Card,completed,omar.ali@example.com
+ORD00096,11-Jan-2025,Omar Ali,Headphones,Electronics,3.0,116.95,East ,Cash,Completed,omar.ali@example.com
+ORD00046,12/21/2025,Li Wei,Headphones,Electronics,5.0,99.43,North,UPI,Completed,li.wei@example.com
+ORD00383,2025-07-05,,Desk,Furniture,2.0,301.21,West ,Cash,Returned,priya.nair@example.com
+ORD00906,02/11/2026,JOHN SMITH,Chair,Furniture,1.0,153.79,West,Debit Card,Completed,john.smith@example.com
+ORD00191,10-Aug-2026,Maria Garcia,Desk,Furniture,4.0,303.43,South,Cash,cancelled,maria.garcia@example.com
+ORD01283,2026-02-21,Rahul Verma,Notebook,Stationery,4.0,$8.38,North,Cash,Completed,rahul.verma@example.com
+ORD00903,23-Dec-2025,Priya Nair,Desk,Furniture,5.0,$321.68,West,Debit Card,completed,priya.nair@example.com
+ORD00579,2025-11-02,Omar Ali,Notebook,Stationery,4.0,$8.10,NORTH,Credit Card,Completed,omar.ali@example.com
+ORD00817,07/27/2026,rahul verma,Pen Pack,Stationery,1.0,16.13,South,Cash,Completed,rahul.verma@example.com
+ORD01195,09-Jun-2026,Priya Nair,Phone,Electronics,4.0,675.89,West,UPI,completed,priya.nair@example.com
+ORD00256,25-Mar-2025,John Smith,Jacket,Apparel,5.0,117.14,south,Credit Card,Completed,john.smith@example.com
+ORD00092,03/23/2026,John Smith,Notebook,Stationery,1.0,$7.87,West,Credit Card,Completed,john.smith@example.com
+ORD01057,11/01/2025,Aarav Mehta,Chair,Furniture,2.0,174.31,South,Debit Card,Completed,aarav.mehta@example.com
+ORD00621,12-Feb-2026,Nina Patel,Chair,Furniture,,$175.91,South ,CASH,Completed,nina.patel@example.com
+ORD01234,2025-11-04,Priya Nair,Sneakers,Apparel,1.0,86.81,East,Debit Card,Completed,priya.nair@example.com
+ORD01392,2025-06-18,Rahul Verma,Notebook,Stationery,1.0,$8.02,South,Cash,Returned,rahul.verma@example.com
+ORD00371,06-Apr-2025,Sara Khan,Jacket,Apparel,-1.0,$111.41,East,Debit Card,Completed,sara.khan@example.com
+ORD01459,02/12/2026,Sara Khan,Headphones,Electronics,1.0,101.6,East,UPI,Completed,sara.khan@example.com
+ORD01409,23-Oct-2025,Sara Khan,Laptop,Electronics,2.0,856.27,South,CC,Completed,sara.khan@example.com
+ORD00607,01/13/2025,Nina Patel,Chair,Furniture,5.0,171.07,North,Credit-Card,Completed,nina.patel@example.com
+ORD00424,2025-03-27,,Chair,Furniture,4.0,157.09,South,CC,Completed,john.smith@example.com
+ORD00348,2026-05-27,john smith,Pen Pack,Stationery,3.0,15.78,N.,UPI,Completed,john.smith@example.com
+ORD01413,02/19/2025,Omar Ali,Pen Pack,Stationery,1.0,15.86,south,Credit Card,Completed,
+ORD00422,16-Nov-2025,Emma Brown,Pen Pack,Stationery,2.0,$14.71,North ,Credit Card,Completed,emma.brown@example.com
+ORD00977,10/31/2025,Aarav Mehta,Laptop,Electronics,3.0,$827.18,North,Debit Card,Completed,aarav.mehta@example.com
+ORD00905,2026-01-19,Omar Ali,Sneakers,Apparel,5.0,82.56,South,credit card,Completed,omar.ali@example.com
+ORD01245,03/07/2026,Nina Patel,Phone,Electronics,5.0,$606.59,North,Cash,Completed,nina.patel@example.com
+ORD00904,14-Oct-2025,Emma Brown,Laptop,Electronics,1.0,822.32,South,Credit Card,Cancelled,emma.brown@example.com
+ORD00886,07/10/2026,Rahul Verma,Headphones,Electronics,1.0,$99.26,West,Debit Card,Cancelled,rahul.verma@example.com
+ORD00609,05/15/2026,Rahul Verma,Sneakers,Apparel,3.0,78.24,East,Debit Card,Completed,rahul.verma@example.com
+ORD01201,2026-03-08,Emma Brown,Pen Pack,Stationery,4.0,15.68,North,Debit Card,Completed,emma.brown@example.com
+ORD00297,18-Feb-2025,priya nair,Pen Pack,Stationery,5.0,13.66,North,Debit Card,Done,priya.nair@example.com
+ORD00821,04-Sep-2025,Nina Patel,Laptop,Electronics,,810.77,East,Credit Card,Completed,nina.patel@example.com
+ORD00116,07/23/2025,PRIYA NAIR,Headphones,Electronics,-1.0,107.05,South,cash,Returned,priya.nair@example.com
+ORD00780,28-Jan-2026,Omar Ali,Pen Pack,Stationery,5.0,15.42,South,Credit Card,Completed,omar.ali@example.com
+ORD01299,05/02/2026,Maria Garcia,Sneakers,Apparel,1.0,$85.82,North,Debit Card,Completed,maria.garcia@example.com
+ORD00469,2025-10-22,John Smith,Notebook,Stationery,2.0,7.34,North,Debit Card,Completed,john.smith@example.com
+ORD00956,09-Dec-2025,Emma Brown,Chair,Furniture,2.0,$163.57,West ,CASH,Completed,emma.brown@example.com
+ORD00451,03-Jul-2026,Emma Brown,Desk,Furniture,3.0,319.46,South,Cash,Done,emma.brown@example.com
+ORD00540,2025-08-27,Aarav Mehta,Notebook,Stationery,4.0,7.86,North,Cash,Returned,aarav.mehta@example.com
+ORD01289,03-Aug-2025,MARIA GARCIA,Desk,Furniture,4.0,295.51,South ,Credit Card,cancelled,maria.garcia@example.com
+ORD00814,2026-03-30,Omar Ali,Notebook,Stationery,5.0,8.54,S.,Credit Card,Completed,omar.ali@example.com
+ORD00746,07/15/2025,PRIYA NAIR,Phone,Electronics,5.0,600.95,South,Credit Card,Completed,priya.nair@example.com
+ORD00515,2025-07-20,  Priya Nair ,Notebook,Stationery,1.0,$8.08,S.,Credit Card,Completed,priya.nair@example.com
+ORD00483,06/07/2025,  Rahul Verma ,Chair,Furniture,5.0,178.14,South ,Debit Card,Completed,rahul.verma@example.com
+ORD00838,16-Jul-2026,priya nair,Headphones,Electronics,3.0,$103.74,West,cash,Returned,priya.nair@example.com
+ORD00781,04/14/2026,Omar Ali,Desk,Furniture,3.0,$295.68,South,Debit Card,Completed,omar.ali@example.com
+ORD00752,08/31/2025,Nina Patel,Phone,Electronics,4.0,$656.80,South,UPI,Completed,nina.patel@example.com
+ORD00388,06-Jun-2026,Sara Khan,Sneakers,Apparel,3.0,83.16,West,Credit Card,Completed,sara.khan@example.com
+ORD00203,01-Mar-2026,Rahul Verma,Phone,Electronics,4.0,$694.84,North,Credit Card,returned,rahul.verma@example.com
+ORD00503,12/08/2025,Priya Nair,Headphones,Electronics,4.0,105.56,South ,Cash,Completed,priya.nair@example.com
+ORD00934,2025-08-20,Aarav Mehta,Notebook,Stationery,2.0,8.74,West,Credit-Card,Completed,aarav.mehta@example.com
+ORD01208,2025-05-03,Omar Ali,Jacket,Apparel,2.0,129.32,North,UPI,Cancelled,omar.ali@example.com
+ORD01010,2026-09-20,John Smith,Chair,Furniture,1.0,$163.65,north,Credit Card,Completed,john.smith@example.com
+ORD00110,2026-06-26,Sara Khan,Phone,Electronics,4.0,643.33,EAST,Debit Card,Completed,sara.khan@example.com
+ORD00143,04-Dec-2025,Maria Garcia,Headphones,Electronics,3.0,99.65,S.,Cash,Done,maria.garcia@example.com
+ORD00676,05-Sep-2026,Aarav Mehta,Notebook,Stationery,1.0,$8.65,South,Debit Card,Completed,
+ORD00593,2026-06-30,Li Wei,Jacket,Apparel,4.0,$116.04,West,Credit Card,Returned,li.wei@example.com
+ORD00159,06-Jun-2025,Li Wei,Chair,Furniture,5.0,$178.46,North,Debit Card,Done,li.wei@example.com
+ORD00710,2026-05-03,  Maria Garcia ,Desk,Furniture,2.0,288.35,East,Debit Card,Completed,maria.garcia@example.com
+ORD00846,2025-04-07,Omar Ali,Sneakers,Apparel,1.0,78.07,North ,Cash,Completed,omar.ali@example.com
+ORD00572,2026-01-16,,Sneakers,Apparel,3.0,84.19,South,UPI,Completed,omar.ali@example.com
+ORD01224,2025-08-21,maria garcia,Headphones,Electronics,3.0,113.22,EAST,Debit Card,Returned,maria.garcia@example.com
+ORD00753,08-Feb-2026,Nina Patel,Phone,Electronics,3.0,$636.91,East,Cash,Completed,nina.patel@example.com
+ORD00215,14-Feb-2026,Priya Nair,Notebook,Stationery,1.0,7.67,,Cash,Completed,priya.nair@example.com
+ORD00670,21-Dec-2025,Emma Brown,Laptop,Electronics,4.0,$898.70,south,Cash,Completed,emma.brown@example.com
+ORD01383,22-Jun-2025,  Priya Nair ,Headphones,Electronics,4.0,112.93,West ,Credit Card,Completed,priya.nair@example.com
+ORD01429,2025-08-14,Aarav Mehta,Phone,Electronics,2.0,$676.82,North,Debit Card,Completed,aarav.mehta@example.com
+ORD00974,2026-06-17,Aarav Mehta,Desk,Furniture,1.0,$319.92,East,Credit Card,Completed,aarav.mehta@example.com
+ORD00331,2026-05-05,John Smith,Sneakers,Apparel,5.0,78.52,EAST,Debit Card,cancelled,john.smith@example.com
+ORD00744,2025-05-17,aarav mehta,Jacket,Apparel,4.0,124.53,EAST,Cash,Completed,aarav.mehta@example.com
+ORD01035,2026-08-19,emma brown,Jacket,Apparel,2.0,$114.36,East,Debit Card,Completed,emma.brown@example.com
+ORD01205,2025-05-14,Aarav Mehta,Desk,Furniture,1.0,326.09,North ,Credit Card,Cancelled,aarav.mehta@example.com
+ORD00429,2025-08-03,Omar Ali,Notebook,Stationery,5.0,7.47,East,credit card,Completed,
+ORD00611,21-Jun-2025,John Smith,Jacket,Apparel,5.0,$112.79,W.,credit card,Completed,john.smith@example.com
+ORD01145,2026-08-24,john smith,Notebook,Stationery,5.0,$8.51,South ,Debit Card,Cancelled,john.smith@example.com
+ORD00788,2026-03-29,John Smith,Chair,Furniture,4.0,175.31,South,Cash,Returned,john.smith@example.com
+ORD01130,09-Aug-2026,Priya Nair,Jacket,Apparel,4.0,$131.09,North,Cash,Completed,priya.nair@example.com
+ORD01287,03/17/2025,  Li Wei ,Sneakers,Apparel,3.0,$75.95,West,Cash,Completed,li.wei@example.com
+ORD00762,08/06/2026,Rahul Verma,Headphones,Electronics,4.0,110.55,South,Credit Card,COMPLETED,rahul.verma@example.com
+ORD01255,07/13/2026,Aarav Mehta,Phone,Electronics,4.0,689.22,South,Cash,Returned,aarav.mehta@example.com
+ORD00596,12/02/2025,Sara Khan,Desk,Furniture,3.0,328.66,North,UPI,Completed,sara.khan@example.com
+ORD00890,2026-09-20,Nina Patel,Sneakers,Apparel,2.0,$78.11,West,Debit Card,Completed,nina.patel@example.com
+ORD00448,2025-09-25,Emma Brown,Headphones,Electronics,5.0,107.51,West,Cash,cancelled,emma.brown@example.com
+ORD00791,01/24/2025,,Laptop,Electronics,2.0,827.14,South,Debit Card,Completed,nina.patel@example.com
+ORD00713,2025-05-04,Emma Brown,Notebook,Stationery,3.0,8.02,West,UPI,Completed,emma.brown@example.com
+ORD00877,2026-09-15,li wei,Pen Pack,Stationery,4.0,15.94,East,Credit-Card,Completed,li.wei@example.com
+ORD00517,07/12/2026,OMAR ALI,Pen Pack,Stationery,3.0,13.99,South,Credit Card,Completed,omar.ali@example.com
+ORD00564,2026-08-23,Li Wei,Phone,Electronics,5.0,621.86,South,UPI,Completed,li.wei@example.com
+ORD01217,16-Jan-2025,emma brown,Notebook,Stationery,4.0,7.37,South,Cash,Returned,emma.brown@example.com
+ORD00273,2025-09-15,  Omar Ali ,Pen Pack,Stationery,2.0,14.42,South,Debit Card,Done,omar.ali@example.com
+ORD00751,2026-08-27,  Li Wei ,Pen Pack,Stationery,1.0,,West,UPI,cancelled,li.wei@example.com
+ORD00140,01/18/2025,maria garcia,Laptop,Electronics,5.0,862.6,East,Debit Card,Completed,maria.garcia@example.com
+ORD01426,05/05/2026,Maria Garcia,Notebook,Stationery,2.0,8.21,S.,Debit Card,Cancelled,maria.garcia@example.com
+ORD01488,06/07/2025,OMAR ALI,Pen Pack,Stationery,1.0,14.94,SOUTH,UPI,Completed,omar.ali@example.com
+ORD01487,,Rahul Verma,Pen Pack,Stationery,4.0,14.41,west,Cash,Completed,rahul.verma@example.com
+ORD00432,2025-01-08,Rahul Verma,Pen Pack,Stationery,3.0,$16.36,West,CASH,Completed,rahul.verma@example.com
+ORD01354,06/25/2025,  Nina Patel ,Jacket,Apparel,1.0,$114.58,North ,CC,cancelled,nina.patel@example.com
+ORD01276,11-Jan-2026,Nina Patel,Phone,Electronics,2.0,$672.86,West,Credit Card,Completed,nina.patel@example.com
+ORD01089,05/08/2025,Aarav Mehta,Pen Pack,Stationery,3.0,$14.55,South,Cash,Returned,aarav.mehta@example.com
+ORD00801,23-Apr-2026,Rahul Verma,Laptop,Electronics,1.0,826.12,South,Credit Card,Completed,rahul.verma@example.com
+ORD01386,2025-06-21,john smith,Sneakers,Apparel,4.0,76.55,west,Credit Card,Completed,john.smith@example.com
+ORD01420,2025-10-06,Sara Khan,Chair,Furniture,2.0,161.31,West,Cash,Completed,sara.khan@example.com
+ORD01450,2026-04-11,Omar Ali,Chair,Furniture,3.0,159.78,West,Cash,Completed,omar.ali@example.com
+ORD00612,2026-04-05,Nina Patel,Phone,Electronics,2.0,604.79,North,CC,Completed,nina.patel@example.com
+ORD01206,02/20/2025,OMAR ALI,Pen Pack,Stationery,1.0,16.19,East,Debit Card,Completed,omar.ali@example.com
+ORD00914,10/31/2025,Sara Khan,Jacket,Apparel,3.0,108.49,North,Debit Card,Completed,sara.khan@example.com
+ORD01375,07-Jan-2026,Li Wei,Notebook,Stationery,1.0,7.95,South,UPI,Completed,li.wei@example.com
+ORD00783,24-Feb-2026,  Maria Garcia ,Jacket,Apparel,2.0,$112.63,North,Cash,Cancelled,maria.garcia@example.com
+ORD00129,02/17/2026,Omar Ali,Desk,Furniture,4.0,$316.15,North,Debit Card,Completed,omar.ali@example.com
+ORD00009,07-Nov-2025,Priya Nair,Pen Pack,Stationery,1.0,$16.16,,CASH,Completed,priya.nair@example.com
+ORD00312,2026-01-21,Rahul Verma,Headphones,Electronics,4.0,119.18,South,Debit Card,Cancelled,rahul.verma@example.com
+ORD00274,03/25/2026,Li Wei,Headphones,Electronics,5.0,100.14,East,credit card,Completed,li.wei@example.com
+ORD00527,2026-05-15,Rahul Verma,Sneakers,Apparel,3.0,82.9,South,Credit-Card,completed,rahul.verma@example.com
+ORD01112,2026-06-24,Aarav Mehta,Phone,Electronics,2.0,647.37,East ,Debit Card,Completed,aarav.mehta@example.com
+ORD01380,02/10/2026,RAHUL VERMA,Pen Pack,Stationery,5.0,15.64,North,Credit Card,Completed,rahul.verma@example.com
+ORD00207,15-Mar-2026,Omar Ali,Jacket,Apparel,1.0,112.28,North,Debit Card,Completed,omar.ali@example.com
+ORD01483,06/15/2026,John Smith,Laptop,Electronics,3.0,$963.89,East,Credit Card,Cancelled,john.smith@example.com
+ORD00899,2026-06-01,Aarav Mehta,Desk,Furniture,3.0,306.85,North,Debit Card,Completed,aarav.mehta@example.com
+ORD00668,02-Feb-2025,AARAV MEHTA,Desk,Furniture,2.0,336.79,North,Cash,Completed,aarav.mehta@example.com
+ORD00204,2025-10-11,Omar Ali,Phone,Electronics,3.0,$648.39,North,Credit Card,Completed,omar.ali@example.com
+ORD00055,2026-01-14,Li Wei,Jacket,Apparel,4.0,111.96,West,Debit Card,Completed,li.wei@example.com
+ORD01154,25-Apr-2026,NINA PATEL,Pen Pack,Stationery,4.0,$14.25,North,UPI,Completed,nina.patel@example.com
+ORD00489,03/20/2026,Emma Brown,Chair,Furniture,1.0,,East,Credit Card,Completed,emma.brown@example.com
+ORD00541,2025-07-28,Omar Ali,Phone,Electronics,5.0,$696.83,SOUTH,Debit Card,Completed,omar.ali@example.com
+ORD01007,09-Jul-2025,Sara Khan,Desk,Furniture,5.0,293.0,West,Cash,Completed,sara.khan@example.com
+ORD00190,28-Feb-2026,li wei,Desk,Furniture,2.0,$340.45,North,Credit Card,Completed,li.wei@example.com
+ORD00109,03-May-2025,Aarav Mehta,Laptop,Electronics,2.0,$882.14,W.,UPI,returned,aarav.mehta@example.com
+ORD00538,07-Mar-2026,rahul verma,Chair,Furniture,2.0,172.7,East,Cash,Completed,
+ORD00522,2026-06-02,Omar Ali,Desk,Furniture,1.0,290.7,west,Debit Card,Completed,omar.ali@example.com
+ORD00649,01/27/2026,Omar Ali,Headphones,Electronics,3.0,$112.88,south,Debit Card,Completed,omar.ali@example.com
+ORD00551,09-Apr-2026,Emma Brown,Desk,Furniture,2.0,$309.19,East,CC,Returned,emma.brown@example.com
+ORD00023,04/04/2025,Li Wei,Phone,Electronics,4.0,704.21,East,Debit Card,Completed,li.wei@example.com
+ORD00377,2025-03-15,Aarav Mehta,Sneakers,Apparel,2.0,$82.53,East ,Cash,Completed,aarav.mehta@example.com
+ORD01005,14-Jan-2025,Priya Nair,Jacket,Apparel,1.0,108.21,WEST,Debit Card,Completed,priya.nair@example.com
+ORD00595,2026-08-24,Rahul Verma,Chair,Furniture,3.0,177.7,north,Debit Card,Completed,rahul.verma@example.com
+ORD01389,05/02/2025,Priya Nair,Laptop,Electronics,5.0,864.39,South,Credit Card,Completed,priya.nair@example.com
+ORD00206,2026-05-19,rahul verma,Notebook,Stationery,5.0,,North,Debit Card,Completed,rahul.verma@example.com
+ORD00094,2025-08-06,  Omar Ali ,Laptop,Electronics,3.0,$979.39,S.,Cash,Completed,omar.ali@example.com
+ORD00225,2026-04-29,RAHUL VERMA,Pen Pack,Stationery,1.0,15.74,North ,Debit Card,Completed,rahul.verma@example.com
+ORD01226,2025-04-18,Li Wei,Jacket,Apparel,3.0,124.58,West,Debit Card,Completed,li.wei@example.com
+ORD01249,09/17/2026,OMAR ALI,Chair,Furniture,3.0,184.52,North,Cash,Cancelled,omar.ali@example.com
+ORD01101,18-Apr-2025,john smith,Sneakers,Apparel,2.0,$85.28,S.,Cash,Completed,john.smith@example.com
+ORD01167,07/01/2025,Priya Nair,Phone,Electronics,1.0,700.76,East,Cash,Returned,priya.nair@example.com
+ORD00441,04/07/2026,Priya Nair,Notebook,Stationery,4.0,8.2,East,Credit Card,Returned,priya.nair@example.com
+ORD01401,09/09/2025,Aarav Mehta,Headphones,Electronics,5.0,$104.10,SOUTH,cash,Completed,aarav.mehta@example.com
+ORD00589,2025-08-06,Emma Brown,Desk,Furniture,4.0,$328.60,East,Debit Card,Cancelled,emma.brown@example.com
+ORD00931,2025-01-28,,Jacket,Apparel,4.0,127.5,north,Cash,Completed,emma.brown@example.com
+ORD00878,15-Jun-2025,john smith,Headphones,Electronics,4.0,117.48,North,UPI,Completed,
+ORD01301,2025-01-02,Li Wei,Desk,Furniture,1.0,$344.45,South,Credit Card,Cancelled,li.wei@example.com
+ORD00093,2026-04-23,Maria Garcia,Jacket,Apparel,4.0,$127.81,WEST,UPI,Completed,maria.garcia@example.com
+ORD00568,01-Aug-2025,Rahul Verma,Desk,Furniture,1.0,$303.14,East,Credit Card,Completed,rahul.verma@example.com
+ORD01489,2025-11-26,  Maria Garcia ,Sneakers,Apparel,3.0,75.14,East,UPI,Cancelled,maria.garcia@example.com
+ORD00271,09/14/2025,Aarav Mehta,Phone,Electronics,1.0,$708.99,West,upi,returned,
+ORD01297,2025-07-10,  Li Wei ,Chair,Furniture,3.0,169.01,south,Credit Card,Completed,li.wei@example.com
+ORD01108,08/17/2026,Nina Patel,Phone,Electronics,5.0,$597.72,WEST,Debit Card,Completed,nina.patel@example.com
+ORD00076,05/10/2025,Emma Brown,Chair,Furniture,4.0,$167.44,South ,Cash,Completed,emma.brown@example.com
+ORD01492,2026-01-07,li wei,Pen Pack,Stationery,4.0,14.27,East,Debit Card,Completed,li.wei@example.com
+ORD00655,2026-03-09,John Smith,Pen Pack,Stationery,2.0,$14.54,West,credit card,Completed,john.smith@example.com
+ORD01319,2026-05-26,  Omar Ali ,Chair,Furniture,2.0,,South,Debit Card,Completed,omar.ali@example.com
+ORD01457,2025-02-10,,Chair,Furniture,4.0,$181.87,N.,Debit Card,Done,omar.ali@example.com
+ORD01221,2026-01-12,Li Wei,Jacket,Apparel,2.0,124.98,West,Credit Card,Completed,li.wei@example.com
+ORD00561,06/14/2025,Nina Patel,Chair,Furniture,4.0,$182.29,,Cash,Completed,nina.patel@example.com
+ORD01444,2025-08-29,JOHN SMITH,Jacket,Apparel,5.0,128.42,West,UPI,Completed,john.smith@example.com
+ORD01125,07/01/2026,Emma Brown,Sneakers,Apparel,2.0,78.46,West,Cash,Completed,emma.brown@example.com
+ORD01160,2026-08-26,  Li Wei ,Phone,Electronics,2.0,$593.60,West,Debit Card,Completed,li.wei@example.com
+ORD00959,17-Sep-2025,Sara Khan,Notebook,Stationery,3.0,7.3,South,Debit Card,Completed,sara.khan@example.com
+ORD00247,2025-06-10,Priya Nair,Sneakers,Apparel,4.0,$78.62,East,Debit Card,Completed,priya.nair@example.com
+ORD00848,2026-06-18,John Smith,Headphones,Electronics,3.0,$106.80,West,UPI,Completed,john.smith@example.com
+ORD01084,2025-10-14,John Smith,Desk,Furniture,1.0,,South,Credit Card,Completed,john.smith@example.com
+ORD00470,2026-09-14,Aarav Mehta,Pen Pack,Stationery,1.0,16.25,South,Debit Card,COMPLETED,aarav.mehta@example.com
+ORD00898,30-Dec-2025,Priya Nair,Laptop,Electronics,1.0,$919.95,West,UPI,Done,priya.nair@example.com
+ORD01423,2026-02-27,JOHN SMITH,Phone,Electronics,3.0,,NORTH,Cash,Cancelled,john.smith@example.com
+ORD01231,06-Feb-2026,Maria Garcia,Laptop,Electronics,4.0,$859.63,South,Cash,Completed,maria.garcia@example.com
+ORD00131,23-Sep-2026,Li Wei,Pen Pack,Stationery,3.0,$14.37,West,Credit Card,Completed,li.wei@example.com
+ORD01453,24-Jan-2025,Priya Nair,Desk,Furniture,3.0,$330.05,West,upi,Completed,priya.nair@example.com
+ORD00025,10/11/2025,  Maria Garcia ,Notebook,Stationery,5.0,7.31,West,CASH,Completed,maria.garcia@example.com
+ORD00584,29-Nov-2025,Priya Nair,Desk,Furniture,1.0,$316.61,West,Credit Card,Completed,priya.nair@example.com
+ORD00392,05/30/2026,Sara Khan,Phone,Electronics,2.0,$617.53,South,Cash,Completed,sara.khan@example.com
+ORD01231,06-Feb-2026,Maria Garcia,Laptop,Electronics,4.0,$859.63,South,Cash,Completed,maria.garcia@example.com
+ORD01376,02-Feb-2025,LI WEI,Phone,Electronics,1.0,586.96,east,Debit Card,Completed,
+ORD01417,08/18/2025,Li Wei,Desk,Furniture,4.0,339.58,South,Credit Card,Returned,li.wei@example.com
+ORD00844,02/07/2026,EMMA BROWN,Laptop,Electronics,1.0,822.39,west,UPI,Completed,emma.brown@example.com
+ORD00026,2026-03-01,,Laptop,Electronics,3.0,849.94,West,UPI,Done,omar.ali@example.com
+ORD00156,2026-06-30,Omar Ali,Jacket,Apparel,1.0,116.5,,Cash,Completed,
+ORD01478,2025-09-08,Nina Patel,Notebook,Stationery,2.0,$8.50,east,Debit Card,Completed,nina.patel@example.com
+ORD01204,03/15/2025,Rahul Verma,Pen Pack,Stationery,1.0,16.23,S.,credit card,Done,rahul.verma@example.com
+ORD01170,02/09/2025,Priya Nair,Phone,Electronics,2.0,$663.76,N.,Credit Card,Completed,priya.nair@example.com
+ORD00543,12/13/2025,Omar Ali,Phone,Electronics,1.0,666.08,East,Cash,COMPLETED,omar.ali@example.com
+ORD00983,2025-11-28,  Maria Garcia ,Sneakers,Apparel,,77.12,East,Credit Card,Completed,
+ORD01307,2025-06-17,maria garcia,Notebook,Stationery,2.0,7.92,West,Debit Card,Completed,maria.garcia@example.com
+ORD00716,2025-02-01,Nina Patel,Notebook,Stationery,4.0,$7.26,West,Debit Card,Completed,nina.patel@example.com
+ORD01159,02/14/2025,  Maria Garcia ,Chair,Furniture,4.0,161.72,north,Cash,Completed,maria.garcia@example.com
+ORD00707,04-Mar-2026,  Li Wei ,Headphones,Electronics,5.0,120.1,North,Credit Card,Completed,li.wei@example.com
+ORD01261,03/11/2026,rahul verma,Pen Pack,Stationery,5.0,$14.27,West,Cash,Completed,rahul.verma@example.com
+ORD00446,03/18/2025,Rahul Verma,Pen Pack,Stationery,4.0,16.35,South ,UPI,Completed,rahul.verma@example.com
+ORD01353,18-Apr-2026,,Laptop,Electronics,5.0,827.16,North,Debit Card,Completed,nina.patel@example.com
+ORD01395,02-Sep-2025,sara khan,Chair,Furniture,2.0,$177.18,East,Credit Card,Completed,sara.khan@example.com
+ORD01454,2025-07-12,  Emma Brown ,Chair,Furniture,4.0,$155.70,East,Credit Card,COMPLETED,emma.brown@example.com
+ORD00180,16-Sep-2025,Emma Brown,Chair,Furniture,3.0,$172.78,South,Credit Card,Returned,emma.brown@example.com
+ORD01076,09/04/2026,Li Wei,Chair,Furniture,4.0,161.76,North,Debit Card,Completed,li.wei@example.com
+ORD00488,19-Apr-2026,AARAV MEHTA,Sneakers,Apparel,5.0,74.9,East,Debit Card,Completed,aarav.mehta@example.com
+ORD01379,2026-02-01,Nina Patel,Desk,Furniture,3.0,$321.92,S.,UPI,Completed,nina.patel@example.com
+ORD00011,09/14/2025,Aarav Mehta,Desk,Furniture,1.0,323.52,,cash,COMPLETED,aarav.mehta@example.com
+ORD00355,2026-03-21,Aarav Mehta,Pen Pack,Stationery,1.0,,,Cash,COMPLETED,aarav.mehta@example.com
+ORD00068,07/28/2026,RAHUL VERMA,Chair,Furniture,3.0,175.41,West,Debit Card,Completed,rahul.verma@example.com
+ORD01029,2025-01-12,Maria Garcia,Jacket,Apparel,3.0,130.53,west,Debit Card,Completed,maria.garcia@example.com
+ORD00990,20-May-2025,  Li Wei ,Pen Pack,Stationery,5.0,16.25,North,Debit Card,Cancelled,li.wei@example.com
+ORD00146,03/01/2025,  Omar Ali ,Chair,Furniture,5.0,$166.06,West,UPI,Completed,omar.ali@example.com
+ORD01123,02/17/2025,Nina Patel,Chair,Furniture,2.0,185.92,north,Credit Card,Completed,nina.patel@example.com
+ORD00416,01/30/2026,Nina Patel,Sneakers,Apparel,5.0,77.32,East,upi,Completed,nina.patel@example.com
+ORD01351,08/31/2026,Priya Nair,Headphones,Electronics,4.0,103.8,West,UPI,Completed,priya.nair@example.com
+ORD00507,2025-07-10,Sara Khan,Jacket,Apparel,1.0,130.56,South,Cash,Completed,sara.khan@example.com
+ORD00301,2025-01-02,Omar Ali,Laptop,Electronics,1.0,864.29,East,Debit Card,Completed,omar.ali@example.com
+ORD00524,2026-08-09,Li Wei,Notebook,Stationery,4.0,8.63,West,UPI,Completed,li.wei@example.com
+ORD01477,29-Jun-2026,Li Wei,Notebook,Stationery,5.0,8.08,west,Credit Card,Completed,li.wei@example.com
+ORD01412,11/18/2025,Emma Brown,Headphones,Electronics,5.0,100.86,NORTH,Credit Card,Completed,emma.brown@example.com
+ORD00438,16-Sep-2026,Emma Brown,Chair,Furniture,1.0,173.88,East,CASH,returned,emma.brown@example.com
+ORD01202,2026-08-29,Priya Nair,Desk,Furniture,,$333.55,East,Cash,Completed,priya.nair@example.com
+ORD00928,12-Apr-2025,Sara Khan,Pen Pack,Stationery,1.0,14.59,east,UPI ,Completed,sara.khan@example.com
+ORD00870,2025-08-27,  Maria Garcia ,Notebook,Stationery,3.0,$7.62,East ,Credit Card,Completed,maria.garcia@example.com
+ORD00895,12/29/2025,Li Wei,Chair,Furniture,,$171.65,NORTH,UPI,Completed,li.wei@example.com
+ORD00139,2026-04-19,PRIYA NAIR,Pen Pack,Stationery,2.0,15.47,E.,Cash,Done,priya.nair@example.com
+ORD01269,12-Feb-2026,Sara Khan,Phone,Electronics,5.0,$635.45,North,Cash,Completed,sara.khan@example.com
+ORD00196,17-Aug-2026,  Nina Patel ,Desk,Furniture,5.0,$299.06,north,Cash,COMPLETED,nina.patel@example.com
+ORD01364,13-Apr-2026,Sara Khan,Chair,Furniture,1.0,174.72,East,Cash,Completed,sara.khan@example.com
+ORD00450,05/13/2025,  Li Wei ,Laptop,Electronics,2.0,848.65,S.,UPI,Completed,li.wei@example.com
+ORD00867,05/27/2025,  Li Wei ,Chair,Furniture,3.0,$181.06,North,Debit Card,Completed,li.wei@example.com
+ORD01236,07/12/2026,  Rahul Verma ,Pen Pack,Stationery,1.0,$16.26,West,CASH,Completed,rahul.verma@example.com
+ORD00779,04-Feb-2026,NINA PATEL,Notebook,Stationery,2.0,$7.57,NORTH,Debit Card,Cancelled,nina.patel@example.com
+ORD00342,12/18/2025,  Omar Ali ,Desk,Furniture,1.0,$311.27,North,Debit Card,Cancelled,omar.ali@example.com
+ORD00175,16-Jul-2026,Maria Garcia,Pen Pack,Stationery,2.0,$14.49,West,CASH,completed,maria.garcia@example.com
+ORD00223,14-Jul-2026,Emma Brown,Notebook,Stationery,3.0,$7.81,WEST,Cash,Completed,emma.brown@example.com
+ORD00255,2025-02-28,Maria Garcia,Sneakers,Apparel,2.0,$72.96,North,Cash,Completed,maria.garcia@example.com
+ORD01419,01-Apr-2026,,Notebook,Stationery,1.0,8.48,East,Credit Card,Completed,li.wei@example.com
+ORD00386,22-Dec-2025,Maria Garcia,Chair,Furniture,4.0,$176.59,West,UPI,Cancelled,maria.garcia@example.com
+ORD00884,20-Jul-2025,Omar Ali,Phone,Electronics,2.0,639.24,East,credit card,completed,omar.ali@example.com
+ORD01465,28-Jun-2025,  Li Wei ,Notebook,Stationery,4.0,$8.32,North,Debit Card,Returned,li.wei@example.com
+ORD01194,2026-03-29,priya nair,Desk,Furniture,2.0,,East,Credit Card,Completed,priya.nair@example.com
+ORD01398,08/13/2025,  Rahul Verma ,Sneakers,Apparel,2.0,,West,UPI ,Completed,rahul.verma@example.com
+ORD00035,21-Oct-2025,Sara Khan,Notebook,Stationery,1.0,8.53,south,credit card,Completed,
+ORD00712,2025-02-15,Omar Ali,Chair,Furniture,5.0,174.28,North,Debit Card,Completed,omar.ali@example.com
+ORD00862,25-Jan-2026,AARAV MEHTA,Pen Pack,Stationery,4.0,$15.73,South ,Debit Card,Completed,aarav.mehta@example.com
+ORD00266,02/25/2025,Priya Nair,Jacket,Apparel,2.0,128.85,North,Debit Card,COMPLETED,priya.nair@example.com
+ORD00558,17-Apr-2025,  Maria Garcia ,Laptop,Electronics,3.0,$869.94,West,Debit Card,Cancelled,maria.garcia@example.com
+ORD00090,08/03/2026,Maria Garcia,Laptop,Electronics,5.0,896.98,West,Credit Card,returned,maria.garcia@example.com
+ORD01396,10/14/2025,Omar Ali,Chair,Furniture,4.0,$164.39,North,Cash,Cancelled,omar.ali@example.com
+ORD01218,05/23/2025,John Smith,Headphones,Electronics,1.0,118.28,east,Cash,Completed,john.smith@example.com
+ORD01452,01/19/2025,Li Wei,Notebook,Stationery,3.0,$7.66,S.,Cash,Completed,li.wei@example.com
+ORD00001,27-Mar-2025,JOHN SMITH,Sneakers,Apparel,3.0,87.02,north,Debit Card,Completed,john.smith@example.com
+ORD01092,06/24/2025,Aarav Mehta,Pen Pack,Stationery,4.0,$13.63,West,Cash,Completed,
+ORD00614,07-Oct-2025,Rahul Verma,Desk,Furniture,,315.45,North,Debit Card,Completed,rahul.verma@example.com
+ORD00006,20-Jan-2026,Priya Nair,Laptop,Electronics,4.0,$879.90,South,Debit Card,Returned,priya.nair@example.com
+ORD00343,2026-04-25,  Aarav Mehta ,Jacket,Apparel,2.0,109.12,West,UPI,Completed,aarav.mehta@example.com
+ORD01343,06/09/2025,Sara Khan,Chair,Furniture,4.0,169.12,West,UPI,Completed,sara.khan@example.com
+ORD00102,2025-10-22,Priya Nair,Laptop,Electronics,2.0,962.42,West,Credit Card,completed,priya.nair@example.com
+ORD01259,2025-03-29,Omar Ali,Chair,Furniture,5.0,$154.61,South,Debit Card,Completed,omar.ali@example.com
+ORD00040,12/18/2025,  Sara Khan ,Notebook,Stationery,,7.65,South,UPI,Completed,sara.khan@example.com
+ORD00529,18-May-2025,john smith,Notebook,Stationery,4.0,$8.59,East,Cash,Completed,john.smith@example.com
+ORD00666,2025-09-05,  Emma Brown ,Headphones,Electronics,5.0,$110.53,E.,Debit Card,Completed,emma.brown@example.com
+ORD00453,2026-07-22,Aarav Mehta,Chair,Furniture,4.0,$157.76,west,UPI,Completed,aarav.mehta@example.com
+ORD00661,2025-09-08,priya nair,Laptop,Electronics,5.0,$893.31,North,Credit Card,Completed,priya.nair@example.com
+ORD00125,2025-01-06,Rahul Verma,Chair,Furniture,5.0,$171.36,South,Credit Card,Completed,rahul.verma@example.com
+ORD00178,13-Feb-2025,Rahul Verma,Desk,Furniture,1.0,$338.95,East,Debit Card,Cancelled,rahul.verma@example.com
+ORD00137,10-Jul-2026,Li Wei,Desk,Furniture,5.0,306.35,North,Credit Card,Completed,li.wei@example.com
+ORD00337,2025-04-29,emma brown,Chair,Furniture,5.0,$167.74,East,Credit Card,Completed,emma.brown@example.com
+ORD00119,05/11/2026,Rahul Verma,Laptop,Electronics,3.0,$822.01,East,Credit-Card,Returned,rahul.verma@example.com
+ORD01229,10/17/2025,Aarav Mehta,Chair,Furniture,4.0,182.96,NORTH,UPI,Completed,aarav.mehta@example.com
+ORD01490,02/11/2026,John Smith,Chair,Furniture,3.0,$169.52,North,Cash,Completed,
+ORD00506,18-Aug-2026,Li Wei,Laptop,Electronics,2.0,923.32,North,UPI,Returned,li.wei@example.com
+ORD01304,2025-04-23,,Jacket,Apparel,2.0,$131.02,South,Cash,Completed,sara.khan@example.com
+ORD00618,26-Feb-2026,Aarav Mehta,Sneakers,Apparel,3.0,85.08,North,UPI,Completed,aarav.mehta@example.com
+ORD00352,02/12/2026,John Smith,Desk,Furniture,4.0,332.9,South ,Credit Card,Completed,john.smith@example.com
+ORD00924,29-Jul-2026,Priya Nair,Notebook,Stationery,1.0,$8.20,South,Credit Card,Completed,priya.nair@example.com
+ORD00193,2026-07-17,maria garcia,Sneakers,Apparel,1.0,$82.99,South,Debit Card,COMPLETED,maria.garcia@example.com
+ORD01445,26-Jan-2026,Priya Nair,Desk,Furniture,1.0,$318.48,,cash,Completed,priya.nair@example.com
+ORD01060,2026-02-04,Emma Brown,Chair,Furniture,4.0,$185.53,East,Debit Card,Returned,emma.brown@example.com
+ORD00926,2026-09-10,Priya Nair,Phone,Electronics,3.0,642.99,South ,Cash,Cancelled,priya.nair@example.com
+ORD00824,17-Aug-2026,John Smith,Jacket,Apparel,2.0,124.72,West,Credit Card,Returned,john.smith@example.com
+ORD00136,18-Jan-2026,nina patel,Desk,Furniture,3.0,$337.78,East,Debit Card,Completed,nina.patel@example.com
+ORD00245,06/25/2026,Omar Ali,Laptop,Electronics,2.0,$887.90,West,UPI,Completed,omar.ali@example.com
+ORD00461,2025-03-02,MARIA GARCIA,Pen Pack,Stationery,3.0,$14.59,South,Cash,Completed,maria.garcia@example.com
+ORD00042,20-Sep-2026,Aarav Mehta,Laptop,Electronics,1.0,813.24,S.,Cash,Completed,aarav.mehta@example.com
+ORD00724,2025-09-17,Priya Nair,Laptop,Electronics,4.0,$886.33,South,Debit Card,Completed,priya.nair@example.com
+ORD00958,03/04/2025,Li Wei,Chair,Furniture,5.0,157.36,WEST,Debit Card,Completed,li.wei@example.com
+ORD00637,06/01/2026,Aarav Mehta,Chair,Furniture,4.0,175.3,EAST,Credit Card,Returned,aarav.mehta@example.com
+ORD00359,2025-08-24,  Rahul Verma ,Chair,Furniture,2.0,$158.08,S.,UPI,Completed,rahul.verma@example.com
+ORD00932,27-May-2025,Li Wei,Phone,Electronics,2.0,699.66,South,Debit Card,Completed,li.wei@example.com
+ORD00298,05/21/2026,Aarav Mehta,Chair,Furniture,3.0,179.03,East,Credit Card,Completed,aarav.mehta@example.com
+ORD01498,02-Mar-2025,  Nina Patel ,Sneakers,Apparel,1.0,84.4,North,UPI,Completed,nina.patel@example.com
+ORD01337,27-Jan-2025,Priya Nair,Notebook,Stationery,1.0,8.18,North ,Credit Card,Completed,priya.nair@example.com
+ORD00759,04/28/2025,Aarav Mehta,Headphones,Electronics,1.0,$112.38,N.,Debit Card,Completed,aarav.mehta@example.com
+ORD00518,2025-02-25,NINA PATEL,Jacket,Apparel,5.0,$120.40,East,Credit Card,Completed,nina.patel@example.com
+ORD00559,2025-06-08,priya nair,Chair,Furniture,3.0,186.27,East ,CASH,Done,priya.nair@example.com
+ORD01133,31-Jan-2026,Li Wei,Phone,Electronics,4.0,618.84,South,UPI,Completed,li.wei@example.com
+ORD00619,29-Oct-2025,Emma Brown,Headphones,Electronics,1.0,$118.34,West,Credit Card,Completed,emma.brown@example.com
+ORD00466,17-Sep-2025,Rahul Verma,Sneakers,Apparel,3.0,$72.22,South,Credit Card,Cancelled,rahul.verma@example.com
+ORD00411,15-Jun-2025,Sara Khan,Jacket,Apparel,3.0,$120.01,West,Credit-Card,completed,sara.khan@example.com
+ORD00935,2025-01-12,Sara Khan,Notebook,Stationery,2.0,7.37,East ,UPI,Completed,sara.khan@example.com
+ORD00976,01/08/2025,Priya Nair,Desk,Furniture,5.0,345.13,East,CC,Completed,priya.nair@example.com
+ORD01295,02/19/2026,Maria Garcia,Chair,Furniture,1.0,157.11,West,Credit Card,Completed,maria.garcia@example.com
+ORD01093,2026-07-21,Nina Patel,Headphones,Electronics,1.0,$119.73,North,Credit Card,cancelled,nina.patel@example.com
+ORD00039,2026-06-22,Rahul Verma,Chair,Furniture,2.0,183.09,East,Cash,Completed,rahul.verma@example.com
+ORD00679,05/02/2026,  Sara Khan ,Desk,Furniture,4.0,$296.41,east,UPI,Completed,sara.khan@example.com
+ORD00080,2025-05-19,Maria Garcia,Phone,Electronics,1.0,703.45,North,Cash,Completed,maria.garcia@example.com
+ORD01356,22-Mar-2026,Li Wei,Notebook,Stationery,2.0,$7.69,East,upi,Returned,li.wei@example.com
+ORD00687,2026-08-15,Sara Khan,Phone,Electronics,1.0,$621.42,East,UPI,Completed,sara.khan@example.com
+ORD00492,01/19/2025,John Smith,Laptop,Electronics,3.0,$910.83,N.,Credit Card,Completed,john.smith@example.com
+ORD01425,2026-07-17,Aarav Mehta,Notebook,Stationery,2.0,$8.35,South ,Debit Card,Returned,aarav.mehta@example.com
+ORD00528,03/17/2025,LI WEI,Phone,Electronics,2.0,668.33,East,UPI,Completed,li.wei@example.com
+ORD00966,27-Jul-2025,Maria Garcia,Chair,Furniture,5.0,174.11,North,Credit Card,Cancelled,maria.garcia@example.com
+ORD00760,2025-05-24,Sara Khan,Laptop,Electronics,2.0,$891.28,EAST,UPI,cancelled,sara.khan@example.com
+ORD01327,02/22/2025,RAHUL VERMA,Pen Pack,Stationery,4.0,16.3,North,UPI,Cancelled,rahul.verma@example.com
+ORD01271,2025-01-12,Omar Ali,Laptop,Electronics,5.0,923.71,South ,UPI,Completed,omar.ali@example.com
+ORD01016,19-May-2026,Maria Garcia,Headphones,Electronics,1.0,116.22,East,Cash,Completed,maria.garcia@example.com
+ORD01055,04/20/2025,Rahul Verma,Notebook,Stationery,2.0,,South ,Credit Card,Cancelled,rahul.verma@example.com
+ORD00694,2026-08-11,li wei,Headphones,Electronics,4.0,117.07,South,Credit Card,Cancelled,li.wei@example.com
+ORD00957,2025-11-01,Maria Garcia,Chair,Furniture,2.0,168.95,South,Credit Card,Completed,maria.garcia@example.com
+ORD00421,03/25/2025,Priya Nair,Notebook,Stationery,1.0,$8.13,South,Debit Card,Completed,priya.nair@example.com
+ORD00832,2025-10-16,Priya Nair,Laptop,Electronics,3.0,932.9,South,Cash,Completed,priya.nair@example.com
+ORD01146,2025-01-23,Sara Khan,Laptop,Electronics,4.0,$958.43,South,Debit Card,Completed,sara.khan@example.com
+ORD01176,21-May-2026,aarav mehta,Laptop,Electronics,5.0,918.14,West,Debit Card,Returned,aarav.mehta@example.com
+ORD01388,2026-06-27,Sara Khan,Pen Pack,Stationery,5.0,,west,UPI ,Completed,sara.khan@example.com
+ORD01495,02/27/2025,Rahul Verma,Notebook,Stationery,5.0,8.29,East,Credit Card,completed,rahul.verma@example.com
+ORD00591,08/28/2026,maria garcia,Desk,Furniture,2.0,,North,Cash,Completed,maria.garcia@example.com
+ORD01305,06/13/2025,Nina Patel,Laptop,Electronics,4.0,$902.53,South,Credit Card,Completed,nina.patel@example.com
+ORD00458,2025-06-13,emma brown,Headphones,Electronics,4.0,$105.18,East,UPI ,Completed,
+ORD00767,06/05/2025,Nina Patel,Phone,Electronics,2.0,618.98,West,UPI,Completed,nina.patel@example.com
+ORD00112,2026-01-12,  John Smith ,Notebook,Stationery,4.0,7.36,South ,Cash,Returned,john.smith@example.com
+ORD01371,05/10/2025,Omar Ali,Headphones,Electronics,5.0,113.48,WEST,Credit Card,Completed,omar.ali@example.com
+ORD01142,20-Jul-2025,Sara Khan,Jacket,Apparel,2.0,$114.53,West,Debit Card,Completed,sara.khan@example.com
+ORD01155,07/19/2026,SARA KHAN,Chair,Furniture,4.0,172.13,West,UPI,Completed,sara.khan@example.com
+ORD00936,03/15/2025,Sara Khan,Phone,Electronics,5.0,644.25,South,UPI,Completed,sara.khan@example.com
+ORD01014,08-Jan-2026,Sara Khan,Chair,Furniture,1.0,164.88,East,UPI,Completed,sara.khan@example.com
+ORD01028,06-Dec-2025,  Emma Brown ,Pen Pack,Stationery,1.0,,North,Debit Card,Completed,emma.brown@example.com
+ORD00103,09-Jun-2026,Emma Brown,Notebook,Stationery,2.0,$8.16,south,UPI,Completed,emma.brown@example.com
+ORD00455,2025-03-26,Aarav Mehta,Sneakers,Apparel,3.0,$74.89,NORTH,Credit Card,Completed,
+ORD01273,30-Jun-2025,Omar Ali,Chair,Furniture,2.0,$174.07,,Cash,Completed,omar.ali@example.com
+ORD01121,2025-03-12,Rahul Verma,Chair,Furniture,3.0,$176.70,East,Cash,Completed,rahul.verma@example.com
+ORD00664,23-Jul-2025,Sara Khan,Laptop,Electronics,2.0,871.3,west,Cash,Completed,sara.khan@example.com
+ORD00626,12/06/2025,Priya Nair,Sneakers,Apparel,3.0,76.51,E.,Cash,Done,priya.nair@example.com
+ORD00105,03-Jul-2026,Maria Garcia,Pen Pack,Stationery,3.0,15.86,South,cash,Returned,maria.garcia@example.com
+ORD01496,06/11/2026,Emma Brown,Jacket,Apparel,3.0,110.35,East,CC,Completed,emma.brown@example.com
+ORD01182,26-Dec-2025,Maria Garcia,Headphones,Electronics,,,North,Debit Card,Completed,maria.garcia@example.com
+ORD00757,01/20/2026,omar ali,Chair,Furniture,3.0,$166.19,north,Credit Card,Completed,omar.ali@example.com
+ORD01197,04/17/2025,Maria Garcia,Desk,Furniture,1.0,320.39,East ,Cash,Completed,maria.garcia@example.com
+ORD00054,31-May-2025,Rahul Verma,Notebook,Stationery,1.0,7.51,E.,Credit-Card,Completed,rahul.verma@example.com
+ORD01479,01/31/2025,Nina Patel,Sneakers,Apparel,2.0,82.72,South,Credit Card,Completed,nina.patel@example.com
+ORD00986,11-Apr-2026,Nina Patel,Headphones,Electronics,5.0,108.7,South,Debit Card,Completed,nina.patel@example.com
+ORD00115,2026-08-20,Nina Patel,Headphones,Electronics,1.0,$102.56,West,UPI,Completed,nina.patel@example.com
+ORD00069,07/14/2025,Rahul Verma,Desk,Furniture,1.0,$305.64,West,CASH,Completed,rahul.verma@example.com
+ORD00970,01-Aug-2025,Aarav Mehta,Pen Pack,Stationery,3.0,14.8,East,Cash,Completed,aarav.mehta@example.com
+ORD00547,,Priya Nair,Sneakers,Apparel,,83.26,North,Cash,Completed,priya.nair@example.com
+ORD00718,09-Jun-2025,li wei,Jacket,Apparel,4.0,126.67,West,CC,Completed,li.wei@example.com
+ORD01458,05/09/2025,Nina Patel,Headphones,Electronics,1.0,109.25,south,Credit Card,Completed,nina.patel@example.com
+ORD00727,28-Aug-2025,omar ali,Phone,Electronics,4.0,$620.43,South,Debit Card,Cancelled,omar.ali@example.com
+ORD01104,2025-04-13,Priya Nair,Chair,Furniture,4.0,$184.00,South,Debit Card,Returned,priya.nair@example.com
+ORD00650,12/27/2025,Aarav Mehta,Laptop,Electronics,3.0,$827.63,West ,UPI,Completed,aarav.mehta@example.com
+ORD00272,08/04/2026,  Aarav Mehta ,Laptop,Electronics,3.0,944.29,,Cash,Completed,aarav.mehta@example.com
+ORD01021,01-Jul-2026,  Sara Khan ,Laptop,Electronics,2.0,875.18,West,CC,Returned,sara.khan@example.com
+ORD00787,25-Jan-2025,  John Smith ,Notebook,Stationery,4.0,8.17,West,UPI,Completed,john.smith@example.com
+ORD00253,30-Mar-2025,  Priya Nair ,Headphones,Electronics,4.0,113.02,west,UPI,Completed,priya.nair@example.com
+ORD00216,04/15/2025,LI WEI,Headphones,Electronics,5.0,$100.05,West,Credit Card,Completed,li.wei@example.com
+ORD00785,04-Mar-2025,Rahul Verma,Pen Pack,Stationery,2.0,13.57,North,Debit Card,Completed,rahul.verma@example.com
+ORD01239,2025-03-08,NINA PATEL,Jacket,Apparel,5.0,$125.37,West,Cash,Completed,nina.patel@example.com
+ORD00135,01-Apr-2025,Aarav Mehta,Pen Pack,Stationery,3.0,,East,UPI,Completed,aarav.mehta@example.com
+ORD00992,2026-08-12,Priya Nair,Notebook,Stationery,3.0,$7.57,south,UPI,Completed,priya.nair@example.com
+ORD01172,05/02/2026,,Notebook,Stationery,4.0,8.0,south,Cash,Completed,maria.garcia@example.com
+ORD01073,01/31/2026,Omar Ali,Headphones,Electronics,5.0,$109.90,West,credit card,Returned,omar.ali@example.com
+ORD01406,01/23/2026,maria garcia,Chair,Furniture,3.0,$179.27,East,CASH,Completed,maria.garcia@example.com
+ORD00659,2026-04-02,Nina Patel,Pen Pack,Stationery,3.0,15.99,north,Cash,Completed,nina.patel@example.com
+ORD00128,23-Mar-2025,  Sara Khan ,Laptop,Electronics,5.0,922.76,West,Debit Card,Completed,sara.khan@example.com
+ORD01272,09/20/2026,Emma Brown,Laptop,Electronics,5.0,893.15,south,CASH,Completed,emma.brown@example.com
+ORD01416,09-Aug-2026,JOHN SMITH,Chair,Furniture,4.0,179.22,East,UPI,Returned,john.smith@example.com
+ORD01161,19-Feb-2025,Sara Khan,Laptop,Electronics,4.0,912.12,,Cash,Completed,sara.khan@example.com
+ORD00238,01/27/2026,SARA KHAN,Pen Pack,Stationery,4.0,$16.00,West,Credit Card,Completed,sara.khan@example.com
+ORD01407,03/01/2026,Rahul Verma,Notebook,Stationery,3.0,8.25,West,Cash,Completed,rahul.verma@example.com
+ORD01135,04/27/2025,Nina Patel,Notebook,Stationery,1.0,7.21,East,Debit Card,Completed,nina.patel@example.com
+ORD00460,07/09/2026,AARAV MEHTA,Phone,Electronics,1.0,673.31,North ,Cash,COMPLETED,aarav.mehta@example.com
+ORD01174,05/10/2025,Li Wei,Chair,Furniture,3.0,$171.03,West,UPI,Completed,li.wei@example.com
+ORD00056,29-May-2026,Sara Khan,Jacket,Apparel,3.0,$117.75,South,CASH,Done,sara.khan@example.com
+ORD00770,20-Jul-2026,Priya Nair,Notebook,Stationery,1.0,8.56,SOUTH,UPI,completed,priya.nair@example.com
+ORD00075,2025-02-19,John Smith,Sneakers,Apparel,3.0,79.38,west,Debit Card,Completed,john.smith@example.com
+ORD01209,02/14/2026,,Desk,Furniture,5.0,$339.73,south,UPI,Completed,rahul.verma@example.com
+ORD00106,02/04/2025,Aarav Mehta,Headphones,Electronics,3.0,106.6,South,CASH,returned,aarav.mehta@example.com
+ORD00164,09/19/2026,Priya Nair,Notebook,Stationery,1.0,$8.19,SOUTH,Debit Card,Completed,
+ORD01143,2025-01-18,  Sara Khan ,Pen Pack,Stationery,5.0,14.11,South,UPI ,Cancelled,sara.khan@example.com
+ORD01015,12/02/2025,  Omar Ali ,Sneakers,Apparel,5.0,$83.23,North,Credit Card,Completed,omar.ali@example.com
+ORD01013,2026-06-23,  Sara Khan ,Headphones,Electronics,2.0,$113.13,W.,UPI,Cancelled,sara.khan@example.com
+ORD01105,03/07/2026,omar ali,Laptop,Electronics,3.0,$980.87,East,Credit Card,Completed,omar.ali@example.com
+ORD00640,05/25/2025,John Smith,Laptop,Electronics,5.0,899.56,EAST,Debit Card,Completed,john.smith@example.com
+ORD01321,20-Aug-2026,  Aarav Mehta ,Jacket,Apparel,5.0,$118.40,East,UPI,Completed,aarav.mehta@example.com
+ORD01219,2025-08-15,,Pen Pack,Stationery,,$13.54,East,Credit Card,Completed,omar.ali@example.com
+ORD00519,07-Feb-2025,,Phone,Electronics,3.0,$668.26,West,Cash,Completed,rahul.verma@example.com
+ORD01302,2025-09-25,Rahul Verma,Sneakers,Apparel,1.0,$75.79,North,Credit Card,Completed,rahul.verma@example.com
+ORD00592,27-May-2026,John Smith,Sneakers,Apparel,5.0,$84.94,North,Debit Card,Cancelled,john.smith@example.com
+ORD01175,08/05/2026,Aarav Mehta,Phone,Electronics,3.0,615.63,west,Credit Card,Completed,aarav.mehta@example.com
+ORD00231,05/18/2025,Maria Garcia,Jacket,Apparel,5.0,117.98,South,Debit Card,Completed,maria.garcia@example.com
+ORD00771,06/12/2026,omar ali,Sneakers,Apparel,5.0,,west,Cash,Completed,omar.ali@example.com
+ORD00413,13-Jun-2026,Rahul Verma,Notebook,Stationery,4.0,$7.79,East,CC,Completed,rahul.verma@example.com
+ORD01471,12-Nov-2025,  Priya Nair ,Chair,Furniture,2.0,161.64,East,UPI,completed,priya.nair@example.com
+ORD00556,12-Sep-2026,li wei,Phone,Electronics,2.0,684.97,North,upi,Completed,li.wei@example.com
+ORD00544,06-Jul-2025,  Maria Garcia ,Chair,Furniture,1.0,173.26,North,UPI,Completed,maria.garcia@example.com
+ORD00988,09/05/2026,Sara Khan,Jacket,Apparel,2.0,118.57,South,UPI,Cancelled,sara.khan@example.com
+ORD00537,01/27/2025,,Sneakers,Apparel,3.0,,SOUTH,Credit-Card,Completed,john.smith@example.com
+ORD01070,02/26/2025,Rahul Verma,Jacket,Apparel,2.0,$127.64,E.,UPI,Completed,rahul.verma@example.com
+ORD01382,2025-06-23,Emma Brown,Jacket,Apparel,1.0,120.73,W.,Credit Card,Completed,emma.brown@example.com
+ORD01069,23-Jul-2025,Emma Brown,Desk,Furniture,5.0,303.42,north,UPI,Completed,emma.brown@example.com
+ORD01225,21-Jul-2025,Maria Garcia,Chair,Furniture,5.0,186.75,East,Debit Card,Completed,maria.garcia@example.com
+ORD00625,04/03/2026,Li Wei,Desk,Furniture,2.0,$312.78,South,Credit Card,Done,li.wei@example.com
+ORD00407,01/06/2025,,Sneakers,Apparel,3.0,$83.48,north,Cash,Returned,priya.nair@example.com
+ORD01349,08-Jan-2026,Priya Nair,Headphones,Electronics,1.0,109.12,North,UPI,Completed,priya.nair@example.com
+ORD00645,02-Aug-2025,Li Wei,Laptop,Electronics,3.0,811.62,East,Credit Card,Completed,li.wei@example.com
+ORD00864,24-Nov-2025,OMAR ALI,Headphones,Electronics,4.0,$115.98,E.,UPI,Completed,omar.ali@example.com
+ORD01006,01/30/2025,Nina Patel,Pen Pack,Stationery,3.0,15.09,South,Cash,Returned,nina.patel@example.com
+ORD01257,2026-05-27,Aarav Mehta,Laptop,Electronics,1.0,860.06,North,UPI,Completed,aarav.mehta@example.com
+ORD00447,2026-05-21,Maria Garcia,Notebook,Stationery,1.0,$8.53,,Credit Card,Completed,maria.garcia@example.com
+ORD00665,06/23/2026,  Aarav Mehta ,Jacket,Apparel,1.0,$125.33,North,Debit Card,Completed,aarav.mehta@example.com
+ORD01078,2026-03-16,Emma Brown,Headphones,Electronics,3.0,,S.,Credit Card,Completed,emma.brown@example.com
+ORD01056,07/16/2026,Aarav Mehta,Headphones,Electronics,2.0,114.77,South,UPI,Completed,aarav.mehta@example.com
+ORD00772,09-Jul-2025,Omar Ali,Jacket,Apparel,2.0,109.8,East,Cash,Returned,
+ORD00480,02/15/2025,John Smith,Laptop,Electronics,4.0,953.46,East,CC,Completed,john.smith@example.com
+ORD01137,04-Feb-2026,John Smith,Pen Pack,Stationery,5.0,15.38,North,Debit Card,Completed,john.smith@example.com
+ORD00580,2025-09-08,RAHUL VERMA,Jacket,Apparel,5.0,108.46,East,Debit Card,Completed,
+ORD01369,2025-08-03,Aarav Mehta,Notebook,Stationery,2.0,7.81,North,Cash,Done,aarav.mehta@example.com
+ORD00262,2026-08-08,  Nina Patel ,Headphones,Electronics,4.0,113.76,W.,UPI,Completed,nina.patel@example.com
+ORD00295,01-Mar-2026,John Smith,Laptop,Electronics,4.0,833.45,West,Cash,Completed,john.smith@example.com
+ORD00722,03/14/2026,Aarav Mehta,Pen Pack,Stationery,2.0,16.25,East,Credit Card,Completed,aarav.mehta@example.com
+ORD01218,05/23/2025,John Smith,Headphones,Electronics,1.0,118.28,east,Cash,Returned,john.smith@example.com
+ORD01267,23-Jul-2025,Omar Ali,Desk,Furniture,3.0,334.42,East,Credit Card,Completed,omar.ali@example.com
+ORD01068,09/14/2026,JOHN SMITH,Phone,Electronics,5.0,$694.05,east,UPI,Completed,john.smith@example.com
+ORD00070,2025-10-03,Maria Garcia,Desk,Furniture,2.0,348.4,S.,UPI,cancelled,maria.garcia@example.com
+ORD01288,2025-08-18,John Smith,Pen Pack,Stationery,4.0,$15.50,East,Debit Card,Completed,john.smith@example.com
+ORD00160,21-Jul-2025,John Smith,Pen Pack,Stationery,2.0,13.61,North ,Credit Card,Completed,john.smith@example.com
+ORD01418,2026-01-27,Nina Patel,Jacket,Apparel,-1.0,114.96,north,UPI,Completed,nina.patel@example.com
+ORD00651,2025-12-14,John Smith,Notebook,Stationery,5.0,,North,Cash,Completed,john.smith@example.com
+ORD00610,26-Oct-2025,Omar Ali,Sneakers,Apparel,1.0,83.4,WEST,Credit Card,Completed,omar.ali@example.com
+ORD01291,2025-01-23,,Phone,Electronics,5.0,586.99,East,Cash,Completed,li.wei@example.com
+ORD00334,14-Jun-2025,emma brown,Notebook,Stationery,1.0,$7.47,East,Credit Card,Completed,emma.brown@example.com
+ORD00695,04/16/2026,Li Wei,Sneakers,Apparel,,,South,CASH,Completed,li.wei@example.com
+ORD00910,14-Jan-2025,  Rahul Verma ,Headphones,Electronics,4.0,$114.86,W.,Debit Card,COMPLETED,rahul.verma@example.com
+ORD00280,2026-03-14,  Li Wei ,Desk,Furniture,4.0,$314.25,South,Debit Card,Completed,li.wei@example.com
+ORD01463,2026-02-22,Rahul Verma,Phone,Electronics,3.0,658.55,North,cash,Completed,rahul.verma@example.com
+ORD00699,09/16/2026,,Sneakers,Apparel,3.0,73.44,North,UPI,Completed,priya.nair@example.com
+ORD00800,03/22/2026,nina patel,Notebook,Stationery,2.0,$7.28,East,Credit Card,Completed,nina.patel@example.com
+ORD00869,24-Oct-2025,Priya Nair,Notebook,Stationery,1.0,7.81,West,Cash,Completed,priya.nair@example.com
+ORD00630,24-Sep-2025,Sara Khan,Desk,Furniture,5.0,326.27,north,Cash,Completed,sara.khan@example.com
+ORD00534,12-Sep-2026,Maria Garcia,Desk,Furniture,1.0,$325.73,West,Cash,Completed,maria.garcia@example.com
+ORD01378,10/17/2025,Omar Ali,Jacket,Apparel,4.0,$110.62,North,Debit Card,completed,
+ORD00737,2025-06-04,Maria Garcia,Sneakers,Apparel,1.0,85.38,west,Cash,Completed,maria.garcia@example.com
+ORD00015,12/14/2025,Li Wei,Chair,Furniture,3.0,165.57,West,Credit Card,Returned,li.wei@example.com
+ORD00683,2025-01-06,John Smith,Sneakers,Apparel,2.0,79.58,South,UPI ,Completed,john.smith@example.com
+ORD00182,2025-06-06,AARAV MEHTA,Chair,Furniture,4.0,$157.24,,UPI,Completed,aarav.mehta@example.com
+ORD00393,2025-11-15,Omar Ali,Jacket,Apparel,3.0,121.86,North,CC,Completed,omar.ali@example.com
+ORD00423,2025-03-16,PRIYA NAIR,Laptop,Electronics,5.0,$977.33,S.,Credit Card,Completed,priya.nair@example.com
+ORD01330,2025-08-12,Emma Brown,Desk,Furniture,5.0,301.15,EAST,Cash,cancelled,emma.brown@example.com
+ORD00463,04/04/2026,Rahul Verma,Jacket,Apparel,,112.09,North,credit card,Completed,rahul.verma@example.com
+ORD01324,2025-12-12,  Maria Garcia ,Headphones,Electronics,1.0,$107.45,South,Debit Card,Done,maria.garcia@example.com
+ORD01039,02-Sep-2026,Omar Ali,Laptop,Electronics,4.0,$859.84,W.,Debit Card,Completed,omar.ali@example.com
+ORD01280,03/23/2026,Emma Brown,Jacket,Apparel,3.0,115.76,East,Credit Card,Completed,emma.brown@example.com
+ORD00802,04-Jan-2026,Maria Garcia,Phone,Electronics,1.0,$692.25,West,CASH,Returned,maria.garcia@example.com
+ORD01374,12-Mar-2025,Li Wei,Headphones,Electronics,,,SOUTH,Credit Card,Completed,li.wei@example.com
+ORD01080,18-Jul-2025,Sara Khan,Desk,Furniture,2.0,$316.59,NORTH,cash,Completed,sara.khan@example.com
+ORD01238,04-Apr-2026,Aarav Mehta,Jacket,Apparel,1.0,117.17,West,Cash,Completed,aarav.mehta@example.com
+ORD00909,2026-05-11,  Rahul Verma ,Sneakers,Apparel,5.0,$78.43,North,Debit Card,Completed,rahul.verma@example.com
+ORD00620,04/15/2025,John Smith,Notebook,Stationery,5.0,8.42,East,Cash,Completed,john.smith@example.com
+ORD01262,01-Aug-2026,Omar Ali,Pen Pack,Stationery,-1.0,$14.12,W.,cash,Completed,omar.ali@example.com
+ORD01141,11-Feb-2026,  Maria Garcia ,Pen Pack,Stationery,1.0,$14.61,North ,Debit Card,Completed,maria.garcia@example.com
+ORD00237,2025-05-26,Priya Nair,Desk,Furniture,5.0,$288.92,EAST,Credit Card,returned,priya.nair@example.com
+ORD00858,27-Jul-2025,John Smith,Notebook,Stationery,2.0,7.85,West,UPI,Completed,john.smith@example.com
+ORD00874,10/23/2025,Emma Brown,Chair,Furniture,1.0,156.55,North,UPI,cancelled,emma.brown@example.com
+ORD00467,2025-12-03,Li Wei,Desk,Furniture,2.0,$307.19,North,Debit Card,Completed,li.wei@example.com
+ORD01118,06/01/2025,OMAR ALI,Phone,Electronics,5.0,693.97,West,UPI,Completed,omar.ali@example.com
+ORD00754,08-Mar-2025,Maria Garcia,Pen Pack,Stationery,4.0,15.6,S.,Cash,Completed,maria.garcia@example.com
+ORD01180,01/05/2025,Sara Khan,Jacket,Apparel,4.0,126.83,West,Cash,Completed,sara.khan@example.com
+ORD00942,2026-08-21,Omar Ali,Pen Pack,Stationery,3.0,$15.32,East,UPI,Completed,omar.ali@example.com
+ORD00883,2025-06-14,Nina Patel,Chair,Furniture,3.0,$175.73,North,UPI,Returned,nina.patel@example.com
+ORD00292,05/30/2026,Priya Nair,Headphones,Electronics,5.0,$120.70,North,credit card,Completed,priya.nair@example.com
+ORD00234,11/15/2025,Emma Brown,Jacket,Apparel,2.0,119.82,South,CC,Completed,emma.brown@example.com
+ORD00742,2026-09-16,Li Wei,Jacket,Apparel,5.0,114.44,North,UPI,Completed,li.wei@example.com
+ORD01214,2025-02-18,John Smith,Laptop,Electronics,-1.0,974.73,South,Debit Card,Completed,john.smith@example.com
+ORD00410,2025-10-02,Omar Ali,Jacket,Apparel,1.0,130.49,South,Credit Card,Returned,omar.ali@example.com
+ORD01477,29-Jun-2026,Li Wei,Notebook,Stationery,5.0,8.08,west,Credit Card,Completed,li.wei@example.com
+ORD00851,2025-06-22,Sara Khan,Notebook,Stationery,2.0,$7.44,EAST,Cash,Completed,sara.khan@example.com
+ORD01041,01/19/2026,  Sara Khan ,Notebook,Stationery,2.0,8.79,South ,UPI,cancelled,sara.khan@example.com
+ORD01210,2025-05-22,priya nair,Desk,Furniture,2.0,,North ,Credit-Card,COMPLETED,priya.nair@example.com
+ORD00320,16-Apr-2026,Emma Brown,Pen Pack,Stationery,1.0,$14.52,North,Credit Card,Completed,emma.brown@example.com
+ORD00743,20-Feb-2026,Sara Khan,Laptop,Electronics,,$828.86,West,Credit Card,Completed,sara.khan@example.com
+ORD01247,2026-05-21,Priya Nair,Phone,Electronics,4.0,608.9,north,Cash,Completed,priya.nair@example.com
+ORD01285,2025-11-06,  Priya Nair ,Headphones,Electronics,,112.64,North,Cash,Completed,priya.nair@example.com
+ORD01064,01-Apr-2026,Emma Brown,Jacket,Apparel,2.0,$112.08,West,upi,Completed,emma.brown@example.com
+ORD01169,2026-02-16,Maria Garcia,Sneakers,Apparel,2.0,,West,UPI,Cancelled,maria.garcia@example.com
+ORD00050,08/15/2025,omar ali,Chair,Furniture,5.0,184.22,East,Cash,Returned,omar.ali@example.com
+ORD00786,2026-05-01,Li Wei,Phone,Electronics,5.0,633.54,South,Credit-Card,Completed,li.wei@example.com
+ORD00060,03/24/2025,Sara Khan,Notebook,Stationery,5.0,$8.58,South,Credit-Card,Completed,sara.khan@example.com
+ORD01252,02/23/2025,Emma Brown,Desk,Furniture,1.0,309.29,North,Credit-Card,Cancelled,emma.brown@example.com
+ORD01067,07/14/2026,Priya Nair,Sneakers,Apparel,4.0,86.43,West,Cash,Completed,priya.nair@example.com
+ORD00323,03/24/2025,  Nina Patel ,Pen Pack,Stationery,4.0,$14.86,south,UPI,Completed,nina.patel@example.com
+ORD00462,05/06/2026,emma brown,Pen Pack,Stationery,2.0,15.45,South,Debit Card,Completed,emma.brown@example.com
+ORD01359,2026-02-16,Aarav Mehta,Laptop,Electronics,3.0,842.12,West,UPI,Completed,aarav.mehta@example.com
+ORD00535,2025-06-23,,Pen Pack,Stationery,4.0,$14.68,east,Debit Card,Completed,rahul.verma@example.com
+ORD00629,14-Jan-2025,MARIA GARCIA,Pen Pack,Stationery,1.0,16.46,E.,Debit Card,Cancelled,maria.garcia@example.com
+ORD00929,17-Dec-2025,Priya Nair,Pen Pack,Stationery,2.0,14.3,East,Debit Card,COMPLETED,priya.nair@example.com
+ORD01293,02/08/2026,  Rahul Verma ,Sneakers,Apparel,5.0,74.67,North ,Cash,Completed,rahul.verma@example.com
+ORD00951,2025-09-24,Sara Khan,Headphones,Electronics,4.0,105.29,South,Cash,Completed,sara.khan@example.com
+ORD00526,10/14/2025,Nina Patel,Jacket,Apparel,3.0,$115.14,south,Cash,Completed,
+ORD01367,01-Sep-2025,Emma Brown,Notebook,Stationery,2.0,8.4,West,Cash,Completed,emma.brown@example.com
+ORD00402,26-Aug-2025,Rahul Verma,Jacket,Apparel,1.0,121.12,north,Debit Card,Completed,rahul.verma@example.com
+ORD01038,13-Feb-2026,Omar Ali,Notebook,Stationery,,8.61,South,Credit Card,Done,omar.ali@example.com
+ORD00372,03/18/2026,SARA KHAN,Notebook,Stationery,3.0,8.3,West,Debit Card,Completed,sara.khan@example.com
+ORD00400,15-Jul-2026,Maria Garcia,Headphones,Electronics,3.0,100.57,West,Credit Card,Completed,maria.garcia@example.com
+ORD01242,2025-01-23,nina patel,Headphones,Electronics,3.0,$120.92,West,upi,Completed,
+ORD01294,07/01/2026,Sara Khan,Notebook,Stationery,,,West,Cash,Completed,
+ORD00590,23-Aug-2026,,Chair,Furniture,,,EAST,UPI,Completed,priya.nair@example.com
+ORD00674,2026-04-25,Emma Brown,Notebook,Stationery,3.0,8.6,S.,Cash,Completed,emma.brown@example.com
+ORD01117,13-Mar-2025,Omar Ali,Headphones,Electronics,2.0,117.94,South,UPI,Cancelled,omar.ali@example.com
+ORD00107,11/15/2025,Maria Garcia,Phone,Electronics,4.0,660.67,NORTH,UPI,Done,
+ORD00836,2026-06-02,Aarav Mehta,Headphones,Electronics,4.0,114.88,East,CASH,completed,aarav.mehta@example.com
+ORD00252,16-Feb-2026,  John Smith ,Sneakers,Apparel,4.0,$87.22,East,credit card,Completed,john.smith@example.com
+ORD01372,07/30/2025,Rahul Verma,Laptop,Electronics,2.0,921.65,South,Debit Card,Completed,rahul.verma@example.com
+ORD01116,2026-07-23,MARIA GARCIA,Notebook,Stationery,5.0,8.53,East,cash,Completed,maria.garcia@example.com
+ORD00391,02/20/2026,Sara Khan,Laptop,Electronics,1.0,940.59,West,Cash,Completed,sara.khan@example.com
+ORD00795,09/19/2026,Aarav Mehta,Sneakers,Apparel,4.0,86.73,West,Cash,Completed,aarav.mehta@example.com
+ORD00057,07/22/2026,John Smith,Desk,Furniture,3.0,$327.26,West,Credit Card,Completed,john.smith@example.com
+ORD00669,2026-05-06,,Jacket,Apparel,1.0,130.17,EAST,Cash,Cancelled,omar.ali@example.com
+ORD00682,10-Oct-2025,Li Wei,Notebook,Stationery,2.0,,West,Credit Card,COMPLETED,li.wei@example.com
+ORD00804,2026-03-13,John Smith,Laptop,Electronics,2.0,888.87,S.,Cash,Completed,john.smith@example.com
+ORD01451,05/25/2025,  Li Wei ,Laptop,Electronics,4.0,901.91,North,Cash,Completed,li.wei@example.com
+ORD00347,03-Jan-2026,JOHN SMITH,Chair,Furniture,5.0,$180.19,South,CC,Completed,john.smith@example.com
+ORD00152,11-Apr-2026,Priya Nair,Phone,Electronics,1.0,$682.34,North,Cash,Completed,priya.nair@example.com
+ORD01328,11-Aug-2025,li wei,Chair,Furniture,3.0,,S.,Credit Card,Returned,li.wei@example.com
+ORD00828,2026-05-28,SARA KHAN,Sneakers,Apparel,3.0,$80.71,North,Credit Card,Completed,sara.khan@example.com
+ORD00525,2025-10-16,Aarav Mehta,Headphones,Electronics,3.0,101.02,east,Cash,Cancelled,aarav.mehta@example.com
+ORD00022,08/25/2025,Aarav Mehta,Headphones,Electronics,2.0,115.49,north,UPI,Completed,aarav.mehta@example.com
+ORD00406,2026-02-01,Rahul Verma,Desk,Furniture,3.0,294.65,East,CC,COMPLETED,rahul.verma@example.com
+ORD00258,07/21/2025,John Smith,Jacket,Apparel,1.0,$116.81,South,Credit Card,Returned,john.smith@example.com
+ORD00701,2026-06-24,,Phone,Electronics,4.0,$630.18,South,UPI,Completed,
+ORD00389,2025-05-16,Emma Brown,Laptop,Electronics,3.0,946.47,South,Debit Card,Completed,emma.brown@example.com
+ORD00186,2026-04-20,Nina Patel,Laptop,Electronics,2.0,936.94,East,Credit Card,Completed,nina.patel@example.com
+ORD00044,2025-05-11,Emma Brown,Sneakers,Apparel,3.0,74.52,West,Credit Card,Completed,emma.brown@example.com
+ORD00474,2025-04-12,Li Wei,Sneakers,Apparel,2.0,82.76,East,UPI,COMPLETED,li.wei@example.com
+ORD00853,09/16/2026,Aarav Mehta,Laptop,Electronics,3.0,909.4,South,Debit Card,Completed,aarav.mehta@example.com
+ORD01151,04/15/2025,Aarav Mehta,Chair,Furniture,4.0,$162.63,SOUTH,Cash,Completed,aarav.mehta@example.com
+ORD00341,03-Mar-2025,  Li Wei ,Phone,Electronics,5.0,658.13,East,Credit Card,Completed,
+ORD01126,2026-09-06,sara khan,Sneakers,Apparel,4.0,85.88,North ,Debit Card,Completed,
+ORD01347,05-Nov-2025,Maria Garcia,Chair,Furniture,2.0,155.6,South,UPI,Cancelled,maria.garcia@example.com
+ORD01042,03/05/2026,Omar Ali,Phone,Electronics,1.0,$636.52,East,UPI,Completed,omar.ali@example.com
+ORD01493,2025-03-20,Aarav Mehta,Notebook,Stationery,5.0,7.66,NORTH,Credit Card,Cancelled,
+ORD00961,11/15/2025,Omar Ali,Pen Pack,Stationery,4.0,15.7,EAST,Cash,Completed,omar.ali@example.com
+ORD01158,06/08/2026,Maria Garcia,Headphones,Electronics,4.0,$105.29,South,Credit-Card,completed,maria.garcia@example.com
+ORD00316,02/03/2026,LI WEI,Sneakers,Apparel,1.0,84.66,North,UPI,Completed,li.wei@example.com
+ORD00330,07-Mar-2026,Emma Brown,Sneakers,Apparel,1.0,87.64,East,Debit Card,Returned,emma.brown@example.com
+ORD00513,06-Jan-2025,Rahul Verma,Pen Pack,Stationery,5.0,14.35,West,UPI,Completed,rahul.verma@example.com
+ORD01065,2025-03-25,Emma Brown,Pen Pack,Stationery,,$14.50,South,UPI,Completed,emma.brown@example.com
+ORD00346,2025-04-10,aarav mehta,Desk,Furniture,1.0,335.7,East,Cash,Completed,aarav.mehta@example.com
+ORD00833,30-Jan-2025,Li Wei,Chair,Furniture,5.0,$173.66,North,cash,Completed,li.wei@example.com
+ORD00684,2025-05-18,Rahul Verma,Laptop,Electronics,2.0,$887.00,S.,Debit Card,Completed,rahul.verma@example.com
+ORD01003,04/09/2025,Omar Ali,Jacket,Apparel,4.0,126.17,East,UPI ,Completed,omar.ali@example.com
+ORD00364,25-Apr-2026,Aarav Mehta,Sneakers,Apparel,5.0,75.13,West,Cash,Completed,not-an-email
+ORD00773,2025-07-26,Rahul Verma,Sneakers,Apparel,3.0,$86.84,,Debit Card,Returned,rahul.verma@example.com
+ORD00067,09/15/2026,  Priya Nair ,Chair,Furniture,3.0,$155.24,North,Credit Card,Completed,priya.nair@example.com
+ORD01264,03/14/2025,Rahul Verma,Headphones,Electronics,2.0,105.29,West,Cash,Completed,rahul.verma@example.com
+ORD00933,08/29/2025,Aarav Mehta,Chair,Furniture,5.0,186.96,East,Cash,Completed,aarav.mehta@example.com
+ORD01500,06-Sep-2025,maria garcia,Laptop,Electronics,5.0,835.01,East,Credit Card,Cancelled,maria.garcia@example.com
+ORD01400,09/10/2025,Maria Garcia,Phone,Electronics,5.0,$675.90,West,Debit Card,Completed,maria.garcia@example.com
+ORD00644,03/23/2025,Maria Garcia,Jacket,Apparel,4.0,$110.32,North,Debit Card,Completed,maria.garcia@example.com
+ORD01373,02/16/2025,Emma Brown,Phone,Electronics,-1.0,$682.33,South,Debit Card,Completed,emma.brown@example.com
+ORD00809,09/27/2026,Sara Khan,Chair,Furniture,2.0,$184.59,North,Debit Card,Completed,sara.khan@example.com
+ORD00646,08/28/2025,John Smith,Laptop,Electronics,4.0,$867.82,E.,upi,Completed,john.smith@example.com
+ORD00418,09/22/2025,Sara Khan,Pen Pack,Stationery,2.0,16.41,East,UPI,Completed,sara.khan@example.com
+ORD01456,2026-05-08,rahul verma,Sneakers,Apparel,3.0,79.39,East,Cash,COMPLETED,rahul.verma@example.com
+ORD01131,13-Aug-2026,rahul verma,Jacket,Apparel,5.0,$126.51,north,Credit-Card,Completed,rahul.verma@example.com
+ORD00542,04/28/2025,Rahul Verma,Desk,Furniture,2.0,312.61,North,Cash,Completed,rahul.verma@example.com
+ORD01408,07-Sep-2025,Omar Ali,Phone,Electronics,1.0,$690.94,NORTH,Credit Card,Completed,omar.ali@example.com
+ORD00314,2025-06-03,Emma Brown,Notebook,Stationery,5.0,7.85,East,upi,Completed,emma.brown@example.com
+ORD00307,02-Jan-2026,Aarav Mehta,Chair,Furniture,2.0,$158.77,West,Debit Card,Completed,aarav.mehta@example.com
+ORD00941,28-Jul-2025,Maria Garcia,Chair,Furniture,3.0,$165.79,South,Debit Card,Returned,maria.garcia@example.com
+ORD00130,04/19/2026,Li Wei,Headphones,Electronics,3.0,$117.67,West,UPI,completed,li.wei@example.com
+ORD00396,19-Jul-2026,Aarav Mehta,Pen Pack,Stationery,4.0,15.39,,Cash,cancelled,aarav.mehta@example.com
+ORD01421,05/07/2025,Emma Brown,Headphones,Electronics,4.0,113.62,NORTH,Debit Card,Completed,emma.brown@example.com
+ORD00327,20-Mar-2026,Priya Nair,Sneakers,Apparel,4.0,87.61,east,UPI,Completed,priya.nair@example.com
+ORD00192,03/20/2026,Nina Patel,Sneakers,Apparel,4.0,$77.30,South,CC,Returned,nina.patel@example.com
+ORD00723,01/11/2026,Omar Ali,Pen Pack,Stationery,2.0,16.44,S.,Cash,Completed,omar.ali@example.com
+ORD01164,2026-04-15,Emma Brown,Phone,Electronics,2.0,$710.16,West,Credit Card,returned,emma.brown@example.com
+ORD01065,2025-03-25,Emma Brown,Pen Pack,Stationery,,$14.50,South,UPI,Completed,emma.brown@example.com
+ORD00994,2025-06-05,Maria Garcia,Headphones,Electronics,4.0,$111.27,South,Credit Card,Completed,maria.garcia@example.com
+ORD00921,16-May-2026,  Omar Ali ,Desk,Furniture,3.0,341.56,South,Credit Card,Completed,omar.ali@example.com
+ORD00496,2025-10-17,Priya Nair,Jacket,Apparel,4.0,$128.68,East,Debit Card,Completed,
+ORD01033,06/20/2026,Li Wei,Jacket,Apparel,1.0,117.65,North,Credit Card,Completed,li.wei@example.com
+ORD00868,19-Nov-2025,Aarav Mehta,Sneakers,Apparel,2.0,75.9,West ,Debit Card,Completed,aarav.mehta@example.com
+ORD00385,2025-06-14,Aarav Mehta,Laptop,Electronics,4.0,881.02,West,Credit Card,Cancelled,aarav.mehta@example.com
+ORD01136,04/03/2025,,Notebook,Stationery,4.0,,South ,Credit Card,Completed,li.wei@example.com
+ORD00653,2025-05-10,Emma Brown,Pen Pack,Stationery,2.0,15.99,North,Cash,Returned,emma.brown@example.com
+ORD00569,18-Dec-2025,John Smith,Pen Pack,Stationery,1.0,14.13,North,Cash,Returned,john.smith@example.com
+ORD00398,11-Mar-2025,aarav mehta,Desk,Furniture,,$331.88,East,Debit Card,Completed,aarav.mehta@example.com
+ORD00947,06/06/2025,Emma Brown,Laptop,Electronics,3.0,865.6,West,Credit Card,Completed,emma.brown@example.com
+ORD01149,2025-09-07,li wei,Desk,Furniture,1.0,314.52,west,Credit Card,Completed,li.wei@example.com
+ORD01397,13-Nov-2025,Aarav Mehta,Headphones,Electronics,5.0,109.32,East,Debit Card,Completed,aarav.mehta@example.com
+ORD00725,03/14/2025,MARIA GARCIA,Notebook,Stationery,3.0,8.55,East,Debit Card,Completed,maria.garcia@example.com
+ORD00533,2026-03-24,Rahul Verma,Headphones,Electronics,3.0,$115.40,North,UPI ,Completed,rahul.verma@example.com
+ORD00763,2025-11-20,Omar Ali,Headphones,Electronics,5.0,108.21,West,Credit Card,Done,omar.ali@example.com
+ORD00162,15-Jun-2025,rahul verma,Desk,Furniture,3.0,$297.99,West,Debit Card,Completed,rahul.verma@example.com
+ORD01284,21-Jan-2026,MARIA GARCIA,Sneakers,Apparel,3.0,84.33,South,upi,Completed,maria.garcia@example.com
+ORD01104,2025-04-13,Priya Nair,Chair,Furniture,4.0,$184.00,South,Debit Card,Completed,priya.nair@example.com
+ORD00937,17-Mar-2025,  Emma Brown ,Headphones,Electronics,1.0,111.15,West,UPI,Completed,emma.brown@example.com
+ORD01040,2026-08-13,,Headphones,Electronics,3.0,119.41,East,Credit Card,Completed,aarav.mehta@example.com
+ORD01074,2025-12-20,Li Wei,Pen Pack,Stationery,2.0,$14.91,South,Debit Card,Done,li.wei@example.com
+ORD01308,22-Jun-2026,Nina Patel,Headphones,Electronics,,$117.09,East,Cash,Completed,nina.patel@example.com
+ORD00021,2026-07-10,Priya Nair,Sneakers,Apparel,4.0,85.15,east,CC,Completed,priya.nair@example.com
+ORD00570,04/18/2025,Emma Brown,Desk,Furniture,2.0,319.16,South,CASH,Completed,emma.brown@example.com
+ORD00654,08/23/2025,Omar Ali,Desk,Furniture,3.0,300.06,South,cash,Completed,omar.ali@example.com
+ORD00697,2025-01-08,emma brown,Pen Pack,Stationery,2.0,$14.14,North,Debit Card,Completed,emma.brown@example.com
+ORD00482,04-Feb-2025,  Rahul Verma ,Pen Pack,Stationery,1.0,14.66,North,Cash,Completed,rahul.verma@example.com
+ORD00034,2026-03-06,  Li Wei ,Laptop,Electronics,4.0,,West,UPI,Completed,li.wei@example.com
+ORD01050,03/31/2025,Aarav Mehta,Phone,Electronics,2.0,699.11,South,Credit Card,Returned,aarav.mehta@example.com
+ORD00048,06-Nov-2025,Sara Khan,Chair,Furniture,3.0,166.2,East ,credit card,Completed,
+ORD00030,30-Mar-2025,Rahul Verma,Notebook,Stationery,5.0,$8.20,NORTH,Cash,Completed,rahul.verma@example.com
+ORD01006,01/30/2025,Nina Patel,Pen Pack,Stationery,3.0,15.09,South,Cash,Completed,nina.patel@example.com
+ORD01139,30-Mar-2026,Li Wei,Phone,Electronics,5.0,644.23,South,Credit Card,Completed,li.wei@example.com
+ORD01171,2025-12-02,Rahul Verma,Desk,Furniture,3.0,$311.49,EAST,UPI,returned,rahul.verma@example.com
+ORD01315,10/01/2025,Rahul Verma,Phone,Electronics,4.0,623.34,east,Debit Card,Cancelled,rahul.verma@example.com
+ORD00511,11-Mar-2026,Priya Nair,Jacket,Apparel,1.0,118.87,West,Cash,returned,priya.nair@example.com
+ORD00531,01-Apr-2025,priya nair,Notebook,Stationery,-1.0,$8.72,East,UPI,Completed,priya.nair@example.com
+ORD00923,18-Apr-2026,Aarav Mehta,Laptop,Electronics,1.0,904.51,North,UPI,Completed,aarav.mehta@example.com
+ORD00502,08/22/2025,Li Wei,Sneakers,Apparel,4.0,$79.98,East,Debit Card,Completed,li.wei@example.com
+ORD00433,08/27/2026,Nina Patel,Notebook,Stationery,5.0,$7.59,North,Debit Card,Completed,nina.patel@example.com
+ORD00254,14-Aug-2025,AARAV MEHTA,Phone,Electronics,2.0,602.52,North,UPI,Completed,
+ORD00720,2026-04-08,Maria Garcia,Headphones,Electronics,4.0,$120.98,West,Cash,COMPLETED,maria.garcia@example.com
+ORD01411,07/12/2025,Omar Ali,Sneakers,Apparel,3.0,$76.93,N.,credit card,Completed,omar.ali@example.com
+ORD01251,02/11/2025,Maria Garcia,Headphones,Electronics,1.0,99.39,South,UPI,Completed,maria.garcia@example.com
+ORD00780,28-Jan-2026,Omar Ali,Pen Pack,Stationery,5.0,15.42,South,Credit Card,Completed,omar.ali@example.com
+ORD00367,05-May-2025,Nina Patel,Jacket,Apparel,1.0,123.28,North ,Cash,Returned,nina.patel@example.com
+ORD01077,26-Apr-2025,Sara Khan,Phone,Electronics,4.0,$650.87,East,Credit Card,Returned,sara.khan@example.com
+ORD01079,07-Sep-2026,Priya Nair,Notebook,Stationery,,8.05,West,UPI,cancelled,priya.nair@example.com
+ORD00681,28-Jul-2025,Nina Patel,Phone,Electronics,2.0,697.59,South,CASH,Cancelled,
+ORD01240,2025-05-11,NINA PATEL,Pen Pack,Stationery,3.0,$13.97,East,UPI,Completed,nina.patel@example.com
+ORD00813,2026-04-02,Aarav Mehta,Desk,Furniture,2.0,$303.97,South,Credit Card,Completed,aarav.mehta@example.com
+ORD00736,2025-01-14,Rahul Verma,Notebook,Stationery,2.0,$8.48,West,Credit Card,Completed,rahul.verma@example.com
+ORD01049,11-Sep-2025,Priya Nair,Laptop,Electronics,1.0,851.35,North,Credit-Card,Cancelled,priya.nair@example.com
+ORD00299,2025-08-13,LI WEI,Jacket,Apparel,2.0,118.97,South,cash,Completed,li.wei@example.com
+ORD00557,2026-09-06,Emma Brown,Sneakers,Apparel,2.0,82.26,East,Debit Card,Completed,emma.brown@example.com
+ORD00576,03/23/2025,Li Wei,Phone,Electronics,1.0,601.85,South,Cash,Completed,li.wei@example.com
+ORD00019,09/19/2026,Sara Khan,Headphones,Electronics,2.0,102.96,S.,Debit Card,Completed,sara.khan@example.com
+ORD00573,2025-12-24,Li Wei,Sneakers,Apparel,4.0,79.68,west,Cash,Completed,li.wei@example.com
+ORD00226,02/08/2025,Sara Khan,Chair,Furniture,5.0,$168.59,South,UPI,Returned,sara.khan@example.com
+ORD00600,2025-09-13,Sara Khan,Headphones,Electronics,1.0,,NORTH,CC,Completed,sara.khan@example.com
+ORD00420,12/05/2025,Li Wei,Pen Pack,Stationery,1.0,15.56,South,Debit Card,Cancelled,li.wei@example.com
+ORD01207,08/29/2026,Maria Garcia,Laptop,Electronics,5.0,944.33,North,Cash,Completed,
+ORD00219,02-Apr-2025,Nina Patel,Phone,Electronics,3.0,676.64,East,UPI,Completed,nina.patel@example.com
+ORD00308,07/02/2025,OMAR ALI,Phone,Electronics,3.0,,West,UPI ,Completed,omar.ali@example.com
+ORD00157,08/29/2026,Li Wei,Laptop,Electronics,5.0,928.03,South,Cash,Returned,
+ORD00172,07/21/2025,Sara Khan,Laptop,Electronics,5.0,862.05,N.,UPI,cancelled,sara.khan@example.com
+ORD01228,02-Mar-2025,Emma Brown,Desk,Furniture,4.0,293.15,NORTH,Debit Card,cancelled,emma.brown@example.com
+ORD00706,08-Oct-2025,Emma Brown,Sneakers,Apparel,3.0,86.83,West,Credit Card,Completed,emma.brown@example.com
+ORD00287,08/10/2025,EMMA BROWN,Laptop,Electronics,4.0,$896.82,East,UPI,Completed,emma.brown@example.com
+ORD01091,04/08/2025,MARIA GARCIA,Headphones,Electronics,3.0,117.19,West,Cash,Completed,maria.garcia@example.com
+ORD00454,2025-12-13,Maria Garcia,Headphones,Electronics,5.0,120.7,East,Credit Card,Completed,maria.garcia@example.com
+ORD00273,2025-09-15,  Omar Ali ,Pen Pack,Stationery,2.0,14.42,South,Debit Card,Done,omar.ali@example.com
+ORD00072,2025-04-05,Maria Garcia,Notebook,Stationery,4.0,8.62,East,Credit Card,Completed,maria.garcia@example.com
+ORD00083,04/22/2025,Rahul Verma,Pen Pack,Stationery,3.0,14.68,north,upi,Completed,rahul.verma@example.com
+ORD01449,12-May-2025,nina patel,Desk,Furniture,1.0,340.71,South ,Credit Card,Completed,nina.patel@example.com
+ORD01491,2026-01-14,  Rahul Verma ,Jacket,Apparel,5.0,$109.44,east,UPI,Completed,rahul.verma@example.com
+ORD00016,25-Mar-2025,John Smith,Headphones,Electronics,3.0,101.79,West,Cash,Cancelled,john.smith@example.com
+ORD00536,2026-01-16,Maria Garcia,Headphones,Electronics,2.0,114.86,SOUTH,Debit Card,Cancelled,maria.garcia@example.com
+ORD01344,2026-09-15,Rahul Verma,Notebook,Stationery,5.0,$8.74,West,Cash,Completed,rahul.verma@example.com
+ORD00919,2025-07-25,Sara Khan,Headphones,Electronics,5.0,$114.25,north,Credit Card,Completed,sara.khan@example.com
+ORD00452,04/03/2026,nina patel,Phone,Electronics,3.0,650.63,North,Cash,Completed,nina.patel@example.com
+ORD01189,09/05/2026,  Nina Patel ,Jacket,Apparel,5.0,$119.25,South,Debit Card,Completed,nina.patel@example.com
+ORD00405,2026-04-24,Li Wei,Desk,Furniture,,$348.85,South,Credit Card,Returned,li.wei@example.com
+ORD01436,2025-06-07,EMMA BROWN,Laptop,Electronics,2.0,844.18,South ,Credit Card,Completed,emma.brown@example.com
+ORD01394,13-Apr-2025,,Headphones,Electronics,4.0,109.05,west,Debit Card,Completed,aarav.mehta@example.com
+ORD00740,03/20/2025,john smith,Pen Pack,Stationery,4.0,16.33,East,Debit Card,Completed,john.smith@example.com
+ORD00365,04-May-2025,Sara Khan,Jacket,Apparel,3.0,123.52,North,Cash,Completed,sara.khan@example.com
+ORD00105,03-Jul-2026,Maria Garcia,Pen Pack,Stationery,3.0,15.86,South,cash,Completed,maria.garcia@example.com
+ORD01442,05/21/2025,Maria Garcia,Pen Pack,Stationery,4.0,$15.84,East,UPI ,Completed,maria.garcia@example.com
+ORD01281,17-May-2025,Priya Nair,Chair,Furniture,4.0,$170.04,East,credit card,Completed,priya.nair@example.com
+ORD00662,04-Sep-2025,Maria Garcia,Jacket,Apparel,3.0,$121.65,South,Debit Card,Cancelled,maria.garcia@example.com
+ORD00242,2025-01-25,Emma Brown,Phone,Electronics,2.0,669.09,North,UPI,Completed,emma.brown@example.com
+ORD00431,30-Jul-2026,Omar Ali,Phone,Electronics,5.0,680.74,South,UPI,Completed,omar.ali@example.com
+ORD00815,2026-05-27,Nina Patel,Phone,Electronics,3.0,$691.80,East ,UPI,Cancelled,nina.patel@example.com
+ORD00631,15-Apr-2026,Maria Garcia,Sneakers,Apparel,5.0,83.98,E.,Credit-Card,Completed,maria.garcia@example.com
+ORD00097,16-Jul-2025,Omar Ali,Pen Pack,Stationery,4.0,$16.16,South,CASH,Completed,omar.ali@example.com
+ORD00468,2026-04-17,Omar Ali,Headphones,Electronics,2.0,$104.65,North,Debit Card,Cancelled,omar.ali@example.com
+ORD01191,2026-02-19,Aarav Mehta,Jacket,Apparel,5.0,$122.14,East,Debit Card,Done,aarav.mehta@example.com
+ORD00085,10-Oct-2025,Maria Garcia,Pen Pack,Stationery,1.0,$15.83,E.,Debit Card,Completed,maria.garcia@example.com
+ORD00702,2025-09-21,  Sara Khan ,Sneakers,Apparel,3.0,73.85,South,Credit Card,Completed,sara.khan@example.com
+ORD00010,05-Apr-2025,Rahul Verma,Laptop,Electronics,1.0,814.35,,Cash,Completed,rahul.verma@example.com
+ORD00605,07/04/2026,aarav mehta,Sneakers,Apparel,3.0,$81.51,West,Credit Card,Completed,aarav.mehta@example.com
+ORD00879,2026-08-18,SARA KHAN,Phone,Electronics,2.0,704.53,South,Debit Card,Completed,sara.khan@example.com
+ORD00774,29-Aug-2025,Priya Nair,Sneakers,Apparel,2.0,$85.00,E.,Debit Card,cancelled,priya.nair@example.com
+ORD01163,2026-09-26,  Rahul Verma ,Sneakers,Apparel,5.0,81.58,west,Credit Card,completed,rahul.verma@example.com
+ORD00277,04/15/2026,Aarav Mehta,Jacket,Apparel,1.0,$127.45,North ,UPI,completed,aarav.mehta@example.com
+ORD00089,08/05/2025,Omar Ali,Notebook,Stationery,1.0,$8.11,east,Debit Card,Completed,omar.ali@example.com
+ORD00091,2026-02-05,MARIA GARCIA,Phone,Electronics,3.0,695.0,West,UPI,Completed,maria.garcia@example.com
+ORD00766,06/23/2025,Nina Patel,Pen Pack,Stationery,,$16.03,West ,Debit Card,Completed,nina.patel@example.com
+ORD00281,09-Nov-2025,Aarav Mehta,Jacket,Apparel,4.0,109.85,North,Debit Card,Cancelled,aarav.mehta@example.com
+ORD01008,07/04/2025,emma brown,Sneakers,Apparel,5.0,$72.56,West,Credit Card,Completed,emma.brown@example.com
+ORD00652,23-Jul-2026,Sara Khan,Desk,Furniture,2.0,320.29,West,UPI,Cancelled,sara.khan@example.com
+ORD00993,14-May-2025,  John Smith ,Notebook,Stationery,2.0,8.7,South,Credit Card,cancelled,john.smith@example.com
+ORD00366,2025-09-04,Emma Brown,Laptop,Electronics,,$852.14,WEST,Cash,Completed,emma.brown@example.com
+ORD00024,24-Nov-2025,Aarav Mehta,Chair,Furniture,5.0,157.21,South,Credit Card,Completed,aarav.mehta@example.com
+ORD00677,05/03/2026,Rahul Verma,Laptop,Electronics,3.0,926.4,west,UPI,Completed,rahul.verma@example.com
+ORD00999,01/14/2026,nina patel,Chair,Furniture,1.0,$174.32,S.,Credit Card,Completed,nina.patel@example.com
+ORD01190,07/16/2025,Sara Khan,Notebook,Stationery,5.0,$8.77,North,UPI,Completed,sara.khan@example.com
+ORD00311,07-Mar-2026,Maria Garcia,Jacket,Apparel,5.0,131.72,South,Cash,Completed,maria.garcia@example.com
+ORD01061,13-Oct-2025,Omar Ali,Notebook,Stationery,3.0,8.25,West,UPI,Completed,omar.ali@example.com
+ORD00641,2025-04-27,AARAV MEHTA,Pen Pack,Stationery,4.0,15.48,East,UPI,Completed,aarav.mehta@example.com
+ORD00241,2025-01-05,Priya Nair,Jacket,Apparel,1.0,108.41,,Cash,Completed,priya.nair@example.com
+ORD00667,21-Jan-2026,Emma Brown,Sneakers,Apparel,5.0,$82.94,West,Cash,cancelled,emma.brown@example.com
+ORD01339,02-Sep-2026,Rahul Verma,Sneakers,Apparel,5.0,78.73,South,Cash,Completed,rahul.verma@example.com
+ORD00099,03-Jan-2025,Emma Brown,Sneakers,Apparel,2.0,$79.22,East,UPI,Completed,
+ORD00168,08/07/2025,  Rahul Verma ,Phone,Electronics,2.0,586.81,South,Debit Card,Completed,rahul.verma@example.com
+ORD00497,15-Sep-2026,John Smith,Notebook,Stationery,1.0,$8.54,East,Cash,Completed,john.smith@example.com
+ORD00276,2025-02-12,  Maria Garcia ,Jacket,Apparel,5.0,112.1,E.,UPI,Completed,maria.garcia@example.com
+ORD01114,2025-01-30,li wei,Phone,Electronics,1.0,657.8,West,Cash,Completed,li.wei@example.com
+ORD00715,03/20/2025,Emma Brown,Sneakers,Apparel,3.0,$79.44,East,Cash,Completed,emma.brown@example.com
+ORD01306,01/21/2026,NINA PATEL,Headphones,Electronics,2.0,104.6,South ,Credit Card,Completed,nina.patel@example.com
+ORD00332,11/28/2025,Nina Patel,Desk,Furniture,3.0,$323.41,West,upi,Completed,nina.patel@example.com
+ORD00220,03-Apr-2025,Aarav Mehta,Jacket,Apparel,2.0,131.65,West,UPI,Completed,
+ORD00434,02/13/2025,  Nina Patel ,Chair,Furniture,,153.45,South,UPI,Completed,nina.patel@example.com
+ORD01494,13-Jan-2026,Omar Ali,Pen Pack,Stationery,5.0,$14.92,south,Debit Card,Completed,
+ORD01329,10/20/2025,RAHUL VERMA,Jacket,Apparel,3.0,$130.89,SOUTH,upi,Completed,rahul.verma@example.com
+ORD00487,09-May-2026,MARIA GARCIA,Desk,Furniture,3.0,314.73,S.,Credit Card,Returned,maria.garcia@example.com
+ORD00532,12-Jul-2026,Li Wei,Desk,Furniture,4.0,306.77,South,UPI,Completed,li.wei@example.com
+ORD01348,2026-07-12,John Smith,Headphones,Electronics,2.0,99.82,East,Cash,Completed,john.smith@example.com
+ORD00261,03/11/2025,Priya Nair,Chair,Furniture,5.0,180.61,East,UPI,Completed,priya.nair@example.com
+ORD00811,2025-08-07,RAHUL VERMA,Pen Pack,Stationery,4.0,$14.30,NORTH,UPI,Completed,rahul.verma@example.com
+ORD00306,11/15/2025,  Nina Patel ,Pen Pack,Stationery,2.0,$14.04,E.,Debit Card,Returned,nina.patel@example.com
+ORD01311,04-May-2025,Nina Patel,Phone,Electronics,,652.02,SOUTH,Debit Card,Completed,nina.patel@example.com
+ORD00197,11/03/2025,john smith,Desk,Furniture,3.0,$289.57,South,UPI,Completed,john.smith@example.com
+ORD01165,15-Apr-2026,John Smith,Laptop,Electronics,4.0,913.79,West,Debit Card,Returned,john.smith@example.com
+ORD01147,2025-06-18,Rahul Verma,Jacket,Apparel,1.0,$122.93,West,UPI,Completed,rahul.verma@example.com
+ORD00495,2026-02-06,John Smith,Chair,Furniture,3.0,182.23,South,Cash,Cancelled,john.smith@example.com
+ORD00111,02/16/2025,Li Wei,Chair,Furniture,5.0,$156.87,North,Cash,Completed,li.wei@example.com
+ORD01109,2025-08-15,PRIYA NAIR,Jacket,Apparel,4.0,$130.42,South,CASH,COMPLETED,priya.nair@example.com
+ORD00514,04/09/2025,Priya Nair,Headphones,Electronics,1.0,105.65,West,Debit Card,Completed,
+ORD00692,2026-06-10,Emma Brown,Desk,Furniture,5.0,$339.29,North,Credit Card,Completed,emma.brown@example.com
+ORD00370,07/15/2026,li wei,Desk,Furniture,4.0,$336.78,South,Debit Card,Completed,li.wei@example.com
+ORD00794,27-Sep-2025,Priya Nair,Sneakers,Apparel,1.0,86.93,South,Cash,Completed,priya.nair@example.com
+ORD01099,05/05/2026,,Jacket,Apparel,1.0,$122.54,South,UPI,Completed,john.smith@example.com
+ORD00927,30-Jul-2025,Priya Nair,Phone,Electronics,2.0,698.86,East,Debit Card,Completed,priya.nair@example.com
+ORD00274,03/25/2026,Li Wei,Headphones,Electronics,5.0,100.14,East,credit card,Completed,li.wei@example.com
+ORD00397,02-Dec-2025,Sara Khan,Desk,Furniture,3.0,$297.08,East,credit card,COMPLETED,sara.khan@example.com
+ORD01179,08/27/2026,Sara Khan,Phone,Electronics,3.0,624.87,North,Credit Card,Completed,sara.khan@example.com
+ORD01117,13-Mar-2025,Omar Ali,Headphones,Electronics,2.0,117.94,South,UPI,Returned,omar.ali@example.com
+ORD01216,2025-05-15,,Phone,Electronics,1.0,$617.81,W.,Cash,COMPLETED,sara.khan@example.com
+ORD00798,24-Jul-2026,Priya Nair,Pen Pack,Stationery,2.0,$14.60,,Debit Card,Completed,priya.nair@example.com
+ORD01212,15-Apr-2025,Nina Patel,Notebook,Stationery,5.0,$7.65,east,credit card,Completed,nina.patel@example.com
+ORD01075,2025-10-21,Maria Garcia,Notebook,Stationery,2.0,7.52,S.,UPI,cancelled,maria.garcia@example.com
+ORD01063,2026-09-03,Omar Ali,Sneakers,Apparel,4.0,$77.35,North,Cash,Completed,omar.ali@example.com
+ORD00962,23-May-2025,Aarav Mehta,Desk,Furniture,4.0,314.86,South,UPI,Completed,aarav.mehta@example.com
+ORD00419,2025-06-29,LI WEI,Phone,Electronics,1.0,$588.53,East,Cash,Completed,li.wei@example.com
+ORD01233,2026-01-09,Nina Patel,Jacket,Apparel,1.0,$124.42,South,Cash,Done,nina.patel@example.com
+ORD00376,12/25/2025,Rahul Verma,Pen Pack,Stationery,3.0,14.83,,Cash,Completed,rahul.verma@example.com
+ORD00464,10/07/2025,Rahul Verma,Desk,Furniture,1.0,330.24,EAST,Cash,Completed,rahul.verma@example.com
+ORD00471,2026-06-22,  Aarav Mehta ,Phone,Electronics,3.0,674.58,WEST,UPI,Completed,aarav.mehta@example.com
+ORD01100,2025-08-12,Emma Brown,Laptop,Electronics,2.0,909.74,North,Debit Card,cancelled,
+ORD00560,11/08/2025,RAHUL VERMA,Jacket,Apparel,3.0,125.81,N.,UPI,COMPLETED,rahul.verma@example.com
+ORD00303,01/23/2025,,Laptop,Electronics,5.0,$891.34,South,Debit Card,Completed,emma.brown@example.com
+ORD00583,2025-05-01,EMMA BROWN,Headphones,Electronics,1.0,$108.04,North,Credit Card,Completed,emma.brown@example.com
+ORD01270,28-Dec-2025,Priya Nair,Pen Pack,Stationery,4.0,15.61,West,Cash,Completed,priya.nair@example.com
+ORD00799,05/27/2025,Omar Ali,Sneakers,Apparel,3.0,80.94,South,Credit Card,Completed,omar.ali@example.com
+ORD00012,08/18/2026,Emma Brown,Desk,Furniture,4.0,$328.80,S.,UPI,COMPLETED,emma.brown@example.com
+ORD01312,21-Aug-2026,sara khan,Phone,Electronics,-1.0,633.8,North,Cash,Completed,sara.khan@example.com
+ORD00539,04-Feb-2025,Sara Khan,Phone,Electronics,5.0,678.07,West,Debit Card,Completed,sara.khan@example.com
+ORD00628,2026-07-09,Omar Ali,Sneakers,Apparel,5.0,$75.87,East,Credit Card,Completed,omar.ali@example.com
+ORD00282,2025-04-03,Omar Ali,Pen Pack,Stationery,4.0,13.85,East,Debit Card,Completed,omar.ali@example.com
+ORD01278,05/01/2026,MARIA GARCIA,Sneakers,Apparel,5.0,,East,Debit Card,Completed,maria.garcia@example.com
+ORD00984,2026-02-10,John Smith,Pen Pack,Stationery,3.0,$15.66,West,Credit Card,cancelled,john.smith@example.com
+ORD01208,2025-05-03,Omar Ali,Jacket,Apparel,2.0,129.32,North,UPI,Returned,omar.ali@example.com
+ORD00224,2025-08-17,LI WEI,Headphones,Electronics,3.0,109.77,E.,Debit Card,Returned,li.wei@example.com
+ORD00673,2026-05-02,Li Wei,Jacket,Apparel,1.0,131.17,,Debit Card,Completed,li.wei@example.com
+ORD01244,13-Feb-2025,Maria Garcia,Jacket,Apparel,5.0,130.29,South,Cash,Returned,maria.garcia@example.com
+ORD00967,2026-01-03,emma brown,Phone,Electronics,3.0,712.1,South,Debit Card,Returned,emma.brown@example.com
+ORD01150,19-Jun-2025,Emma Brown,Notebook,Stationery,3.0,7.47,West,Cash,Completed,emma.brown@example.com
+ORD01094,07/18/2026,Priya Nair,Phone,Electronics,5.0,609.68,South ,CASH,Completed,priya.nair@example.com
+ORD00213,02/15/2025,emma brown,Notebook,Stationery,3.0,7.43,E.,Credit Card,Returned,
+ORD00995,09/17/2026,John Smith,Notebook,Stationery,3.0,7.77,West,credit card,Completed,john.smith@example.com
+ORD00581,14-May-2026,Emma Brown,Pen Pack,Stationery,5.0,13.91,North,CC,Completed,emma.brown@example.com
+ORD01046,24-Nov-2025,Maria Garcia,Phone,Electronics,5.0,$642.42,South,UPI,Completed,maria.garcia@example.com
+ORD00078,31-Jul-2026,John Smith,Chair,Furniture,5.0,$159.21,WEST,UPI,Completed,john.smith@example.com
+ORD00548,2025-07-27,Li Wei,Sneakers,Apparel,4.0,81.43,N.,UPI,Completed,li.wei@example.com
+ORD00287,08/10/2025,EMMA BROWN,Laptop,Electronics,4.0,$896.82,East,UPI,Returned,emma.brown@example.com
+ORD00749,2025-04-04,Rahul Verma,Headphones,Electronics,2.0,110.25,West,UPI,Completed,rahul.verma@example.com
+ORD00827,2026-05-23,Nina Patel,Phone,Electronics,5.0,705.07,North,Cash,Completed,nina.patel@example.com
+ORD00126,10/26/2025,Nina Patel,Headphones,Electronics,3.0,,East,Credit Card,cancelled,nina.patel@example.com
+ORD01253,2025-07-07,sara khan,Jacket,Apparel,4.0,110.08,North,Credit-Card,Completed,sara.khan@example.com
+ORD00758,01/17/2025,Sara Khan,Phone,Electronics,1.0,685.48,South,Credit Card,Completed,sara.khan@example.com
+ORD01067,07/14/2026,Priya Nair,Sneakers,Apparel,4.0,86.43,West,Cash,Completed,priya.nair@example.com
+ORD00577,2026-06-27,Priya Nair,Headphones,Electronics,2.0,$102.78,North,UPI,Completed,priya.nair@example.com
+ORD00622,01/08/2025,Priya Nair,Pen Pack,Stationery,1.0,15.21,North,credit card,Completed,priya.nair@example.com
+ORD00768,2026-03-11,John Smith,Chair,Furniture,1.0,$178.59,East,cash,Completed,john.smith@example.com
+ORD01230,06/18/2025,Li Wei,Desk,Furniture,3.0,295.51,East,Cash,Completed,li.wei@example.com
+ORD00696,2025-03-23,JOHN SMITH,Sneakers,Apparel,2.0,,south,credit card,Returned,john.smith@example.com
+ORD01031,2025-10-12,  Aarav Mehta ,Desk,Furniture,1.0,$302.60,east,Credit Card,Completed,aarav.mehta@example.com
+ORD01410,2026-06-02,Aarav Mehta,Headphones,Electronics,5.0,$112.52,South,Debit Card,Completed,aarav.mehta@example.com
+ORD00803,2025-01-25,Nina Patel,Desk,Furniture,2.0,$351.78,east,Debit Card,Completed,nina.patel@example.com
+ORD00845,05/21/2025,Maria Garcia,Jacket,Apparel,5.0,112.21,South,Debit Card,Returned,maria.garcia@example.com
+ORD01318,2025-03-23,,Pen Pack,Stationery,3.0,$14.86,South,UPI,Completed,nina.patel@example.com
+ORD01453,24-Jan-2025,Priya Nair,Desk,Furniture,3.0,$330.05,West,upi,Completed,priya.nair@example.com
+ORD01340,30-Jun-2025,Nina Patel,Laptop,Electronics,3.0,900.33,SOUTH,Credit Card,Done,
+ORD00260,09/10/2025,Sara Khan,Laptop,Electronics,,974.25,West,Credit Card,Completed,sara.khan@example.com
+ORD00283,07-May-2026,Omar Ali,Laptop,Electronics,3.0,$966.08,South,Cash,Completed,omar.ali@example.com
+ORD00635,09/19/2026,Aarav Mehta,Pen Pack,Stationery,4.0,14.05,East,UPI,Completed,aarav.mehta@example.com
+ORD01469,02/28/2026,  Li Wei ,Pen Pack,Stationery,3.0,15.97,EAST,Credit Card,Completed,li.wei@example.com
+ORD00475,05/15/2025,John Smith,Headphones,Electronics,1.0,105.27,North,UPI,completed,john.smith@example.com
+ORD00456,07/04/2025,Nina Patel,Chair,Furniture,1.0,169.3,W.,Credit Card,Completed,nina.patel@example.com
+ORD00321,28-Aug-2025,rahul verma,Notebook,Stationery,1.0,8.17,North,Cash,returned,rahul.verma@example.com
+ORD00435,06/01/2026,Aarav Mehta,Sneakers,Apparel,4.0,83.87,south,UPI,Cancelled,aarav.mehta@example.com
+ORD01437,2026-08-25,Nina Patel,Notebook,Stationery,4.0,8.1,East,Cash,Completed,nina.patel@example.com
+ORD00300,09-Jun-2025,RAHUL VERMA,Laptop,Electronics,3.0,$908.83,North,Credit Card,Completed,rahul.verma@example.com
+ORD00437,2025-03-22,MARIA GARCIA,Headphones,Electronics,4.0,$99.32,EAST,UPI,Completed,maria.garcia@example.com
+ORD01422,06/18/2025,  Emma Brown ,Jacket,Apparel,,108.21,North,UPI,Completed,emma.brown@example.com
+ORD00439,01-Oct-2025,  Maria Garcia ,Phone,Electronics,1.0,662.18,East,Credit-Card,Completed,maria.garcia@example.com
+ORD00326,23-Sep-2025,Nina Patel,Desk,Furniture,5.0,$332.78,S.,Credit Card,Completed,nina.patel@example.com
+ORD00404,28-Feb-2025,Nina Patel,Sneakers,Apparel,5.0,$86.89,North,Cash,Completed,nina.patel@example.com
+ORD01290,11-Apr-2025,  Priya Nair ,Headphones,Electronics,,111.76,South,Credit Card,Completed,priya.nair@example.com
+ORD00565,03/29/2026,Priya Nair,Sneakers,Apparel,2.0,$74.89,,Cash,Completed,priya.nair@example.com
+ORD00293,16-Jun-2026,Omar Ali,Desk,Furniture,5.0,290.07,East,Debit Card,Completed,omar.ali@example.com
+ORD00279,09/13/2026,Li Wei,Laptop,Electronics,1.0,870.98,SOUTH,UPI,Completed,li.wei@example.com
+ORD00656,04/28/2025,Li Wei,Sneakers,Apparel,4.0,79.82,South,Cash,Completed,li.wei@example.com
+ORD01358,2025-07-15,LI WEI,Laptop,Electronics,4.0,938.28,west,Debit Card,Completed,li.wei@example.com
+ORD00733,2026-01-05,Rahul Verma,Headphones,Electronics,5.0,119.55,West,Debit Card,Completed,rahul.verma@example.com
+ORD00554,10/15/2025,John Smith,Jacket,Apparel,4.0,$111.35,South,UPI,Completed,john.smith@example.com
+ORD00095,2026-07-25,Sara Khan,Phone,Electronics,3.0,$659.75,South,UPI,Completed,sara.khan@example.com
+ORD01473,2026-03-23,Nina Patel,Jacket,Apparel,1.0,129.17,West,Debit Card,Completed,nina.patel@example.com
+ORD01256,03/15/2026,Nina Patel,Desk,Furniture,5.0,350.82,South,Debit Card,cancelled,nina.patel@example.com
+ORD00246,2025-12-22,  Nina Patel ,Notebook,Stationery,3.0,7.35,North,upi,Done,nina.patel@example.com
+ORD00946,2026-02-05,Emma Brown,Notebook,Stationery,2.0,$8.26,North,Credit Card,Completed,
+ORD01192,2025-08-10,Aarav Mehta,Pen Pack,Stationery,5.0,14.6,West,Cash,cancelled,aarav.mehta@example.com
+ORD00776,04/03/2026,Aarav Mehta,Phone,Electronics,5.0,609.95,East,Credit Card,Completed,aarav.mehta@example.com
+ORD00427,2025-07-04,Emma Brown,Jacket,Apparel,3.0,$108.17,NORTH,Credit Card,Completed,emma.brown@example.com
+ORD01187,21-Apr-2025,Maria Garcia,Desk,Furniture,4.0,$342.81,North,CASH,Cancelled,maria.garcia@example.com
+ORD00150,07-Jul-2025,Maria Garcia,Notebook,Stationery,4.0,8.23,WEST,UPI,Completed,maria.garcia@example.com
+ORD00227,02/09/2026,john smith,Laptop,Electronics,4.0,840.07,N.,CASH,Completed,
+ORD00866,07/27/2025,John Smith,Laptop,Electronics,4.0,936.6,West,Debit Card,returned,john.smith@example.com
+ORD00968,04-Jan-2026,Emma Brown,Pen Pack,Stationery,1.0,14.56,N.,Debit Card,Completed,emma.brown@example.com
+ORD01119,2026-08-30,Nina Patel,Desk,Furniture,5.0,302.14,North,UPI,Completed,nina.patel@example.com
+ORD01246,10/06/2025,Priya Nair,Laptop,Electronics,5.0,917.79,South,UPI,Completed,priya.nair@example.com
+ORD00901,25-Apr-2025,EMMA BROWN,Headphones,Electronics,2.0,99.56,South,Debit Card,COMPLETED,emma.brown@example.com
+ORD00700,2025-05-08,  Priya Nair ,Phone,Electronics,4.0,620.83,East,upi,Completed,priya.nair@example.com
+ORD00602,2025-01-27,  Priya Nair ,Headphones,Electronics,1.0,$109.54,east,Credit Card,Returned,priya.nair@example.com
+ORD01292,01/06/2025,  Sara Khan ,Chair,Furniture,4.0,$181.52,East,Debit Card,Done,sara.khan@example.com
+ORD01059,26-Feb-2025,omar ali,Headphones,Electronics,2.0,$120.70,South,Credit Card,Completed,
+ORD00218,10/02/2026,rahul verma,Desk,Furniture,3.0,$340.88,West,Cash,COMPLETED,
+ORD01097,10-Mar-2026,Priya Nair,Desk,Furniture,3.0,296.5,North,Debit Card,Completed,priya.nair@example.com
+ORD00818,06/27/2026,  Li Wei ,Jacket,Apparel,4.0,123.25,,CASH,Completed,li.wei@example.com
+ORD00221,11-Sep-2026,RAHUL VERMA,Pen Pack,Stationery,,14.92,EAST,Debit Card,Completed,rahul.verma@example.com
+ORD00214,08/19/2025,aarav mehta,Chair,Furniture,4.0,$171.67,East,Debit Card,Completed,aarav.mehta@example.com
+ORD01122,04/21/2026,Sara Khan,Pen Pack,Stationery,4.0,15.15,S.,cash,Returned,sara.khan@example.com
+ORD00908,05/27/2025,OMAR ALI,Headphones,Electronics,2.0,115.31,West,UPI,Completed,omar.ali@example.com
+ORD00395,09/26/2025,Emma Brown,Notebook,Stationery,5.0,7.32,North,Debit Card,COMPLETED,emma.brown@example.com
+ORD00368,2025-04-09,sara khan,Chair,Furniture,3.0,179.74,West,Debit Card,Done,sara.khan@example.com
+ORD00925,16-Sep-2025,Rahul Verma,Sneakers,Apparel,1.0,$74.92,East,cash,Completed,rahul.verma@example.com
+ORD00013,17-Dec-2025,Nina Patel,Pen Pack,Stationery,3.0,$16.26,East,Credit Card,Completed,nina.patel@example.com
+ORD01438,2026-06-05,Li Wei,Chair,Furniture,2.0,$161.11,,Cash,completed,li.wei@example.com
+ORD01368,05/17/2025,Li Wei,Laptop,Electronics,1.0,849.8,east,Debit Card,Returned,li.wei@example.com
+ORD01223,12/27/2025,Li Wei,Desk,Furniture,5.0,346.48,EAST,UPI,Completed,li.wei@example.com
+ORD00235,11/30/2025,Rahul Verma,Headphones,Electronics,4.0,$104.06,,CASH,Completed,rahul.verma@example.com
+ORD00696,2025-03-23,JOHN SMITH,Sneakers,Apparel,2.0,,south,credit card,Completed,john.smith@example.com
+ORD01085,2026-04-13,Emma Brown,Sneakers,Apparel,5.0,81.37,East,Credit Card,Cancelled,emma.brown@example.com
+ORD01464,2025-12-31,Nina Patel,Notebook,Stationery,-1.0,$7.63,North,Cash,Completed,nina.patel@example.com
+ORD01384,2026-06-23,  Sara Khan ,Notebook,Stationery,3.0,$8.74,EAST,UPI,Done,sara.khan@example.com
+ORD01322,,Rahul Verma,Notebook,Stationery,4.0,$8.77,North,UPI,Returned,rahul.verma@example.com
+ORD00064,27-Jun-2025,emma brown,Chair,Furniture,2.0,$153.84,East,Credit Card,Completed,emma.brown@example.com
+ORD00735,2025-10-26,EMMA BROWN,Sneakers,Apparel,4.0,77.17,East,Credit-Card,Completed,emma.brown@example.com
+ORD01024,2025-10-15,Priya Nair,Notebook,Stationery,,7.39,south,UPI,Completed,priya.nair@example.com
+ORD00965,11/26/2025,nina patel,Sneakers,Apparel,4.0,$81.65,,Credit Card,Completed,nina.patel@example.com
+ORD00608,01/19/2025,Nina Patel,Sneakers,Apparel,3.0,$73.36,South ,CASH,Completed,nina.patel@example.com
+ORD00014,15-Feb-2025,Priya Nair,Pen Pack,Stationery,5.0,13.55,North,Credit Card,Completed,priya.nair@example.com
+ORD00840,2025-04-08,Omar Ali,Phone,Electronics,5.0,679.08,West,Credit Card,Completed,omar.ali@example.com
+ORD00436,2025-10-22,Priya Nair,Pen Pack,Stationery,2.0,16.23,South,Debit Card,Completed,priya.nair@example.com
+ORD00018,08/30/2026,Omar Ali,Pen Pack,Stationery,5.0,$16.22,North,UPI,Completed,omar.ali@example.com
+ORD00765,06/06/2025,Sara Khan,Headphones,Electronics,4.0,$109.48,East,Cash,Completed,sara.khan@example.com
+ORD00349,05/30/2026,Omar Ali,Chair,Furniture,3.0,$186.28,South,UPI,Completed,omar.ali@example.com
+ORD00208,07/27/2026,SARA KHAN,Chair,Furniture,1.0,157.77,East ,Debit Card,Completed,sara.khan@example.com
+ORD01115,2025-10-02,Omar Ali,Jacket,Apparel,2.0,127.8,West,UPI,Completed,omar.ali@example.com
+ORD01332,04/01/2026,SARA KHAN,Chair,Furniture,1.0,177.52,west,Cash,Cancelled,sara.khan@example.com
+ORD00342,12/18/2025,  Omar Ali ,Desk,Furniture,1.0,$311.27,North,Debit Card,Cancelled,omar.ali@example.com
+ORD00345,11/09/2025,John Smith,Jacket,Apparel,1.0,$130.51,South,UPI,Completed,john.smith@example.com
+ORD01399,02/19/2026,Emma Brown,Desk,Furniture,5.0,$313.10,South,Debit Card,Returned,emma.brown@example.com
+ORD01431,07/21/2026,  Aarav Mehta ,Headphones,Electronics,4.0,120.59,West,Cash,Completed,aarav.mehta@example.com
+ORD00552,11/18/2025,Sara Khan,Desk,Furniture,4.0,308.25,East,Credit Card,Completed,sara.khan@example.com
+ORD00599,2026-01-07,RAHUL VERMA,Sneakers,Apparel,3.0,$86.86,,Cash,Completed,rahul.verma@example.com
+ORD00033,06/08/2025,Omar Ali,Desk,Furniture,3.0,$323.57,North,Debit Card,Completed,
+ORD00373,2026-03-21,Aarav Mehta,Desk,Furniture,5.0,,east,Credit-Card,cancelled,aarav.mehta@example.com
+ORD00658,05-Jan-2026,Rahul Verma,Laptop,Electronics,1.0,835.78,West,UPI ,Completed,rahul.verma@example.com
+ORD00173,2026-10-02,Emma Brown,Jacket,Apparel,5.0,$119.26,NORTH,UPI ,Completed,emma.brown@example.com
+ORD01087,21-May-2026,Sara Khan,Desk,Furniture,3.0,318.19,West,UPI,Completed,sara.khan@example.com
+ORD01441,2025-01-11,Priya Nair,Notebook,Stationery,1.0,8.08,East,Debit Card,Cancelled,priya.nair@example.com
+ORD00409,2025-09-01,Nina Patel,Notebook,Stationery,3.0,$8.53,WEST,Cash,Completed,nina.patel@example.com
+ORD01051,2025-07-30,Rahul Verma,Chair,Furniture,1.0,162.42,South,upi,Completed,rahul.verma@example.com
+ORD01485,2026-04-03,Li Wei,Sneakers,Apparel,2.0,81.78,North,Debit Card,Completed,li.wei@example.com
+ORD00201,2025-04-23,,Laptop,Electronics,5.0,$868.23,south,CC,cancelled,
+ORD01317,17-Jul-2025,Maria Garcia,Sneakers,Apparel,2.0,72.26,South,UPI ,Completed,maria.garcia@example.com
+ORD00861,20-Feb-2026,john smith,Chair,Furniture,5.0,$162.62,EAST,credit card,Done,john.smith@example.com
+ORD01455,01/28/2025,Maria Garcia,Pen Pack,Stationery,1.0,$13.72,north,UPI,Completed,maria.garcia@example.com
+ORD01166,2026-01-11,john smith,Jacket,Apparel,4.0,122.64,North,Debit Card,Completed,john.smith@example.com
+ORD01433,02/15/2026,Nina Patel,Laptop,Electronics,,886.64,West,UPI,Completed,nina.patel@example.com
+ORD01468,08/05/2026,Priya Nair,Phone,Electronics,,$595.72,South,Credit Card,Cancelled,priya.nair@example.com
+ORD01362,2025-08-22,Rahul Verma,Laptop,Electronics,5.0,958.5,East ,UPI,Completed,rahul.verma@example.com
+ORD00490,2026-01-26,Emma Brown,Phone,Electronics,3.0,$686.77,EAST,Debit Card,Returned,emma.brown@example.com
+ORD01466,2025-03-20,Omar Ali,Pen Pack,Stationery,2.0,14.76,N.,Cash,Completed,omar.ali@example.com
+ORD00213,02/15/2025,emma brown,Notebook,Stationery,3.0,7.43,E.,Credit Card,Completed,
+ORD00134,02/09/2025,  Li Wei ,Notebook,Stationery,1.0,8.06,East,UPI,Cancelled,li.wei@example.com
+ORD00061,05/14/2026,EMMA BROWN,Headphones,Electronics,5.0,,east,Credit Card,Completed,emma.brown@example.com
+ORD00691,2025-06-02,Aarav Mehta,Laptop,Electronics,2.0,$848.24,East,CASH,Completed,aarav.mehta@example.com
+ORD00027,2026-09-29,Rahul Verma,Jacket,Apparel,3.0,$119.87,South,Cash,Completed,rahul.verma@example.com
+ORD00101,02/27/2025,Sara Khan,Jacket,Apparel,4.0,$126.26,West,UPI,Completed,sara.khan@example.com
+ORD00975,2025-01-16,Rahul Verma,Laptop,Electronics,1.0,971.09,SOUTH,credit card,Completed,rahul.verma@example.com
+ORD00777,10/13/2025,aarav mehta,Notebook,Stationery,5.0,$8.53,SOUTH,Credit Card,Completed,not-an-email
+ORD00789,2025-05-17,MARIA GARCIA,Pen Pack,Stationery,,$14.75,West,UPI,Completed,maria.garcia@example.com
+ORD00521,2025-06-03,maria garcia,Jacket,Apparel,4.0,$110.71,SOUTH,UPI,Completed,maria.garcia@example.com
+ORD00364,25-Apr-2026,Aarav Mehta,Sneakers,Apparel,5.0,75.13,West,Cash,Completed,not-an-email
+ORD00310,23-Jan-2026,Li Wei,Phone,Electronics,1.0,$673.44,South,Cash,Cancelled,
+ORD00796,03/27/2025,maria garcia,Notebook,Stationery,2.0,$7.33,East,UPI ,Completed,maria.garcia@example.com
+ORD00829,04/06/2025,Rahul Verma,Desk,Furniture,-1.0,301.28,West,UPI ,Completed,rahul.verma@example.com
+ORD01277,27-Mar-2026,aarav mehta,Jacket,Apparel,3.0,108.52,South,Debit Card,Completed,aarav.mehta@example.com
+ORD00545,26-Feb-2025,Sara Khan,Laptop,Electronics,5.0,$902.41,South,Debit Card,Completed,sara.khan@example.com
+ORD00940,12-Jan-2025,Li Wei,Headphones,Electronics,1.0,,West,UPI,COMPLETED,not-an-email
+ORD00442,2026-09-27,John Smith,Pen Pack,Stationery,5.0,14.34,South,CC,Completed,john.smith@example.com
+ORD00648,08/04/2025,PRIYA NAIR,Phone,Electronics,1.0,$708.43,South,Credit Card,Completed,priya.nair@example.com
+ORD01004,11/02/2025,Omar Ali,Laptop,Electronics,,971.86,North,Cash,Completed,omar.ali@example.com
+ORD00477,06/07/2026,Nina Patel,Pen Pack,Stationery,3.0,,South,CC,Completed,nina.patel@example.com
+ORD01047,07/03/2026,Emma Brown,Jacket,Apparel,4.0,$114.02,east,Cash,Completed,emma.brown@example.com
+ORD00063,2026-03-15,Emma Brown,Chair,Furniture,5.0,$154.08,South,upi,Completed,emma.brown@example.com
+ORD01173,04/21/2025,Emma Brown,Sneakers,Apparel,5.0,$79.73,North,Credit Card,COMPLETED,emma.brown@example.com
+ORD00484,21-May-2025,,Desk,Furniture,3.0,,North,UPI,Returned,aarav.mehta@example.com
+ORD01027,2025-11-13,Maria Garcia,Sneakers,Apparel,2.0,73.98,East,Debit Card,Returned,maria.garcia@example.com
+ORD01282,27-Mar-2025,Omar Ali,Headphones,Electronics,3.0,114.16,South,Debit Card,COMPLETED,omar.ali@example.com
+ORD00053,2026-04-07,  Nina Patel ,Sneakers,Apparel,2.0,$78.50,West,UPI,Completed,nina.patel@example.com
+ORD00243,02/13/2026,Nina Patel,Sneakers,Apparel,3.0,$81.33,East,Debit Card,returned,
+ORD01198,10/11/2025,,Sneakers,Apparel,1.0,74.2,North,UPI,Completed,maria.garcia@example.com
+ORD00036,24-Nov-2025,rahul verma,Sneakers,Apparel,5.0,$79.90,South,UPI,Completed,rahul.verma@example.com
+ORD01203,07/30/2026,john smith,Headphones,Electronics,5.0,101.86,EAST,Credit Card,Completed,john.smith@example.com
+ORD00739,07-Sep-2026,  Nina Patel ,Sneakers,Apparel,2.0,81.75,East,Debit Card,Cancelled,nina.patel@example.com
+ORD00121,16-Nov-2025,  Aarav Mehta ,Pen Pack,Stationery,1.0,14.35,North,Cash,Completed,
+ORD01497,02/10/2025,PRIYA NAIR,Notebook,Stationery,4.0,8.23,East,CC,Completed,priya.nair@example.com
+ORD01300,2025-07-04,Emma Brown,Notebook,Stationery,4.0,7.53,East,Debit Card,Completed,emma.brown@example.com
+ORD01020,2025-08-01,Emma Brown,Jacket,Apparel,1.0,116.96,East,Credit Card,Completed,emma.brown@example.com
+ORD00045,2025-07-17,Maria Garcia,Headphones,Electronics,1.0,$120.72,South,CASH,Completed,maria.garcia@example.com
+ORD01325,05/02/2026,Priya Nair,Headphones,Electronics,1.0,106.42,West,Debit Card,Completed,priya.nair@example.com
+ORD00837,2026-01-10,Li Wei,Notebook,Stationery,1.0,$8.27,East,Cash,Completed,not-an-email
+ORD00077,2025-12-27,Omar Ali,Sneakers,Apparel,2.0,,NORTH,UPI,Completed,omar.ali@example.com
+ORD00369,20-Mar-2026,Aarav Mehta,Desk,Furniture,5.0,344.21,South ,Credit Card,Completed,aarav.mehta@example.com
+ORD00907,03/21/2025,Rahul Verma,Phone,Electronics,3.0,610.23,NORTH,Debit Card,Completed,rahul.verma@example.com
+ORD01237,22-Sep-2025,Rahul Verma,Laptop,Electronics,4.0,952.2,South,Credit Card,Completed,rahul.verma@example.com
+ORD00268,12/26/2025,Sara Khan,Pen Pack,Stationery,4.0,$13.94,East,Debit Card,Completed,sara.khan@example.com
+ORD01336,2025-09-18,Aarav Mehta,Notebook,Stationery,4.0,8.6,East,Debit Card,Cancelled,aarav.mehta@example.com
+ORD00729,01/01/2025,Li Wei,Chair,Furniture,1.0,$165.20,North,Credit Card,Completed,li.wei@example.com
+ORD00445,2026-08-18,Rahul Verma,Phone,Electronics,1.0,$707.89,South,Debit Card,Done,rahul.verma@example.com
+ORD00504,2026-07-22,  Omar Ali ,Laptop,Electronics,4.0,895.47,West,Debit Card,Completed,omar.ali@example.com
+ORD01058,07/25/2025,Aarav Mehta,Chair,Furniture,1.0,164.82,North ,Credit Card,Completed,aarav.mehta@example.com
+ORD01034,06-Mar-2026,JOHN SMITH,Headphones,Electronics,1.0,$119.89,East,Cash,Completed,john.smith@example.com
+ORD01185,2025-12-02,Emma Brown,Phone,Electronics,3.0,,EAST,Debit Card,Completed,emma.brown@example.com
+ORD00286,2025-02-01,Priya Nair,Headphones,Electronics,5.0,$106.32,west,Credit Card,Returned,priya.nair@example.com
+ORD00296,06/21/2025,Nina Patel,Phone,Electronics,2.0,$598.63,West,Debit Card,Completed,nina.patel@example.com
+ORD00626,12/06/2025,Priya Nair,Sneakers,Apparel,3.0,76.51,E.,Cash,Done,priya.nair@example.com
+ORD00278,2026-06-01,Nina Patel,Sneakers,Apparel,4.0,79.55,north,Credit Card,Completed,nina.patel@example.com
+ORD01486,2025-04-20,Li Wei,Headphones,Electronics,4.0,$112.00,N.,UPI,Completed,li.wei@example.com
+ORD00485,19-Jun-2026,Nina Patel,Laptop,Electronics,4.0,828.66,WEST,Credit-Card,Cancelled,nina.patel@example.com
+ORD00183,04/19/2025,maria garcia,Sneakers,Apparel,3.0,77.09,East,Cash,Completed,
+ORD00971,2026-03-19,Nina Patel,Pen Pack,Stationery,5.0,16.43,West,Cash,Completed,nina.patel@example.com
+ORD01300,2025-07-04,Emma Brown,Notebook,Stationery,4.0,7.53,East,Debit Card,Completed,emma.brown@example.com
+ORD00685,03/27/2025,Rahul Verma,Desk,Furniture,3.0,312.66,East,Credit Card,Completed,rahul.verma@example.com
+ORD00406,2026-02-01,Rahul Verma,Desk,Furniture,3.0,294.65,East,CC,COMPLETED,rahul.verma@example.com
+ORD00037,26-Aug-2026,Omar Ali,Sneakers,Apparel,2.0,$84.32,South,Debit Card,Completed,omar.ali@example.com
+ORD01181,11-Jun-2025,NINA PATEL,Notebook,Stationery,4.0,7.31,East,Credit Card,Completed,nina.patel@example.com
+ORD00003,05/26/2026,Omar Ali,Phone,Electronics,5.0,$703.96,south,UPI,Completed,omar.ali@example.com
+ORD00755,2026-04-07,Li Wei,Headphones,Electronics,2.0,$103.63,West,upi,returned,li.wei@example.com
+ORD00509,2026-08-18,  John Smith ,Notebook,Stationery,2.0,8.52,East,credit card,Completed,john.smith@example.com
+ORD00498,2026-07-14,Rahul Verma,Jacket,Apparel,2.0,118.44,East,upi,Completed,rahul.verma@example.com
+ORD00309,12/09/2025,Omar Ali,Notebook,Stationery,4.0,7.96,East,UPI,cancelled,omar.ali@example.com
+ORD01314,06/16/2025,SARA KHAN,Laptop,Electronics,4.0,$889.10,West,UPI,Completed,sara.khan@example.com
+ORD01439,2025-01-09,Priya Nair,Chair,Furniture,5.0,$160.07,EAST,Debit Card,Returned,priya.nair@example.com
+ORD01446,18-Feb-2025,Li Wei,Phone,Electronics,5.0,586.64,West ,CASH,Completed,li.wei@example.com
+ORD00142,31-May-2026,maria garcia,Notebook,Stationery,4.0,$7.98,North ,Credit Card,Completed,maria.garcia@example.com
+ORD01248,2025-08-21,John Smith,Jacket,Apparel,5.0,124.96,East,Cash,Completed,john.smith@example.com
+ORD00865,2026-08-08,Sara Khan,Jacket,Apparel,3.0,109.0,East,credit card,Returned,sara.khan@example.com
+ORD00184,06/25/2026,John Smith,Jacket,Apparel,3.0,$108.80,North,Credit Card,Cancelled,john.smith@example.com
+ORD01115,2025-10-02,Omar Ali,Jacket,Apparel,2.0,127.8,West,UPI,Completed,omar.ali@example.com
+ORD01011,07/17/2025,Rahul Verma,Desk,Furniture,2.0,$322.16,West,Credit Card,Completed,rahul.verma@example.com
+ORD00913,2025-05-05,Emma Brown,Notebook,Stationery,4.0,8.15,WEST,Credit Card,Completed,emma.brown@example.com
+ORD00849,06/08/2026,Sara Khan,Laptop,Electronics,3.0,966.74,East,UPI,Returned,sara.khan@example.com
+ORD00512,22-Aug-2025,nina patel,Sneakers,Apparel,2.0,86.5,West ,Debit Card,returned,nina.patel@example.com
+ORD00732,20-Jan-2025,Priya Nair,Chair,Furniture,1.0,$159.47,North,UPI,Completed,priya.nair@example.com
+ORD00997,21-Mar-2026,Emma Brown,Pen Pack,Stationery,4.0,14.89,,UPI,Completed,emma.brown@example.com
+ORD00888,16-Jan-2026,Sara Khan,Desk,Furniture,3.0,$344.61,South,Credit Card,Completed,sara.khan@example.com
+ORD00118,27-Feb-2025,RAHUL VERMA,Chair,Furniture,1.0,157.87,East,UPI,Completed,rahul.verma@example.com
+ORD01026,12-Apr-2025,,Pen Pack,Stationery,5.0,$14.38,WEST,UPI ,Completed,omar.ali@example.com
+ORD00114,17-Jul-2025,  Li Wei ,Desk,Furniture,,351.1,South,Credit Card,Completed,li.wei@example.com
+ORD00546,04/07/2026,Emma Brown,Notebook,Stationery,4.0,8.67,east,Cash,Completed,emma.brown@example.com
+ORD00166,08/26/2026,Priya Nair,Desk,Furniture,4.0,$348.55,West,Cash,returned,
+ORD00185,2025-07-13,Nina Patel,Sneakers,Apparel,5.0,$79.58,East,Debit Card,Completed,nina.patel@example.com
+ORD01397,13-Nov-2025,Aarav Mehta,Headphones,Electronics,5.0,109.32,East,Debit Card,Completed,aarav.mehta@example.com
+ORD00275,06/14/2026,sara khan,Desk,Furniture,2.0,349.69,east,Credit Card,Completed,sara.khan@example.com
+ORD01002,06/08/2025,Sara Khan,Jacket,Apparel,3.0,$113.27,South,UPI ,Completed,sara.khan@example.com
+ORD00705,11-Feb-2025,  Sara Khan ,Desk,Furniture,2.0,$312.89,east,Credit-Card,Completed,sara.khan@example.com
+ORD01025,08/06/2026,Nina Patel,Sneakers,Apparel,1.0,$72.84,North,UPI,Completed,nina.patel@example.com
+ORD00384,2025-02-10,sara khan,Desk,Furniture,2.0,317.69,West,UPI,Completed,sara.khan@example.com
+ORD01430,22-May-2025,John Smith,Headphones,Electronics,4.0,116.77,,Debit Card,Completed,john.smith@example.com
+ORD00562,13-Apr-2025,Priya Nair,Headphones,Electronics,4.0,$114.83,East,CC,Completed,priya.nair@example.com
+ORD00863,2025-06-17,Maria Garcia,Jacket,Apparel,3.0,$116.28,West,Debit Card,Completed,maria.garcia@example.com
+ORD01045,2025-04-22,  Li Wei ,Pen Pack,Stationery,5.0,14.18,EAST,UPI,Completed,li.wei@example.com
+ORD00177,2025-03-10,,Phone,Electronics,3.0,$631.39,East,Debit Card,cancelled,nina.patel@example.com
+ORD01360,04-Sep-2026,OMAR ALI,Headphones,Electronics,4.0,113.42,South,Debit Card,Completed,omar.ali@example.com
+ORD00380,14-Oct-2025,John Smith,Jacket,Apparel,3.0,129.24,East,UPI,Completed,john.smith@example.com
+ORD01196,18-Apr-2025,Emma Brown,Phone,Electronics,5.0,625.47,East,Credit-Card,Completed,emma.brown@example.com
+ORD01017,06-Mar-2025,Sara Khan,Pen Pack,Stationery,3.0,$15.44,S.,UPI,cancelled,sara.khan@example.com
+ORD00520,2026-03-01,Rahul Verma,Headphones,Electronics,1.0,120.55,West,Cash,Completed,rahul.verma@example.com
+ORD00831,08-Oct-2025,NINA PATEL,Chair,Furniture,1.0,$175.86,South,Cash,Completed,nina.patel@example.com
+ORD00508,09/18/2025,John Smith,Notebook,Stationery,1.0,8.13,NORTH,Cash,Returned,john.smith@example.com
+ORD01177,04/05/2026,Maria Garcia,Sneakers,Apparel,1.0,76.54,EAST,Credit Card,Completed,
+ORD00414,03/30/2025,Emma Brown,Jacket,Apparel,2.0,123.98,West,UPI,COMPLETED,emma.brown@example.com
+ORD00623,09/22/2026,Sara Khan,Sneakers,Apparel,4.0,,South,Cash,Completed,sara.khan@example.com
+ORD00873,2025-03-09,  Aarav Mehta ,Phone,Electronics,4.0,$675.60,South ,Debit Card,Completed,
+ORD00859,2025-11-07,Li Wei,Jacket,Apparel,3.0,114.92,north,Debit Card,Cancelled,li.wei@example.com
+ORD00642,2025-02-13,Nina Patel,Chair,Furniture,3.0,$167.15,,Debit Card,Completed,nina.patel@example.com
+ORD01341,06/25/2025,Priya Nair,Laptop,Electronics,2.0,810.34,South,Credit-Card,Completed,priya.nair@example.com
+ORD00259,2026-08-05,Li Wei,Notebook,Stationery,4.0,$7.63,East ,Credit-Card,Completed,li.wei@example.com
+ORD00835,18-Jan-2026,Nina Patel,Headphones,Electronics,1.0,$111.14,East,UPI,Completed,nina.patel@example.com
+ORD00663,2025-07-24,Li Wei,Jacket,Apparel,2.0,118.52,North,Credit Card,Completed,li.wei@example.com
+ORD01499,05/04/2025,Emma Brown,Sneakers,Apparel,4.0,74.65,SOUTH,Credit Card,Cancelled,emma.brown@example.com
+ORD00338,2025-03-03,Maria Garcia,Desk,Furniture,2.0,344.91,South,Debit Card,Completed,maria.garcia@example.com
+ORD00350,2026-05-17,RAHUL VERMA,Phone,Electronics,1.0,603.15,North,Credit Card,Completed,rahul.verma@example.com
+ORD00399,2025-11-19,sara khan,Desk,Furniture,2.0,322.4,South ,Debit Card,Completed,sara.khan@example.com
+ORD01448,03/07/2026,Maria Garcia,Sneakers,Apparel,5.0,$75.67,South,Debit Card,Completed,maria.garcia@example.com
+ORD00606,07-Jun-2025,Li Wei,Headphones,Electronics,4.0,101.47,North,Cash,Done,li.wei@example.com
+ORD00481,25-Apr-2026,Emma Brown,Phone,Electronics,,626.88,W.,Credit Card,Completed,emma.brown@example.com
+ORD01447,22-Mar-2025,  Maria Garcia ,Headphones,Electronics,2.0,120.99,South,Credit Card,Completed,maria.garcia@example.com
+ORD01144,2025-11-17,,Desk,Furniture,3.0,$335.80,E.,Credit Card,Completed,maria.garcia@example.com
+ORD00918,2025-06-18,Li Wei,Chair,Furniture,5.0,$159.24,South,UPI,completed,li.wei@example.com
+ORD01018,2026-08-01,John Smith,Laptop,Electronics,3.0,$879.59,East,Debit Card,Completed,
+ORD00876,2025-11-01,Li Wei,Notebook,Stationery,4.0,8.29,East,Cash,Completed,li.wei@example.com
+ORD00660,2025-01-02,Nina Patel,Phone,Electronics,3.0,605.52,East,Credit Card,Completed,nina.patel@example.com
+ORD01022,09/20/2026,John Smith,Sneakers,Apparel,,$76.50,South,Cash,Completed,john.smith@example.com
+ORD00790,2026-07-28,  Maria Garcia ,Desk,Furniture,1.0,$305.92,South,Debit Card,Completed,maria.garcia@example.com
+ORD00257,2025-05-24,Omar Ali,Laptop,Electronics,2.0,853.61,South,UPI,completed,omar.ali@example.com
+ORD00969,08/30/2025,omar ali,Notebook,Stationery,5.0,$8.69,W.,Credit Card,COMPLETED,
+ORD00953,03-Oct-2025,RAHUL VERMA,Headphones,Electronics,3.0,110.43,North,upi,Completed,rahul.verma@example.com
+ORD01274,2026-09-18,Emma Brown,Desk,Furniture,1.0,$307.73,North,CC,Completed,emma.brown@example.com
